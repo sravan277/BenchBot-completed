@@ -50,7 +50,7 @@ cd backend
 2. Create a virtual environment:
 ```bash
 python -m venv venv
-Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 3. Install dependencies:
