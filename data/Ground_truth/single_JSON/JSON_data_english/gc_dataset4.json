@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What was the most significant contributor by value to private equity deal activity in 2019?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            1381,
+            1494
+          ]
+        ],
+        "snippet": "Platform deals through infrastructure investment trusts also contributed significantly by value to deal activity."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is a key challenge that continues to affect the timeline for implementing schemes of arrangement under the Companies Act?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            3189,
+            3339
+          ]
+        ],
+        "snippet": "One of the key challenges in implementing schemes of arrangement remains the timing uncertainty owing to delays involved in the NCLT approval process."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "How is foreign investment classified depending on the percentage of shares acquired in a listed company?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            4426,
+            4730
+          ]
+        ],
+        "snippet": "Investment of less than 10 per cent in the shares of a listed company by a SEBI-registered investor is treated as foreign portfolio investment (FPI), while foreign investment in an unlisted company or in 10 per cent or more of the shares of a listed company is treated as foreign direct investment (FDI)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How do the foreign exchange pricing guidelines differ for a transfer of equity instruments between two non-resident entities?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            6920,
+            7034
+          ]
+        ],
+        "snippet": "These pricing guidelines are not applicable to a transfer of equity instruments between two non-resident entities."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What has become increasingly important for tax considerations since the general anti-avoidance rules became operational in India?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            9012,
+            9312
+          ]
+        ],
+        "snippet": "Since the general anti-avoidance rules became operational in India effective April 2017, substance-based parameters have become increasingly important as tax authorities seek to deny tax benefits arising from ‘impermissible avoidance arrangements’ that, among other things, lack commercial substance."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What is the consequence for combinations that are likely to cause an 'appreciable adverse effect on competition' in India?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            10317,
+            10446
+          ]
+        ],
+        "snippet": "Combinations that cause (or are likely to cause) an ‘appreciable adverse effect on competition’ in India are void and prohibited."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "How does the \"green channel\" introduced by the Competition Commission of India work?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            11199,
+            11601
+          ]
+        ],
+        "snippet": "The CCI has recently introduced a green channel or deemed approval process for transactions between parties that do not have any horizontal, vertical or complementary business overlaps in India (which would therefore be unlikely to cause an ‘appreciable adverse effect on competition’) – such deemed approval becomes effective upon submission to, and acknowledgement by, the CCI of a short-form filing."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What is the definition of \"control\" under the SEBI regulations?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            12475,
+            12712
+          ]
+        ],
+        "snippet": "The SEBI regulations define control to include both de jure control by way of entitlement to exercise 25 per cent or more of the voting rights in a listed company and de facto control through control over management and policy decisions."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What obligation does the acquisition of control over a listed company trigger under the Takeover Regulations?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            14840,
+            15093
+          ]
+        ],
+        "snippet": "Under the Takeover Regulations, a person acquiring control over a listed company is required to provide an exit opportunity to the public shareholders by offering to additionally acquire at least 26 per cent of the shares of such company through an MTO."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What is the minimum public float that every listed company in India is required to maintain?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            19007,
+            19099
+          ]
+        ],
+        "snippet": "Every listed company in India is required to maintain a minimum public float of 25 per cent."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "What are investors and insiders required to be mindful of during management discussions or due diligence of a listed company?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            20837,
+            21142
+          ]
+        ],
+        "snippet": "Investors and insiders (including promoters and management) have to be equally mindful about inadvertent communication of UPSI during management discussions and/or the due diligence exercise and subsequent trading in securities when in possession of UPSI in the absence of appropriate checks and balances."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "In transactions involving foreign buyers, what is the maximum portion of the purchase consideration that can be deferred without prior RBI approval?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            24706,
+            24918
+          ]
+        ],
+        "snippet": "In transactions involving foreign buyers, up to 25 per cent of the purchase consideration can be held back for a period of up to 18 months from the date of the share purchase agreement without prior RBI approval."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "Why has Warranty and Indemnity (W&I) insurance gained traction in India?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            28195,
+            28443
+          ]
+        ],
+        "snippet": "W&I insurance is perhaps more relevant in the Indian context given the chequered history of Indian promoters in honouring their indemnity obligations and the requirement of RBI approval for indemnity payouts by an Indian resident to a non-resident."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "For an offer for sale in an IPO, what is the holding period requirement for the equity shares being sold?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            31030,
+            31291
+          ]
+        ],
+        "snippet": "In order to be eligible to be offered for sale in an IPO, subject to certain exceptions, the equity shares should have been held by the selling shareholder for a period of at least one year prior to the date of filing of the draft red herring prospectus (DRHP)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "What are the restrictions on enforcing a put option over the shares of an Indian company?",
+    "document_description": "Key Challenges in Indian M&A and Exits",
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            39060,
+            39273
+          ]
+        ],
+        "snippet": "Put options over shares of an Indian company are enforceable, subject to satisfaction of certain conditions including that the seller must have held the relevant securities for at least one year prior to the sale."
+      }
+    ]
+  }
+]

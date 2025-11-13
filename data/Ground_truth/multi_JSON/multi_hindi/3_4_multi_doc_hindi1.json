@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "भारत में विलय और अधिग्रहण (M&A) के माहौल का वर्णन कैसे किया गया है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            128,
+            249
+          ]
+        ],
+        "snippet": "वैश्विक कंपनियों के लिए भारत के बाजार के महत्व को देखते हुए, भारत में M&A लेनदेन आने वाले वर्षों में बढ़ने की संभावना है।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            454,
+            617
+          ]
+        ],
+        "snippet": "जब इसे UNCTAD के अनुसार 2019 में स्थिर रहने वाले वैश्विक प्रत्यक्ष विदेशी निवेश के डेटा से तुलना की जाती है, तो स्पष्ट होता है कि भारत में M&A माहौल फल-फूल रहा है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "सूचीबद्ध कंपनियों से जुड़े M&A लेनदेन में भारतीय प्रतिभूति एवं विनिमय बोर्ड (सेबी) के नियमों की क्या भूमिका है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            2448,
+            2552
+          ]
+        ],
+        "snippet": "यदि प्रस्तावित विलय की किसी भी पार्टी एक सूचीबद्ध कंपनी है, तो लागू सेबी नियमों का पालन किया जाना चाहिए।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            9794,
+            10133
+          ]
+        ],
+        "snippet": "अतिरिक्त सूचीबद्ध कंपनी विचार उपर्युक्त उल्लिखित मामलों के अलावा, जहाँ विदेशी निवेश सूचीबद्ध securities में प्रस्तावित किया जा रहा है, वहाँ SEBI द्वारा जारी नियम और विनियम (जो उन संस्थाओं को नियमन करता है जिनके securities किसी मान्यता प्राप्त भारतीय स्टॉक एक्सचेंज पर सूचीबद्ध हैं या सूचीबद्ध होने वाले हैं) को भी ध्यान में रखना आवश्यक है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "दिवाला और दिवालियापन संहिता (IBC) के तहत अधिग्रहण की प्रक्रिया और उसके परिणाम क्या हैं?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            12758,
+            13104
+          ]
+        ],
+        "snippet": "आईबीसी के तहत किसी कंपनी (कॉरपोरेट देनदार) का अधिग्रहण प्रक्रिया संभावित खरीदार (रिज़ॉल्यूशन आवेदक) द्वारा रिज़ॉल्यूशन पेशेवर को अधिग्रहण प्रस्तावित करने वाले एक रिज़ॉल्यूशन योजना को प्रस्तुत करने से शुरू होती है, इसके बाद कॉरपोरेट देनदार के ऋणदाताओं के समिति द्वारा उस योजना की स्वीकृति और अंत में एनसीएलटी द्वारा योजना को अनुमोदित किया जाता है।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            14395,
+            14549
+          ]
+        ],
+        "snippet": "एक बार जब रेज़ॉल्यूशन प्लान एनसीएलटी द्वारा अनुमोदित हो जाता है, तो यह सभी शामिल पक्षों के लिए बाध्यकारी हो जाता है और सफल आवेदक द्वारा लागू किया जाता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "विदेशी निवेश के संदर्भ में NDI नियमों के तहत मूल्य निर्धारण दिशानिर्देशों का क्या प्रावधान है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            10492,
+            10701
+          ]
+        ],
+        "snippet": "परिणामी भारतीय कंपनी को मूल्यनिर्धारण दिशानिर्देशों, एंट्री रूट्स और सेक्टोरल कैप्स के अनुसार, NDI नियमों के तहत, भारत के बाहर रहने वाले गैर-निवासी को कोई भी सुरक्षा जारी करने या स्थानांतरित करने की अनुमति है।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            6944,
+            7143
+          ]
+        ],
+        "snippet": "एक वर्ष की न्यूनतम लॉक‑इन अवधि समाप्त होने पर ही इन इक्विटी उपकरणों को स्थानांतरित कर सकता है। आगे, इन इक्विटी उपकरणों का स्थानांतरण NDI नियमों में निर्धारित मूल्य निर्धारण दिशानिर्देशों के अधीन होगा"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "सेबी के टेकओवर विनियम किन पर लागू होते हैं?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            3427,
+            3592
+          ]
+        ],
+        "snippet": "टेकओवर नियम भारत में सूचीबद्ध कंपनी के शेयरों, वोटिंग अधिकारों या नियंत्रण के सभी सीधे और परोक्ष अधिग्रहणों पर लागू होते हैं, सिवाय उन कंपनियों के जो सूचीबद्ध हैं..."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            10422,
+            10685
+          ]
+        ],
+        "snippet": "सेबी (शेयरों का पर्याप्त अधिग्रहण और टेकओवर) नियम 2011 (टेकओवर विनियम) उन सभी प्रत्यक्ष या अप्रत्यक्ष पर्याप्त वोटिंग अधिकारों या किसी कंपनी पर नियंत्रण के अधिग्रहण पर लागू होते हैं, जिसकी प्रतिभूतियां भारत के किसी मान्यता प्राप्त स्टॉक एक्सचेंज में सूचीबद्ध हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "विशिष्ट क्षेत्रों में अधिग्रहण या निवेश के लिए क्या शर्तें लागू हो सकती हैं?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            13968,
+            14176
+          ]
+        ],
+        "snippet": "बीमा कंपनियों के लिए क्षेत्र-विशिष्ट नियम अधिग्रहणकर्ता द्वारा खरीदे जा रहे शेयरहोल्डिंग के प्रतिशत के आधार पर सक्रिय होते हैं, और कुछ लॉक-इन आवश्यकताएँ, समय-समय पर पूँजी का इन्फ्यूज़न आदि निर्धारित करते हैं।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            3030,
+            3217
+          ]
+        ],
+        "snippet": "इसके अतिरिक्त, एनडीआई नियमों में एफडीआई-से जुड़ी प्रदर्शन शर्तें (उदाहरण के लिए, न्यूनतम पूंजीकरण आवश्यकता) भी शामिल हैं, जिन्हें निर्दिष्ट क्षेत्र में निवेश करते समय पालन करना आवश्यक है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "M&A सौदों में इक्विटी उपकरणों के लिए 'लॉक-इन' अवधि के संबंध में क्या प्रावधान हैं?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            4593,
+            4851
+          ]
+        ],
+        "snippet": "प्राथमिकता के आधार पर आवंटित विशिष्ट प्रतिभूतियों और उन वारंट्स से जुड़े विकल्पों के प्रयोग के माध्यम से आवंटित इक्विटी शेयरों को, जो प्राथमिकता के आधार पर जारी किए गए हैं, ICDR नियमों के तहत निर्धारित एक से तीन वर्ष की अवधि के लॉक‑इन के अंतर्गत रखा जाता है।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            6713,
+            7038
+          ]
+        ],
+        "snippet": "NDI नियम यह प्रदान करते हैं कि भारत के बाहर निवासी कोई व्यक्ति जो किसी भारतीय कंपनी में इक्विटी उपकरण रखता है, और ये इक्विटी उपकरण पुट विकल्प या कॉल विकल्प अधिकारों के अधीन हैं, वह केवल संबंधित विकल्प अधिकार का प्रयोग करने के बाद, एक वर्ष की न्यूनतम लॉक‑इन अवधि समाप्त होने पर ही इन इक्विटी उपकरणों को स्थानांतरित कर सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "विलय और अधिग्रहण की प्रक्रिया में राष्ट्रीय कंपनी कानून न्यायाधिकरण (NCLT) की अनुमोदन भूमिका क्या है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            1686,
+            1739
+          ]
+        ],
+        "snippet": "किसी भी विलयन की अंतिम स्वीकृति NCLT द्वारा दी जाएगी।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            14395,
+            14549
+          ]
+        ],
+        "snippet": "एक बार जब रेज़ॉल्यूशन प्लान एनसीएलटी द्वारा अनुमोदित हो जाता है, तो यह सभी शामिल पक्षों के लिए बाध्यकारी हो जाता है और सफल आवेदक द्वारा लागू किया जाता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "विदेशी निवेश के लिए 'स्वचालित मार्ग' के तहत क्या अनुमति है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            9732,
+            9804
+          ]
+        ],
+        "snippet": "ई‑कॉमर्स: मार्केटप्लेस मॉडल में स्वचालित मार्ग के माध्यम से 100 प्रतिशत;"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            3449,
+            3664
+          ]
+        ],
+        "snippet": "यदि कोई विशेष क्षेत्र प्रतिबंधित क्षेत्रों, निर्दिष्ट क्षेत्रों की सूची में नहीं है या अन्यथा एनडीआई नियमों में उल्लेखित नहीं है, तो सामान्यतः 100 प्रतिशत विदेशी निवेश स्वचालित मार्ग के तहत उस क्षेत्र में अनुमति है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "M&A सौदों में नियामक अनुमोदन की प्रक्रिया क्या है?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            2311,
+            2447
+          ]
+        ],
+        "snippet": "यदि किसी नियामक द्वारा कोई प्रतिनिधित्व नहीं किया जाता, तो यह माना जाता है कि उक्त नियामक के पास प्रस्तावों पर कोई प्रतिनिधित्व नहीं है।"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            3218,
+            3448
+          ]
+        ],
+        "snippet": "जहाँ विदेशी निवेश निर्दिष्ट क्षेत्र के लिए स्वचालित मार्ग के अंतर्गत आता है, ऐसे निवेश को सरकार की पूर्व अनुमति के बिना किया जा सकता है, बशर्ते कि क्षेत्रीय सीमाओं का उल्लंघन न हो और एफडीआई-से जुड़ी प्रदर्शन शर्तें पूरी की गई हों।"
+      }
+    ]
+  }
+]

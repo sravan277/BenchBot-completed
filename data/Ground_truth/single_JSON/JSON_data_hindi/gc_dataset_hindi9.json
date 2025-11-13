@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "व्यवस्था योजनाओं के माध्यम से किए गए एम एंड ए सौदों से संबंधित विवादों को भारतीय अदालतों में ले जाने की आवश्यकता क्यों हो सकती है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            966,
+            1199
+          ]
+        ],
+        "snippet": "M&A गतिविधि जो कंपनियों अधिनियम के व्यवस्था योजनाओं के प्रावधानों के तहत की जाती है, कुछ परिस्थितियों में विवादों को अवश्य भारतीय न्यायालयों में भेजने की आवश्यकता हो सकती है, क्योंकि कुछ विवादों को मध्यस्थता के लिए अक्षम माना गया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "कंपनी अधिनियम 2013 के तहत विलय और समामेलन के संबंध में राष्ट्रीय कंपनी कानून न्यायाधिकरण (एनसीएलटी) की क्या भूमिका है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            8184,
+            8444
+          ]
+        ],
+        "snippet": "शेयरधारकों के मामले में, 100 सदस्य या कुल सदस्यों की संख्या का 10 प्रतिशत, जो भी कम हो, या जिनके पास जारी शेयर पूंजी का कम से कम 10 प्रतिशत हो, वे ऐसे दावे दायर कर सकते हैं और एनसीएलटी को इन न्यूनतम आवश्यकताओं को छूट देने का अतिरिक्त अधिकार प्रदान किया गया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "दाइची सैंक्यो मामले में मध्यस्थता न्यायाधिकरण ने धोखाधड़ी और गलतबयानी का पता लगाने की अधिग्रहणकर्ता की क्षमता के बारे में क्या निष्कर्ष निकाला?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            2729,
+            2904
+          ]
+        ],
+        "snippet": "अक्सी, रैनबैकसी लैबोरेटरीज लिमिटेड के भीतर उपलब्ध सूचना और संचार की विभाजित प्रकृति के कारण, धोखाधड़ी और गलत प्रस्तुति को उचित परिश्रम करने पर भी पहले समय पर खोजा नहीं जा सका।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "बैनियन ट्री ग्रोथ कैपिटल मामले में बॉम्बे हाईकोर्ट ने शेयरधारक समझौतों में पुट विकल्पों की वैधता को कैसे बरकरार रखा?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            4096,
+            4496
+          ]
+        ],
+        "snippet": "कोर्ट ने 2008 में याचिकाकर्ता—जो एक विदेशी निजी इक्विटी निवेशक था—और एक्सिअम कॉर्डेज़ लिमिटेड के प्रमोटरों के बीच भारतीय प्रतिभूति नियमों के तहत किए गए पुट विकल्पों की वैधता को मान्य किया, इस आधार पर कि सिक्योरिटीज़ कॉन्ट्रैक्ट रेगुलेशन एक्ट का उद्देश्य अटकलियों वाले लेन‑देन को प्रतिबंधित करना है, और SHA में मिलने वाले पुट विकल्प जो निवेशक को निकास का अवसर प्रदान करते हैं, ऐसे लेन‑देन नहीं कहलाते।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "विजय कारिया मामले में फेमा नियमों के सुधार योग्य उल्लंघन के संबंध में सुप्रीम कोर्ट का क्या विचार था?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            4860,
+            5273
+          ]
+        ],
+        "snippet": "अदालत ने देखा कि विधायन की प्रणाली इस प्रकार के शेयर स्थानांतरण के लिए नियामक प्राधिकरण (अर्थात RBI) से बाद में अनुमति माँगने की अनुमति देती है और इसलिए यह आदेश दिया कि FEMA के तहत सुधारी जा सकने वाले उल्लंघन को भारत के मूलभूत नीति का उल्लंघन नहीं माना जा सकता जो पुरस्कार को अकार्यकारी बना दे (जबकि यह ध्यान दिया गया कि RBI अपने नियामक अधिकार का प्रयोग कर शेयरों को बाजार मूल्य पर बेचने के लिए दबाव बना सकता है)।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "किन सीमित परिस्थितियों में अदालतें एक बिना शर्त बैंक गारंटी के लागू होने में हस्तक्षेप करेंगी?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            5944,
+            6271
+          ]
+        ],
+        "snippet": "भारतीय संदर्भ में, जबकि इस विषय पर प्रत्यक्ष निर्णय उपलब्ध नहीं हैं, टेकर ओवर नियमों के संदर्भ में सर्वोच्च न्यायालय का मानना है कि केवल असम्भवता की स्थिति में ही दायित्व का अपूर्णता अनुमति दी जा सकती है और इसके लिए भारतीय अनुबंध अधिनियम की धारा 56 के तहत उच्च मानदंड को पूरा करना आवश्यक होगा, जो निराशा सिद्धांत से संबंधित है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "सुप्रीम कोर्ट ने किन वर्गों के विवादों को प्रथम दृष्टया गैर-मध्यस्थता योग्य के रूप में पहचाना है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            6293,
+            6389
+          ]
+        ],
+        "snippet": "पूरी तरह से स्थापित वैधानिक ट्राइब्यूनलों को भी भारतीय कानून के तहत अनविवादित नहीं माना जा सकता।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "सुप्रीम कोर्ट के अनुसार, शेयरधारकों का \"उत्पीड़न\" कब होता है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            8759,
+            9080
+          ]
+        ],
+        "snippet": "सर्वोच्च न्यायालय ने यह नोट किया है कि दुरुपयोग तब हो सकता है जब कंपनी के मामलों को निष्पक्षता और ईमानदारी के बिना, अल्पसंख्यक शेयरधारकों के प्रति न्यायसंगत व्यवहार के बिना संचालित किया जाता है, या जब यह प्रदर्शित किया जाता है कि अल्पसंख्यक शेयरधारकों को उनके कानूनी और स्वामित्व अधिकारों के प्रयोग में वंचित किया गया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "सुभखाम वेंचर्स बनाम सेबी मामले में, प्रतिभूति अपीलीय न्यायाधिकरण (सैट) ने नियंत्रण स्थापित करने वाले अधिकारों और जो नहीं करते हैं, उनके बीच कैसे अंतर किया?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            10021,
+            10108
+          ]
+        ],
+        "snippet": "ns') से उन अधिकारों से जो दिन-प्रतिदिन की संचालनात्मक नियंत्रण के लिए प्रदान किए गए थे।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "एक सीमा पार सौदे में क्षतिपूर्ति या आकस्मिक देनदारियों के लिए प्रतिफल को रोकने पर भारतीय रिजर्व बैंक द्वारा क्या सीमाएं लगाई गई हैं?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            11018,
+            11292
+          ]
+        ],
+        "snippet": "इसके अलावा आरबीआई द्वारा रखरखाव के संबंध में किसी भी हिस्से की पुनरावृत्ति के संबंध में सीमाएँ निर्धारित की गई हैं, जिसमें किसी भी संभावित दायित्व या हर्जाने के लिए (वर्तमान में FEMA नियमों के तहत विचार मूल्य का 25 प्रतिशत अधिकतम 18 महीने की अवधि के लिए अलग रखा जा सकता है)।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "विशुद्ध रूप से वाणिज्यिक नागरिक विवादों के मामलों में अक्सर किन रणनीतिक कारणों से आपराधिक शिकायतें दर्ज की जाती हैं?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            16994,
+            17280
+          ]
+        ],
+        "snippet": "इस प्रकार, जब किसी नागरिक विवाद को देनदारियों की वसूली, बदले के भाव से उत्पीड़न या समझौते को बाधित करने के लिए आपराधिक आरोपों के ध्रुवीकरण के रूप में बदला जाता है, तो ऐसे आपराधिक मुकदमे, एफआईआर या प्रक्रियाएँ अदालत द्वारा अक्सर असामान्य (वेक्सैटियस) स्वरूप के कारण खारिज कर दी जाती हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "इरिडियम इंडिया टेलीकॉम लिमिटेड मामले में सुप्रीम कोर्ट के फैसले के अनुसार, एक निगम की आपराधिक देनदारी कब उत्पन्न होती है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            12983,
+            13153
+          ]
+        ],
+        "snippet": "निगम की आपराधिक जिम्मेदारी तब उत्पन्न होती है जब उसके व्यवसाय से संबंधित अपराध किसी व्यक्ति या व्यक्तियों के समूह द्वारा किया जाता है जो उसके मामलों पर नियंत्रण रखते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "कंपनी अधिनियम 2013 में हाल के संशोधनों का प्राथमिक उद्देश्य क्या है जो कुछ अपराधों को नागरिक चूक के रूप में पुनर्वर्गीकृत करते हैं?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            12082,
+            12316
+          ]
+        ],
+        "snippet": "कहा गया कि, भारत में ‘व्यवसाय करने में सहजता’ को बढ़ावा देने के सरकारी पहल के साथ, तकनीकी डिफ़ॉल्ट को आपराधिक न बनाकर और केवल दंड के माध्यम से उन्हें माफ़ी योग्य बनाने की आवश्यकता ने 2019 के संशोधनों को कंपनी अधिनियम 2013 में लाया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "हरियाणा राज्य बनाम भजन लाल फैसले में, प्रक्रिया के दुरुपयोग को रोकने के लिए अदालत किन परिस्थितियों में एक आपराधिक कार्यवाही को रद्द कर सकती है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            15690,
+            15848
+          ]
+        ],
+        "snippet": "जहाँ FIR या शिकायत में किए गए अनविवादित आरोप और उनके समर्थन में एकत्रित साक्ष्य किसी अपराध की साजिश को प्रकट नहीं करते और आरोपी के खिलाफ कोई मामला नहीं बनाते।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "व्यापार और आर्थिक विधान को अपराध-मुक्त करने के प्रयास का व्यापक उद्देश्य क्या है?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes - Hindi.txt",
+        "spans": [
+          [
+            13734,
+            14037
+          ]
+        ],
+        "snippet": "18 नवंबर 2019 को स्थापित कंपनी लॉ समिति ने सरकार को कई और आपराधिक संयोज्य अपराधों को नागरिक दायित्वों वाले नागरिक अपराधों में पुनः वर्गीकृत करने के संबंध में सिफ़ारिशें की हैं, जिससे व्यवसाय करने में आसानी को सुविधाजनक और प्रोत्साहन मिल सके तथा विशेष न्यायालयों और NCLT को भीड़भाड़ से मुक्त किया जा सके।"
+      }
+    ]
+  }
+]

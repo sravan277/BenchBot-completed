@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "ग्रंथों में विलय और अधिग्रहण (M&A) का क्या उल्लेख है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            2774,
+            2894
+          ]
+        ],
+        "snippet": "एक नियमित व्यापार, एक विलय या अधिग्रहण या कोई भी लेनदेन जो निगम को जैविक या अवजैविक वृद्धि की ओर ले जाता है, हो सकता है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            772,
+            868
+          ]
+        ],
+        "snippet": "इस अध्याय में विवाह के बारे में चर्चा करने का कारण इस प्रक्रिया की समानता है जो लागू की जाती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "मुकदमेबाजी प्रबंधन को एक जनरल काउंसिल की ज़िम्मेदारी और ड्यू डिलिजेंस जांच के एक हिस्से के रूप में कैसे वर्णित किया गया है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            8031,
+            8412
+          ]
+        ],
+        "snippet": "जिम्मेदारियों में, अन्य बातों के साथ, अनुबंध प्रबंधन, नियमित अनुपालन, बोर्ड शासन और अभियोजन, मुकदमेबाजी से सुरक्षा, मुकदमे प्रबंधन, विलयन एवं अधिग्रहण के माध्यम से कंपनी की कार्बनिक एवं अक़र्बनिक वृद्धि का समर्थन, बौद्धिक संपदा अधिकारों का प्रबंधन और संरक्षण, रोजगार संबंधी मुद्दे, तथा विभिन्न व्यावसायिक प्रमुखों को दैनिक आधार पर मुख्य व्यावसायिक गतिविधियों पर सलाह देना शामिल है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            9684,
+            9858
+          ]
+        ],
+        "snippet": "विवाद एवं मुकदमेबाज़ी सभी अदालतों में मुकदमेबाज़ी का डिजिटलकरण शुरू हो चुका है और भारत की सभी अदालतों में मुकदमे की मौजूदगी के बारे में जानकारी इलेक्ट्रॉनिक रूप से उपलब्ध है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "बौद्धिक संपदा (IP) अधिकारों का प्रबंधन जनरल काउंसिल की भूमिका और ड्यू डिलिजेंस प्रक्रिया में कैसे शामिल है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            8031,
+            8412
+          ]
+        ],
+        "snippet": "जिम्मेदारियों में, अन्य बातों के साथ, अनुबंध प्रबंधन, नियमित अनुपालन, बोर्ड शासन और अभियोजन, मुकदमेबाजी से सुरक्षा, मुकदमे प्रबंधन, विलयन एवं अधिग्रहण के माध्यम से कंपनी की कार्बनिक एवं अक़र्बनिक वृद्धि का समर्थन, बौद्धिक संपदा अधिकारों का प्रबंधन और संरक्षण, रोजगार संबंधी मुद्दे, तथा विभिन्न व्यावसायिक प्रमुखों को दैनिक आधार पर मुख्य व्यावसायिक गतिविधियों पर सलाह देना शामिल है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            2643,
+            3010
+          ]
+        ],
+        "snippet": "व्यापारों के कॉर्पोरेट स्वरूप के बारे में सार्वजनिक रूप से उपलब्ध जानकारी में चार्टर दस्तावेज़, उनके कॉर्पोरेट कार्यों और निर्णयों के आधार पर दायर की गई फाइलें, शेयरधारण, उधार, वित्तीय डेटा, क्रेडिट रेटिंग, विशेष tribunals, उच्च न्यायालयों और सर्वोच्च न्यायालय में लम्बित मामले, तथा किसी भी फाइलिंग या पंजीकृत बौद्धिक संपदा (आईपी) धारणाओं से संबंधित जानकारी शामिल है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "एक जनरल काउंसिल के दृष्टिकोण से और एक ड्यू डिलिजेंस के दृष्टिकोण से अनुपालन का क्या महत्व है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            2895,
+            3055
+          ]
+        ],
+        "snippet": "साफ़-सुथरा व्यापार करना और भ्रष्टाचार-विरोधी कानूनों का पालन करना वह क्षेत्र है जिसमें मुख्य कानूनी सलाहकारों (GCs) को सतर्क और अत्यधिक सावधान रहना पड़ सकता है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            4654,
+            4841
+          ]
+        ],
+        "snippet": "अलग‑अलग कंपनियों के बारे में MCA के पास उपलब्ध सूचना रिकॉर्ड (जो एक मामूली शुल्क पर सार्वजनिक जानकारी के रूप में उपलब्ध है) ख़रीदार या निवेशक को कई अनुपालन जांचें करने में सहायता करता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "अनुबंध प्रबंधन एक जनरल काउंसिल के लिए और ड्यू डिलिजेंस अभ्यास में कैसे महत्वपूर्ण है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            8031,
+            8412
+          ]
+        ],
+        "snippet": "जिम्मेदारियों में, अन्य बातों के साथ, अनुबंध प्रबंधन, नियमित अनुपालन, बोर्ड शासन और अभियोजन, मुकदमेबाजी से सुरक्षा, मुकदमे प्रबंधन, विलयन एवं अधिग्रहण के माध्यम से कंपनी की कार्बनिक एवं अक़र्बनिक वृद्धि का समर्थन, बौद्धिक संपदा अधिकारों का प्रबंधन और संरक्षण, रोजगार संबंधी मुद्दे, तथा विभिन्न व्यावसायिक प्रमुखों को दैनिक आधार पर मुख्य व्यावसायिक गतिविधियों पर सलाह देना शामिल है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            7488,
+            7629
+          ]
+        ],
+        "snippet": "प्रत्येक व्यवसाय के पास ऐसे महत्वपूर्ण अनुबंध होते हैं जो व्यवसाय को स्केल करने और भविष्य की प्रक्षेपणों को पूरा करने के लिए आवश्यक होते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "ग्रंथों में वित्तीय मामलों और मूल्यांकन का क्या महत्व बताया गया है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            953,
+            1106
+          ]
+        ],
+        "snippet": "यह कोई रहस्य नहीं है कि व्यापारिक घरानों को लाभ और प्रदर्शन के आधार पर परिभाषित किया जाता है और वे रिटर्न की अतीत नहीं थकने वाली इच्छा पर फलते-फूलते हैं।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            3803,
+            4038
+          ]
+        ],
+        "snippet": "डील के तर्क के आधार पर, वार्षिक वित्तीय विवरणों से प्रस्तुत और विश्लेषित जानकारी, ऋणों के विवरण और परिसम्पत्तियों की प्रकृति, अधिग्रहणकर्ता या निवेशक को लक्ष्य, डील संरचना, मूल्यांकन आदि पर प्रारंभिक दृष्टिकोण बनाने में सहायता करती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "नियामक वातावरण को जीसी की भूमिका और ड्यू डिलिजेंस के लिए एक विचार के रूप में कैसे वर्णित किया गया है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            6448,
+            6494
+          ]
+        ],
+        "snippet": "ऐसी नियामक अंतर आर्बिट्रेज लाभ प्रदान करती है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            4071,
+            4262
+          ]
+        ],
+        "snippet": "लक्ष्य के व्यवसाय के आधार पर, ऐसा नियमात्मक वातावरण का मूल्यांकन किया जा सकता है जो व्यवसाय को प्रभावित करता है, और विशेष रूप से अधिग्रहणकर्ता या निवेशक की ऐसी व्यवसाय में भाग लेने की क्षमता।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "लेन-देन में जोखिम का प्रबंधन जीसी और ड्यू डिलिजेंस प्रक्रिया द्वारा कैसे किया जाता है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            4888,
+            5164
+          ]
+        ],
+        "snippet": "यदि कोई जनरल काउंसल (GC) एक बुरे ढंग से सोचे गए व्यावसायिक निर्णय की ग़लती को उजागर करने में असमर्थ है या करने से इनकार करता है, जिसमें नैतिकता, विवेक या अवैधता जैसी अंतर्निहित समस्याएँ हों और जो कंपनी या बोर्ड को परिणामों के प्रति उजागर कर देती हैं, तो वह GC विफल हो जाता है।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            1375,
+            1582
+          ]
+        ],
+        "snippet": "लक्ष्य के व्यवसाय मॉडल में निहित जोखिम निवेशक की इच्छा के अनुरूप हैं या नहीं – कुछ अधिग्रहणकर्ता या निवेशक उन व्यवसायों के प्रति संवेदनशील नहीं होते जिनमें कुछ प्रकार के जोखिम होते हैं (जैसे, सरकारी अनुबंध);"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "कंपनी के निदेशकों के संबंध में जीसी की क्या भूमिका है और ड्यू डिलिजेंस के दौरान उनकी जांच कैसे की जाती है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            5914,
+            6071
+          ]
+        ],
+        "snippet": "ऐसा उत्पाद केवल व्यावसायिक प्रबंधकों और कानूनी दिमागों के बीच स्पष्ट सहयोग का परिणाम हो सकता है जो नैतिक रूप से मौद्रिक लाभ को लिखने के लिए साथ काम करते हैं।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            5115,
+            5370
+          ]
+        ],
+        "snippet": "जबकि लक्ष्य कंपनी अधिग्रहण की तैयारी में अपने वित्तीय रिपोर्ट या वार्षिक रिटर्न दाखिल कर चुकी हो सकती है, प्रमोटर निदेशक की अयोग्यता पहले ही हो सकती है क्योंकि उन्होंने किसी अन्य इकाई में जहाँ वे निदेशकों के पद पर हैं, इन दस्तावेजों को नहीं दाखिल किया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "सूचना और प्रकटीकरण का महत्व जीसी की भूमिका और ड्यू डिलिजेंस प्रक्रिया में कैसे दर्शाया गया है?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel - Hindi.txt",
+        "spans": [
+          [
+            2352,
+            2592
+          ]
+        ],
+        "snippet": "GCs की मुख्य भूमिका लगातार व्यवसाय को याद दिलाना है कि अंत का साधनों को न्यायसंगत ठहराने वाला सिद्धांत पर्याप्त नहीं है कि उसे एक गुण माना जाए जो प्रतिष्ठात्मक अंक जमा करे, शेयरधारकों, हितधारकों, नियामकों और व्यापक समुदाय का सम्मान जीत सके।"
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            3013,
+            3241
+          ]
+        ],
+        "snippet": "चूँकि इस अध्याय का उद्देश्य एक उचित परिश्रम चेकलिस्ट प्रदान करना नहीं है, हम बाहरी सूचना स्रोतों की सूची देने से बच रहे हैं, लेकिन सार्वजनिक रूप से उपलब्ध डेटा का उपयोग करके किए जा सकने वाले कुछ मूलभूत जांचों का उल्लेख करते हैं।"
+      }
+    ]
+  }
+]

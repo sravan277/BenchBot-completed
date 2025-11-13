@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What roles does the Reserve Bank of India (RBI) play in M&A transactions according to the texts?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            20283,
+            20382
+          ]
+        ],
+        "snippet": "Until 2016, indemnity payments would require the prior approval of the Reserve Bank of India (RBI)."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            377,
+            569
+          ]
+        ],
+        "snippet": "In March 2018, the Reserve Bank of India (RBI) issued the Foreign Exchange Management (Cross Border Merger) Regulations 2018 (Cross Border Merger Regulations) to regulate cross-border mergers."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "How is the concept of liability addressed in the context of M&A transactions and cross-border mergers?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            25132,
+            25238
+          ]
+        ],
+        "snippet": "Where there is more than one seller, the sellers may insist that their liability is several and not joint."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            4922,
+            5080
+          ]
+        ],
+        "snippet": "An order of the NCLT sanctioning the scheme may provide for the transfer of assets and/ or the liabilities of the transferor company to the resultant company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What do the texts state about the regulatory landscape for foreign involvement in Indian M&A?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            20167,
+            20282
+          ]
+        ],
+        "snippet": "Indemnity payments from resident warrantors to foreign acquirers are restricted under extant foreign exchange laws."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            104,
+            219
+          ]
+        ],
+        "snippet": "While the Companies Act 1956 (1956 Act) permitted an inbound merger, there was no provision for an outbound merger."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How are contractual remedies and the effectiveness of merger schemes addressed?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            577,
+            648
+          ]
+        ],
+        "snippet": "The preferred contractual remedy for inaccuracy of R&W is an indemnity."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            5370,
+            5598
+          ]
+        ],
+        "snippet": "A scheme of cross-border merger, once approved by the NCLT, would be deemed to be effective from the appointed date, which could either be a specific calendar date or an event-based date linked with certain conditions or events."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "How is 'consideration' referenced in the context of indemnity caps and payment methods in mergers?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            23296,
+            23427
+          ]
+        ],
+        "snippet": "The overall liability under indemnification is usually capped to a definite amount, expressed as a percentage of the consideration."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            6179,
+            6388
+          ]
+        ],
+        "snippet": "A scheme of cross-border merger may, among other things, provide for the payment of consideration to the shareholders of the transferor company in cash, by way of depository receipts, or a combination thereof."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "How do the texts describe the application and limitations of Indian law and regulations in M&A?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            1753,
+            1895
+          ]
+        ],
+        "snippet": "Although the terms are used interchangeably, they have distinct meanings and their inaccuracy would result in specific consequences under law."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            2223,
+            2386
+          ]
+        ],
+        "snippet": "However, the extant regulations do not deal with cross-border demergers (ie, demerger of an undertaking from an Indian company to a foreign company or vice versa)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is mentioned regarding the treatment of assets in M&A transactions?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            4128,
+            4321
+          ]
+        ],
+        "snippet": "An important representation provided by the warrantor relates to the clear and marketable title to the assets or shares being sold as well as the authority of the warrantor to make such a sale."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            9145,
+            9285
+          ]
+        ],
+        "snippet": "The resultant Indian company can acquire, hold and transfer any foreign asset or security only if it is permitted under the FEMA provisions."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What kinds of approvals are required for M&A-related activities?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            20613,
+            20736
+          ]
+        ],
+        "snippet": "Any indemnity payments beyond this limit and indemnities in other M&A transactions would still require approval of the RBI."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            3835,
+            4137
+          ]
+        ],
+        "snippet": "Besides the above, a scheme of cross-border merger would require approval or no-objection of other authorities including the Regional Director, the Official Liquidator, the income tax authorities, the RBI (if applicable) and other regulators (such as the Competition Commission of India (CCI)), if any."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "How are time periods and limitations addressed in M&A contracts and regulations?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            24010,
+            24151
+          ]
+        ],
+        "snippet": "It is usual to align the contractual limitation periods to statutory periods for such claims (which vary depending on the R&W being covered)."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            9582,
+            9856
+          ]
+        ],
+        "snippet": "The resultant Indian company can open a bank account in foreign currency in the overseas jurisdiction for the purpose of putting through transactions incidental to the cross-border merger for a maximum period of two years from the date of sanction of the scheme by the NCLT."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "How do foreign exchange laws or the Foreign Exchange Management Act (FEMA) impact M&A transactions?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            20167,
+            20282
+          ]
+        ],
+        "snippet": "Indemnity payments from resident warrantors to foreign acquirers are restricted under extant foreign exchange laws."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            11683,
+            11860
+          ]
+        ],
+        "snippet": "If it is not permitted under FEMA, then the resultant foreign company would have a period of two years to sell such asset or security and repatriate sale proceeds outside India."
+      }
+    ]
+  }
+]

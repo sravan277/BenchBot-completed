@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "Under the Companies Act 1956, what was the status of inbound and outbound mergers?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.txt",
+        "spans": [
+          [
+            104,
+            219
+          ]
+        ],
+        "snippet": "While the Companies Act 1956 (1956 Act) permitted an inbound merger, there was no provision for an outbound merger."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the current legal position regarding the permissibility of cross-border demergers?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            2223,
+            2386
+          ]
+        ],
+        "snippet": "However, the extant regulations do not deal with cross-border demergers (ie, demerger of an undertaking from an Indian company to a foreign company or vice versa)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What approvals are required from shareholders and creditors for a scheme of cross-border merger?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            3259,
+            3428
+          ]
+        ],
+        "snippet": "Further, the scheme would also need to be approved by the majority of persons representing 75 per cent in value of the shareholders as well as creditors (if applicable)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "What must a listed Indian company do before filing a scheme of cross-border merger with the NCLT?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            4138,
+            4448
+          ]
+        ],
+        "snippet": "In the case of a listed Indian company proposing a scheme of cross-border merger, a draft of the scheme along with other prescribed documents and fees needs to be filed with the relevant stock exchange or exchanges for obtaining a no-observation or no-objection letter prior to filing the scheme with the NCLT."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What is the general prohibition laid out in the Cross Border Merger Regulations?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            6665,
+            7147
+          ]
+        ],
+        "snippet": "The Cross Border Merger Regulations prohibit: a person resident in India (PRI) from acquiring or transferring any security or debt or asset outside India; and a person resident outside India (PROI) from acquiring or transferring any security or debt or asset in India, on account of cross-border mergers, unless such acquisition or transfer is either permitted under the Foreign Exchange Management Act 1999 (FEMA), or allowed by the RBI by way of any general or special permission."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "In an inbound merger, what is the rule concerning the guarantees or outstanding borrowings of the foreign company?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            8639,
+            8923
+          ]
+        ],
+        "snippet": "The guarantees or outstanding borrowings of the foreign company from overseas sources must conform to the external commercial borrowing (ECB) norms (discussed below) or trade credit norms or other foreign borrowing norms (including guarantee regulations) within a period of two years."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What must the resultant Indian company do if it acquires a foreign asset that it is not permitted to hold under FEMA?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            9286,
+            9465
+          ]
+        ],
+        "snippet": "If it is not permitted to do so under FEMA, the resultant Indian company would have a period of two years to sell such asset or security and repatriate the sale proceeds to India."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "In an outbound merger, how are the Indian offices of the merging Indian company treated?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            10760,
+            10865
+          ]
+        ],
+        "snippet": "Indian offices of the Indian company may be deemed to be branch offices of the resultant foreign company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What types of equity instruments are Indian companies permitted to issue to Persons Resident Outside India (PROIs) under the FDI Norms?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            13635,
+            13924
+          ]
+        ],
+        "snippet": "As per the FDI Norms, Indian companies can issue only the following equity instruments to PROIs: equity shares (including partly paid shares); fully, compulsorily and mandatorily convertible debentures; fully, compulsorily and mandatorily convertible preference shares; and share warrants."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What recent amendment to the FDI Norms impacts investments from countries sharing a land border with India?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            15040,
+            15617
+          ]
+        ],
+        "snippet": "In terms of the recent amendment to the FDI Norms, apart from the sector or activity-specific restrictions, prior government approval would be required in the case of: any investment in an Indian company by an entity that is resident in a country sharing a land border with India (Restricted Territory) or the beneficial owner of the investment is a resident or citizen of a Restricted Territory; or any transfer of shares of an Indian company that, directly or indirectly, results in a resident or citizen of a Restricted Territory becoming the beneficial owner of the shares."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "What reporting requirement must an Indian company comply with after issuing equity instruments to a PROI under the FDI route?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16925,
+            17150
+          ]
+        ],
+        "snippet": "Every Indian company issuing equity instruments to a PROI under the FDI route is required to file Form FC-GPR (in the Single Master Form) within a period not exceeding 30 days from the date of issue of the equity instruments."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "Under what condition is an Indian party prohibited from making an overseas direct investment without prior RBI approval?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            18381,
+            18574
+          ]
+        ],
+        "snippet": "Further, an Indian party is prohibited from making an investment (or financial commitment) in a foreign entity engaged in real estate or banking business, without the prior approval of the RBI."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "What is the minimum average maturity period (MAMP) for an External Commercial Borrowing (ECB)?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            21093,
+            21176
+          ]
+        ],
+        "snippet": "The minimum average maturity period (MAMP) for ECB cannot be less than three years."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "What is the legal standing on whether court orders approving schemes of amalgamation are subject to stamp duty?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            22458,
+            22702
+          ]
+        ],
+        "snippet": "The Supreme Court of India has, in the past, held that court orders approving schemes of amalgamation or merger are subject to stamp duty, which is calculated on the basis of the consideration received by shareholders of the transferor company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "Why are Indian companies currently not keen to opt for outbound mergers?",
+    "document_description": "Challenges In Cross-Border Mergers",
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            25352,
+            25545
+          ]
+        ],
+        "snippet": "However, similar benefits are not available in the case of outbound mergers. As a result, not many Indian companies are currently keen to opt for outbound mergers in the absence of tax reliefs."
+      }
+    ]
+  }
+]

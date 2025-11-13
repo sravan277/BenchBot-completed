@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "कंपनी अधिनियम के तहत, किसी भी विलय के लिए अंतिम मंजूरी कौन देता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            1686,
+            1739
+          ]
+        ],
+        "snippet": "किसी भी विलयन की अंतिम स्वीकृति NCLT द्वारा दी जाएगी।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "किस शर्त के तहत एनसीएलटी विलय के लिए लेनदारों की बैठक आयोजित करने की आवश्यकता को समाप्त कर सकता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            12542,
+            12598
+          ]
+        ],
+        "snippet": "ऋणदाताओं या सदस्यों की वर्गीकरण तय करना जिनकी बैठकों को…"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "विलय से संबंधित आपत्ति करने की अनुमति किसे है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            1914,
+            2310
+          ]
+        ],
+        "snippet": "बैठकों के नोटिस भी आरडी और विभिन्न सरकारी प्राधिकरणों या क्षेत्रीय नियामकों जैसे कि आरओसी, भारत रिज़र्व बैंक (आरबीआई), भारतीय प्रतिभूति एवं विनिमय बोर्ड (सेबी), ओएल, संबंधित स्टॉक एक्सचेंज, भारतीय प्रतिस्पर्धा आयोग (सीसीआई) आदि को, लागू होने पर, भेजे जाते हैं, ताकि प्रस्तावित विलय से संबंधित कोई आपत्ति या प्रतिनिधित्व, यदि हो, 30 दिनों के भीतर नोटिस प्राप्त करने की तिथि से प्राप्त किया जा सके।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "अधिग्रहण विनियम किन लेन-देनों पर लागू होते हैं?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            3427,
+            3592
+          ]
+        ],
+        "snippet": "टेकओवर नियम भारत में सूचीबद्ध कंपनी के शेयरों, वोटिंग अधिकारों या नियंत्रण के सभी सीधे और परोक्ष अधिग्रहणों पर लागू होते हैं, सिवाय उन कंपनियों के जो सूचीबद्ध हैं..."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "लक्ष्य कंपनी के शेयरों के अधिग्रहण के लिए एक खुली पेशकश का न्यूनतम आकार क्या है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            3794,
+            3900
+          ]
+        ],
+        "snippet": "शेयर अधिग्रहण के लिए एक खुला प्रस्ताव लक्ष्य कंपनी के कुल शेयरों के कम से कम 26 प्रतिशत के लिए होना चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "जब कोई सूचीबद्ध कंपनी व्यवस्था योजना शुरू करने की योजना बनाती है तो उसका क्या दायित्व होता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            5062,
+            5349
+          ]
+        ],
+        "snippet": "जब भी कोई सूचिबद्ध कंपनी व्यवस्था योजना (scheme of arrangement) लागू करने का इरादा रखती है, तो उसे इस योजना का मसौदा स्टॉक एक्सचेंज या एक्सचेंजों के पास निरीक्षण पत्र (observation letter) या आपत्ति मुक्त पत्र (no‑objection letter) प्राप्त करने के उद्देश्य से दाखिल करना अनिवार्य होता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "प्रतिस्पर्धा अधिनियम 2002 द्वारा किस प्रकार के \"संयोजन\" प्रतिबंधित हैं?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            5719,
+            5905
+          ]
+        ],
+        "snippet": "सामान्यतः, प्रतियोगिता अधिनियम उन कॉम्बिनेशनों को प्रतिबंधित करता है जो भारत के संबंधित बाजार में प्रतिस्पर्धा पर उल्लेखनीय प्रतिकूल प्रभाव (AAEC) डालते हैं या डालने की संभावना रखते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "किस शर्त के तहत एक लेन-देन \"डी-मिनिमिस छूट\" के लिए पात्र है, जो उसे पूर्व-अधिसूचना आवश्यकता से छूट देता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            6369,
+            6604
+          ]
+        ],
+        "snippet": "भारत में, 20 अरब भारतीय रुबाट अधिक मूल्य की संपत्ति या भारत में 3.5 अरब भारतीय रुपये से अधिक नहीं या जहाँ टर्नओवर 10 अरब भारतीय रुपये से अधिक नहीं है, ऐसे मामलों में प्रतिस्पर्धा अधिनियम के तहत प्री-नोटिफिकेशन आवश्यकता से छूट दी गई है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "\"ग्रीन चैनल\" के तहत किसी प्रस्तावित संयोजन को स्वीकृत मानने के लिए क्या आवश्यक है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            8316,
+            8481
+          ]
+        ],
+        "snippet": "वे किसी भी ऐसी गतिविधि में संलग्न नहीं हैं जो उत्पादन, आपूर्ति, वितरण, भंडारण, बिक्री और सेवा या उत्पादों के व्यापार या परस्पर पूरक सेवाओं के प्रावधान से संबंधित हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "वे कौन से दो प्राथमिक मार्ग हैं जिनके माध्यम से किसी विदेशी इकाई द्वारा किसी भारतीय कंपनी का अधिग्रहण किया जा सकता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            9040,
+            9223
+          ]
+        ],
+        "snippet": "अनुमोदन मार्ग का पालन करने की आवश्यकता और भारतीय लक्ष्य या निवेशित कंपनी के शेयरों के अधिग्रहण और नियंत्रण की सीमा मुख्य रूप से भारतीय कंपनी की व्यापारिक गतिविधियों पर निर्भर करती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "अवसरवादी अधिग्रहणों पर अंकुश लगाने के लिए भारत सरकार ने हाल ही में क्या बदलाव किया है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            9224,
+            9310
+          ]
+        ],
+        "snippet": "कुछ मामलों में यह भारत में प्रवाहित होने वाले निवेश के स्रोत देश पर भी निर्भर करता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "\"इनबाउंड मर्जर\" की परिभाषा क्या है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            10140,
+            10225
+          ]
+        ],
+        "snippet": "एक इनबाउंड मर्जर वह क्रॉस-बॉर्डर मर्जर है जहाँ परिणामी कंपनी एक भारतीय कंपनी होती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "एक आउटबाउंड विलय में, भारत में स्थित भारतीय कंपनी के कार्यालय का क्या होता है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            11274,
+            11520
+          ]
+        ],
+        "snippet": "भारत में स्थित भारतीय कंपनी का कार्यालय परिणामी विदेशी कंपनी की शाखा कार्यालय माना जाता है और यह विदेशी विनिमय प्रबंधन (भारत में शाखा कार्यालय, लायज़न कार्यालय, प्रोजेक्ट कार्यालय या किसी अन्य व्यवसायिक स्थान की स्थापना) नियमावली 2016 के अधीन है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "आईबीसी के तहत दिवाला प्रक्रिया संभावित अधिग्रहणकर्ताओं को क्या अवसर प्रदान करती है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            12599,
+            12756
+          ]
+        ],
+        "snippet": "संभव खरीदारों को तनावग्रस्त कंपनियों की संपत्ति अधिग्रहित करने के लिए, जिससे खरीदार सामान्य परिस्थितियों की तुलना में कम मूल्यांकन पर संपत्ति प्राप्त कर सके।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "सुप्रीम कोर्ट ने कर्मचारियों को उनकी सहमति के बिना नए प्रबंधन में स्थानांतरित करने के संबंध में क्या टिप्पणी की है?",
+    "document_description": "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI - Hindi.txt",
+        "spans": [
+          [
+            14373,
+            14477
+          ]
+        ],
+        "snippet": "एनसीएलटी को विलयन योजना को मंजूरी देते समय कार्यबल के उपचार पर आवश्यक निर्देश जारी करने का भी अधिकार है।"
+      }
+    ]
+  }
+]

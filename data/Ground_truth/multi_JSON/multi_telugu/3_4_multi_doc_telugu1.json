@@ -1,0 +1,281 @@
+[
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "భారతదేశంలో విలీనాలకు తుది ఆమోదం ఎవరు ఇస్తారు మరియు కొన్ని విదేశీ పెట్టుబడులకు ఎవరి అనుమతి అవసరం?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            1804,
+            1864
+          ]
+        ],
+        "snippet": "ఏదైనా విలీనం కోసం తుది ఆమోదం NCLT ద్వారా మంజూరు చేయబడుతుంది."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            5544,
+            5648
+          ]
+        ],
+        "snippet": "అటువంటి రంగంలో పనిచేస్తున్న భారతీయ కంపెనీ విదేశీ పెట్టుబడులను పొందే ముందు ప్రభుత్వ ముందస్తు అనుమతి అవసరం"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "సరిహద్దు విలీనాలకు సంబంధించి భారతీయ చట్టపరమైన ఫ్రేమ్‌వర్క్ ఏమిటి?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            4355,
+            4481
+          ]
+        ],
+        "snippet": "కంపెనీల చట్టం సరిహద్దు విలీనాలకు కూడా అందిస్తుంది (అనగా,విదేశీ కంపెనీ మరియు భారతీయ కంపెనీ మధ్య విలీనం లేదా దీనికి విరుద్ధంగా)."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            6168,
+            6503
+          ]
+        ],
+        "snippet": "ఆ రంగంలో 100 శాతం విదేశీ పెట్టుబడులు ఆటోమేటిక్ రూట్ కింద అనుమతించబడతాయి.12 హోల్డింగ్ ఎంటిటీలలో పెట్టుబడి భారతీయ రిజర్వ్ బ్యాంక్ (RBI)లో నాన్-బ్యాంకింగ్ ఫైనాన్షియల్ కంపెనీ (NBFC)గా నమోదు కాని భారతీయ పెట్టుబడి సంస్థలో లేదా ప్రధాన పెట్టుబడి కంపెనీలలో విదేశీ పెట్టుబడులను ప్రతిపాదించినట్లయితే, ముందస్తు ప్రభుత్వ అనుమతి అవసరం అని గమనించాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "లిస్టెడ్ కంపెనీలో ఏ స్థాయి వాటాను పొందినప్పుడు కొనుగోలుదారు ఓపెన్ ఆఫర్ చేయవలసి ఉంటుంది?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            5509,
+            6021
+          ]
+        ],
+        "snippet": "టేకోవర్ నిబంధనల ప్రకారం, కొనుగోలుదారుడు కొన్ని సందర్భాలలో టార్గెట్ లిస్టెడ్ కంపెనీ యొక్క షేర్లను కొనుగోలు చేయడానికి ఓపెన్ ఆఫర్‌ను బహిరంగంగా ప్రకటించాల్సిన బాధ్యత ఉంది, ఉదాహరణకు కొనుగోలుదారుడు టార్గెట్ లిస్టెడ్ కంపెనీలో షేర్లు లేదా ఓటింగ్ హక్కులను పొందినట్లయితే, అది ఇప్పటికే కొనుగోలుదారుడు కలిగి ఉన్న షేర్లు లేదా ఓటింగ్ హక్కులతో పాటు, ఏదైనా ఉంటే, కొనుగోలుదారుడు మరియు కొనుగోలుదారుడితో కలిసి పనిచేసే వ్యక్తులు (PAC) లక్ష్య కంపెనీలో 25 శాతం లేదా అంతకంటే ఎక్కువ ఓటింగ్ హక్కులను వినియోగించుకునే హక్కును కలిగి ఉంటారు,"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            20459,
+            20786
+          ]
+        ],
+        "snippet": "టేకోవర్ నిబంధనల ప్రకారం, కొనుగోలుదారుడు అటువంటి తప్పనిసరి ఓపెన్ ఆఫర్‌ను ఇవ్వవలసిన బాధ్యత ఈ క్రింది సంఘటనలు జరిగినప్పుడు ప్రేరేపించబడుతుంది: • కొనుగోలుదారుడు స్వయంగా లేదా కలిసి పనిచేసే వ్యక్తులతో కలిసి, లిస్టెడ్ కంపెనీలో 25 శాతం లేదా అంతకంటే ఎక్కువ ఓటింగ్ హక్కులను వినియోగించుకోవడానికి షేర్లు లేదా ఓటింగ్ హక్కులను పొందాలనుకుంటే;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "భారతదేశంతో భూ సరిహద్దును పంచుకునే దేశాల నుండి పెట్టుబడులకు సంబంధించి ప్రభుత్వం ఏ కొత్త నియమాన్ని ప్రవేశపెట్టింది?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            18076,
+            18291
+          ]
+        ],
+        "snippet": "దీని ప్రకారం, భారతదేశంతో భూ సరిహద్దును పంచుకునే లేదా భారతదేశంలో పెట్టుబడి పెట్టే ప్రయోజనకరమైన యజమాని ఉన్న లేదా అటువంటి ఏదైనా దేశం యొక్క పౌరుడిగా ఉన్న దేశం యొక్క సంస్థ ఆమోదం మార్గం ద్వారా మాత్రమే పెట్టుబడి పెట్టగలదు."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            7756,
+            8187
+          ]
+        ],
+        "snippet": "22 ఏప్రిల్ 2020న నోటిఫై చేయబడిన NDI నిబంధనలకు ఇటీవలి సవరణ ప్రకారం విదేశీ పెట్టుబడులను మరింత పరిమితం చేసే ఇటీవలి సవరణలు,భారతదేశంతో భూ సరిహద్దును పంచుకునే దేశంలో నివసిస్తున్న లేదా అటువంటి విదేశీ పెట్టుబడి యొక్క ప్రయోజనకరమైన యజమాని ఆ దేశంలో ఉన్న వ్యక్తి లేదా పౌరుడు అయిన దేశంలో నివసిస్తున్న ఏదైనా సంస్థ చేసే ఏదైనా విదేశీ పెట్టుబడి, విదేశీ పెట్టుబడి రంగం లేదా పరిమాణంతో సంబంధం లేకుండా ప్రభుత్వ ముందస్తు అనుమతితో మాత్రమే చేపట్టబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "భారతదేశంలో విదేశీ పెట్టుబడులు నిషేధించబడిన కొన్ని రంగాలు ఏవి?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            17747,
+            17903
+          ]
+        ],
+        "snippet": "లాటరీ వ్యాపారం, చిట్ ఫండ్‌లు, రియల్ ఎస్టేట్ వ్యాపారం, సిగార్లు, సిగరెట్లు, అణుశక్తి తయారీ మొదలైన కొన్ని వ్యాపార రంగాల్లో విదేశీ పెట్టుబడులు నిషేధించబడ్డాయి."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            4688,
+            5168
+          ]
+        ],
+        "snippet": "అణుశక్తి లేదా రైల్వే కార్యకలాపాలు, ప్రభుత్వ లేదా ప్రైవేట్ లాటరీతో సహా లాటరీ వ్యాపారం, ఆన్‌లైన్ లాటరీలు, జూదం మరియు బెట్టింగ్ వ్యాపారం, క్యాసినోలు, సిగార్లు, చెరూట్లు, సిగారిల్లోలు మరియు సిగరెట్ల తయారీ, పొగాకు లేదా పొగాకు ప్రత్యామ్నాయాలు, చిట్ ఫండ్‌లు మరియు నిధి కంపెనీలు, బదిలీ చేయగల అభివృద్ధి హక్కులలో వ్యాపారం, రియల్ ఎస్టేట్ వ్యాపారం లేదా ఫామ్‌హౌస్‌ల నిర్మాణం వంటి కొన్ని రంగాలు లేదా కార్యకలాపాలలో (నిషిద్ధ రంగాలు) విదేశీ పెట్టుబడులు మరియు విదేశీ సాంకేతిక సహకారం నిషేధించబడింది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "ఇన్సాల్వెన్సీ అండ్ బ్యాంక్రప్ట్సీ కోడ్ (IBC) ద్వారా M&A లావాదేవీల యొక్క ముఖ్య ప్రయోజనం ఏమిటి?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            23710,
+            23927
+          ]
+        ],
+        "snippet": "IBC నేరుగా M&Aతో వ్యవహరించనప్పటికీ, దివాలా ప్రక్రియ సంభావ్య కొనుగోలుదారులకు ఒత్తిడిలో ఉన్న కంపెనీల ఆస్తులను పొందే అవకాశాన్ని సృష్టిస్తుంది, తద్వారా కొనుగోలుదారు సాధారణ పరిస్థితుల కంటే తక్కువ విలువతో ఆస్తులను పొందగలడు."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            24824,
+            24981
+          ]
+        ],
+        "snippet": "IBC రిజల్యూషన్ ప్రక్రియ యొక్క ప్రధాన ప్రయోజనం ఏమిటంటే, పరిష్కార ప్రణాళిక కింద అందించబడిన మేరకు కార్పొరేట్ రుణగ్రహీత యొక్క అన్ని చారిత్రక బాధ్యతలను తొలగించడం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "ఆర్థిక సేవల రంగంలో M&A లావాదేవీలకు ఏ నియంత్రణ సంస్థ నుండి ఆమోదం అవసరం?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            25835,
+            25934
+          ]
+        ],
+        "snippet": "బ్యాంకింగ్ కంపెనీలు మరియు నాన్-బ్యాంకింగ్ ఫైనాన్షియల్ కంపెనీల (NBFCలు) సముపార్జనకు RBI ఆమోదం అవసరం."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            6273,
+            6503
+          ]
+        ],
+        "snippet": "భారతీయ రిజర్వ్ బ్యాంక్ (RBI)లో నాన్-బ్యాంకింగ్ ఫైనాన్షియల్ కంపెనీ (NBFC)గా నమోదు కాని భారతీయ పెట్టుబడి సంస్థలో లేదా ప్రధాన పెట్టుబడి కంపెనీలలో విదేశీ పెట్టుబడులను ప్రతిపాదించినట్లయితే, ముందస్తు ప్రభుత్వ అనుమతి అవసరం అని గమనించాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "M&A లావాదేవీలలో మరియు విదేశీ పెట్టుబడులలో ధరలను నియంత్రించే మార్గదర్శకాలు ఏమిటి?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            7623,
+            7835
+          ]
+        ],
+        "snippet": "టేకోవర్ నిబంధనల ప్రకారం, షేర్లకు చెల్లించిన ధరలో ప్రమోటర్లకు వారి షేర్లు లేదా ఓటింగ్ హక్కులు లేదా నియంత్రణ ప్రీమియం లేదా పోటీ లేని రుసుములు లేదా ఇతరత్రా చెల్లించిన లేదా చెల్లించడానికి అంగీకరించిన ఏదైనా ధర ఉండాలి."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            9746,
+            9915
+          ]
+        ],
+        "snippet": "భారతదేశంలోకి ఏదైనా విదేశీ పెట్టుబడి (FVCI వాహనం ద్వారా మళ్ళించబడితే తప్ప) NDI నియమాలలో పేర్కొన్న ధర మార్గదర్శకాలకు లోబడి ఉంటుందని విదేశీ పెట్టుబడిదారులు గుర్తుంచుకోవాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "లిస్టెడ్ కంపెనీల M&A లావాదేవీలలో SEBI పాత్ర ఏమిటి?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            3412,
+            3506
+          ]
+        ],
+        "snippet": "ప్రతిపాదిత విలీనంలోని ఏ పార్టీ అయినా లిస్టెడ్ కంపెనీ అయితే, వర్తించే SEBI నిబంధనలను పాటించాలి."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.en.te.txt",
+        "spans": [
+          [
+            18354,
+            18642
+          ]
+        ],
+        "snippet": "పైన పేర్కొన్న విషయాలతో పాటు, లిస్టెడ్ సెక్యూరిటీలలో విదేశీ పెట్టుబడులను ప్రతిపాదించే చోట, SEBI (భారతదేశంలోని ఏదైనా గుర్తింపు పొందిన స్టాక్ ఎక్స్ఛేంజ్‌లో లిస్టెడ్ చేయబడిన లేదా లిస్టెడ్ కానున్న సంస్థల సెక్యూరిటీలను నియంత్రించే) జారీ చేసిన నియమాలు మరియు నిబంధనలను కూడా పరిగణనలోకి తీసుకోవాలి."
+      }
+    ]
+  }
+]

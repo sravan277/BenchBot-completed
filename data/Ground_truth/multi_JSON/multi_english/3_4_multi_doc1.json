@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "Under what circumstance involving a 25% threshold do the SEBI Takeover Regulations require an acquirer to make an open offer?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            6975,
+            7476
+          ]
+        ],
+        "snippet": "As per the Takeover Regulations, the acquirer is under an obligation to make a public announcement of an open offer for acquiring shares of the target listed company in certain scenarios, such as if an acquirer acquires shares or voting rights in a target listed company that, along with the shares or voting rights, if any, already held by the acquirer and the persons acting in concert (PAC) with the acquirer, entitles them to exercise 25 per cent or more of the voting rights in the target company"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            22478,
+            22842
+          ]
+        ],
+        "snippet": "Under the Takeover Regulations, the obligation to make such a mandatory open offer by an acquirer is triggered upon the occurrence of the following events: • if an acquirer, either by itself or along with persons acting in concert, intends to acquire shares or voting rights in a listed company to exercise 25 per cent or more of the voting rights in such company;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the minimum size of the open offer an acquirer must make under the Takeover Regulations?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            8112,
+            8218
+          ]
+        ],
+        "snippet": "An open offer for acquiring shares must be for at least 26 per cent of total shares of the target company."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            22064,
+            22231
+          ]
+        ],
+        "snippet": "In such a situation, the Takeover Regulations require the acquirer to make an open offer to further acquire at least 26 per cent of the voting capital of such company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What is a key trigger for a mandatory open offer related to the control of a target company?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            6975,
+            7173
+          ]
+        ],
+        "snippet": "As per the Takeover Regulations, the acquirer is under an obligation to make a public announcement of an open offer for acquiring shares of the target listed company in certain scenarios, such as if"
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            23201,
+            23329
+          ]
+        ],
+        "snippet": "if an acquirer intends to acquire control over the target by appointing majority directors, controlling management, policy, etc."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How has the Insolvency and Bankruptcy Code (IBC) affected the M&A landscape?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            27502,
+            27763
+          ]
+        ],
+        "snippet": "While the IBC does not directly deal with M&A, the insolvency process creates an opportunity for potential acquirers to acquire assets of stressed companies, whereby the acquirer may be able to acquire assets at a lower valuation than in ordinary circumstances."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            26678,
+            26811
+          ]
+        ],
+        "snippet": "The introduction of the Insolvency and Bankruptcy Code 2016 (IBC) has brought about a significant change in the Indian M&A landscape."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "Is there a regulatory exemption under the Takeover Code for acquisitions made through a resolution plan under the IBC?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            28858,
+            29082
+          ]
+        ],
+        "snippet": "An acquisition by way of implementation of a resolution plan has been granted various regulatory exemptions, including under the Takeover Code, the ICDR Regulations, and the Companies Act (seeking of shareholders’ approval)."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            30134,
+            30412
+          ]
+        ],
+        "snippet": "In order to aid this process, SEBI has amended the Takeover Regulations to include an exemption from the requirement to make a mandatory open offer if the acquisition of securities of the listed entity is pursuant to a resolution plan that is approved by the NCLT under the IBC."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What do the texts say about the finality of a merger scheme or resolution plan once sanctioned by the NCLT?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            27145,
+            27285
+          ]
+        ],
+        "snippet": "On sanction of the scheme of merger by the NCLT, it becomes binding on all the creditors, shareholders and companies involved in the merger."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            29991,
+            30131
+          ]
+        ],
+        "snippet": "Once the resolution plan is approved by the NCLT, it will be binding on all parties involved and be implemented by the successful applicant."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What are some examples of sectors in which foreign investment is prohibited in India?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            20756,
+            20952
+          ]
+        ],
+        "snippet": "There are a few business sectors in which foreign investment is prohibited, such as the lottery business, chit funds, real estate business, manufacturing of cigars, cigarettes, atomic energy, etc."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            5150,
+            5674
+          ]
+        ],
+        "snippet": "Foreign investment and foreign technology collaboration is prohibited in certain sectors or activities (Prohibited Sectors), such as atomic energy or railway operations, lottery business including government or private lottery, online lotteries, gambling and betting business including casinos, the manufacture of cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes, chit funds and Nidhi companies, trading in transferable development rights, real estate business or construction of farmhouses."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What are the two primary routes through which foreign acquisition or investment can be made into an Indian company?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            19335,
+            19475
+          ]
+        ],
+        "snippet": "Acquisition of an Indian company can be done either through the ‘automatic route’ or the ‘approval route’ as mandated by the FDI Guidelines."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            5726,
+            6207
+          ]
+        ],
+        "snippet": "With respect to certain other sectors (Specified Sectors), the NDI Rules specify the level of foreign investment permitted in such sector (ie, the sectoral cap) and whether such foreign investment is permitted under the automatic route (ie, without the requirement of obtaining any regulatory approval) or under the approval route (where prior permission of the government would be required before foreign investment can be received by the Indian company operating in such sector)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What do the NDI Rules stipulate regarding the pricing of foreign investments?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            22289,
+            22490
+          ]
+        ],
+        "snippet": "The resultant Indian company is allowed to issue or transfer any security to a non-resident outside India in accordance with the pricing guidelines, entry routes and sectoral caps as per the NDI Rules."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            10812,
+            11003
+          ]
+        ],
+        "snippet": "Foreign investors must keep in mind that any foreign investment into India (except if being routed through an FVCI vehicle) will be subject to the pricing guidelines set out in the NDI Rules."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What do the ICDR Regulations mandate regarding securities issued on a preferential basis in a listed company?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            9999,
+            10284
+          ]
+        ],
+        "snippet": "The specified securities allotted on a preferential basis and the equity shares allotted pursuant to exercise of options attached to warrants issued on a preferential basis are subject to lock-in for periods ranging between one to three years, as prescribed under the ICDR Regulations."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            20517,
+            20869
+          ]
+        ],
+        "snippet": "In the event that an investment into a listed Indian company involves a preferential allotment of equity shares or instruments that are convertible into equity shares of such company, then there are certain lock-in restrictions under the SEBI (Issue of Capital and Disclosure Requirements) Regulations 2009 (ICDR Regulations) that must be kept in mind."
+      }
+    ]
+  }
+]

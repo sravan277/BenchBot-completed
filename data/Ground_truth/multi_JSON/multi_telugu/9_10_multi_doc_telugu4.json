@@ -1,0 +1,289 @@
+[
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "M&A లావాదేవీలలో మేధో సంపత్తికి సంబంధించిన ఒప్పందాలు ఎలా నమోదు చేయబడతాయి, మరియు ఈ లావాదేవీలను నియంత్రించే చట్టపరమైన చట్రం ఎంత విస్తృతమైనది?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            1359,
+            1440
+          ]
+        ],
+        "snippet": "సాధారణంగా, M&Asలో, IP లావాదేవీ లైసెన్స్ లేదా అమ్మకపు ఒప్పందంలో సంగ్రహించబడుతుంది."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            1341,
+            1440
+          ]
+        ],
+        "snippet": "M&Aని నియంత్రించే చట్టబద్ధమైన చట్రం చాలా విస్తృతమైనది మరియు సమగ్ర జాబితాను రూపొందించడం సాధ్యం కాదు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "M&Aలో సమగ్ర మేధో సంపత్తి డ్యూ డిలిజెన్స్ (DD) యొక్క పాత్ర ఏమిటి, మరియు తప్పుడు సమాచారం అందించడం వల్ల ఎలాంటి వివాదాలు తలెత్తుతాయి?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            5996,
+            6152
+          ]
+        ],
+        "snippet": "సమగ్ర IP డ్యూ డిలిజెన్స్ (DD),మరోవైపు, M&Aలో లక్ష్యం యొక్క IP పోర్ట్‌ఫోలియో యొక్క ఆరోగ్యాన్ని నిర్ధారించడం ద్వారా లావాదేవీ యొక్క గమనాన్ని బాగా నడిపించవచ్చు."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            4022,
+            4393
+          ]
+        ],
+        "snippet": "పూర్తయిన తర్వాత కొనుగోలు సమయంలో, వాటా కొనుగోలు మరియు వాటా సబ్‌స్క్రిప్షన్ ఒప్పందం నుండి వివాదం తలెత్తింది, దీనిలో కొనుగోలుదారుడు విక్రేతలు తప్పుడు ప్రాతినిధ్యాలు ఇచ్చారని మరియు రాన్‌బాక్సీపై US ఫుడ్ అండ్ డ్రగ్ అడ్మినిస్ట్రేషన్ మరియు న్యాయ శాఖ పెండింగ్‌లో ఉన్న దర్యాప్తుల పుట్టుక, స్వభావం మరియు తీవ్రతను దాచిపెట్టడం ద్వారా లావాదేవీని మోసపూరితంగా ప్రేరేపించారని ఆరోపించాడు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "M&Aలో డ్యూ డిలిజెన్స్ ప్రక్రియను ప్రారంభించే ముందు తీసుకోవాల్సిన ముఖ్యమైన చర్య ఏమిటి, మరియు కార్పొరేట్ ఏర్పాట్లను ఆమోదించే అధికారం ఎవరికి ఉంది?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            8659,
+            8785
+          ]
+        ],
+        "snippet": "IP డ్యూ డిలిజెన్స్ ప్రక్రియను ప్రారంభించే ముందు, కొనుగోలుదారు మరియు లక్ష్యం మధ్య పరస్పర బహిర్గతం చేయని ఒప్పందంపై సంతకం చేయాలి."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            2166,
+            2369
+          ]
+        ],
+        "snippet": "నేషనల్ కంపెనీ లా ట్రిబ్యునల్ (NCLT) అటువంటి పథకాలను ఆమోదించే అధికారం కలిగిన ట్రిబ్యునల్, ఇది 75 శాతం వాటాదారులు లేదా రుణదాతలు అటువంటి పథకాన్ని చేపట్టాలని ప్రతిపాదించినప్పుడు తగిన విధంగా పరిగణించబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "M&A లో మేధో సంపత్తి విలువను ఎలా నిర్వచిస్తారు, మరియు ఒప్పందం తర్వాత తలెత్తే వివాదాస్పద అంశాలలో ఒకటి ఏది?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            15512,
+            15590
+          ]
+        ],
+        "snippet": "IP విలువ అనేది IP యొక్క లైసెన్స్ లేదా బదిలీ నుండి పొందే IP యొక్క ద్రవ్య విలువ."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            252,
+            397
+          ]
+        ],
+        "snippet": "సూత్రప్రాయంగా ఒప్పందాన్ని ముగించే ముందు మరియు తరువాత వివాదాలు తలెత్తవచ్చు, సాధారణంగా భారతదేశంలో అనుబంధంతో M&A వివాదాలు తరువాతి వర్గంలోకి వస్తాయి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "M&Aలో కొనుగోలుదారుని రక్షించడానికి ఏ ఒప్పందపరమైన నిబంధనలు ఉపయోగించబడతాయి, మరియు భారతదేశంలో వ్యాపార వివాదాలలో ఆందోళన కలిగించే ధోరణి ఏమిటి?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            18038,
+            18215
+          ]
+        ],
+        "snippet": "కేటాయించిన IP హక్కులకు సంబంధించి ఏదైనా మూడవ పక్ష ఉల్లంఘన క్లెయిమ్‌లకు వ్యతిరేకంగా కొనుగోలుదారు (అసైనీ)కి పరిహారం చెల్లించడానికి లక్ష్యం (అసైనర్) నుండి IP పరిహారం తీసుకోబడుతుంది."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            21952,
+            22164
+          ]
+        ],
+        "snippet": "చాలా తరచుగా, పౌర బాధ్యతను నివారించడానికి, చట్టబద్ధమైన చర్యలను ఆలస్యం చేయడానికి లేదా అవతలి పక్షాన్ని చర్చల పట్టికకు తీసుకురావడానికి స్వచ్ఛమైన వాణిజ్య పౌర వివాదాల విషయాలలో కూడా క్రిమినల్ ఫిర్యాదులు దాఖలు చేయబడతాయి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "M&A లావాదేవీ తర్వాత కొనుగోలుదారు మేధో సంపత్తి హక్కులను ఎలా భద్రపరచుకోవాలి, మరియు భారతదేశంలో కార్పొరేట్ నేర బాధ్యత భావన ఎలా ఉద్భవించింది?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            18530,
+            18649
+          ]
+        ],
+        "snippet": "లక్ష్య సంస్థ యొక్క మేధో సంపత్తి హక్కులు అటువంటి హక్కులు ఉన్న ప్రతి అధికార పరిధిలో కొనుగోలుదారు పేరులోకి బదిలీ చేయబడాలి."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            23197,
+            23403
+          ]
+        ],
+        "snippet": "ఇండియన్ పీనల్ కోడ్ 1860 (IPC) సెక్షన్ 2 తో చదవబడిన సెక్షన్ 11 నుండి తీసుకోబడిన ఈ భావన, ఏదైనా కంపెనీ లేదా అసోసియేషన్‌తో సహా ప్రతి వ్యక్తి, అది ఇన్కార్పొరేటెడ్ లేదా కాకపోయినా, శిక్షకు గురవుతారని వివరిస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "M&Aలో సాధారణంగా పరిగణించబడే మేధో సంపత్తి ఆస్తులు ఏవి, మరియు వాటాదారుల వివాదాల మధ్యవర్తిత్వంపై భారతీయ చట్టం యొక్క వైఖరి ఏమిటి?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            10487,
+            10605
+          ]
+        ],
+        "snippet": "ఆస్తి వర్గంగా IP విస్తృతంగా ట్రేడ్‌మార్క్‌లు, కాపీరైట్‌లు, డిజైన్‌లు, పేటెంట్లు మరియు వాణిజ్య రహస్యాలను కలిగి ఉంటుంది."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            11091,
+            11182
+          ]
+        ],
+        "snippet": "అయితే, M&A సందర్భంలో లేదా ఇతరత్రా అన్ని వాటాదారుల వివాదాలు స్వయంగా మధ్యవర్తిత్వం వహించబడవు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "M&Aలో సమగ్ర డ్యూ డిలిజెన్స్ నిర్వహించడంలో వైఫల్యం వల్ల కలిగే ప్రతికూల పరిణామం ఏమిటి, మరియు పుట్ ఆప్షన్‌లకు సంబంధించి సెక్యూరిటీస్ అండ్ ఎక్స్ఛేంజ్ బోర్డ్ ఆఫ్ ఇండియా (SEBI) యొక్క వైఖరి ఏమిటి?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            7407,
+            7618
+          ]
+        ],
+        "snippet": "వోక్స్‌వ్యాగన్ రోల్స్ రాయిస్ కార్ వ్యాపారాన్ని కలిగి ఉంది మరియు రోల్స్ రాయిస్ మోటార్ కార్స్ చేసిన అదే తయారీ సౌకర్యం నుండి అదే రోల్స్ రాయిస్ కార్లను తయారు చేసి విక్రయించగలదు, కానీ అది ఆ పేరును ఉపయోగించలేకపోయింది."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            5140,
+            5350
+          ]
+        ],
+        "snippet": "M&A షేర్ కొనుగోలు ఒప్పందాలలో సాధారణంగా కనిపించే పుట్ లేదా కాల్ ఎంపికలతో సమస్యలు ఉన్నాయి, వీటిని సెక్యూరిటీస్ అండ్ ఎక్స్ఛేంజ్ బోర్డ్ ఆఫ్ ఇండియా (SEBI) చెల్లుబాటు అయ్యేవి మరియు అమలు చేయదగినవి అని స్పష్టం చేసింది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "M&Aల భవిష్యత్తులో మేధో సంపత్తి పాత్ర ఎలా ఉండబోతోంది, మరియు నేర చట్టం యొక్క సరైన అనువర్తనానికి ఏ వ్యత్యాసం అవసరం?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.en.te.txt",
+        "spans": [
+          [
+            20109,
+            20202
+          ]
+        ],
+        "snippet": "M&A ఫలితాన్ని ప్రభావితం చేసే లేదా నిర్ణయించే IP యొక్క శక్తి భవిష్యత్తులో మాత్రమే పెరుగుతుంది."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.en.te.txt",
+        "spans": [
+          [
+            34659,
+            34827
+          ],
+          [
+            36306,
+            36474
+          ],
+          [
+            37947,
+            38115
+          ]
+        ],
+        "snippet": "నేరాలపై కఠినంగా ఉండటానికి ప్రజలను నిజంగా బెదిరించే ప్రవర్తన మరియు జరిమానాలు లేదా పౌర చట్టం ద్వారా బాగా నిర్వహించబడే ప్రవర్తన మధ్య తెలివైన వ్యత్యాసాలను గుర్తించడం అవసరం."
+      }
+    ]
+  }
+]

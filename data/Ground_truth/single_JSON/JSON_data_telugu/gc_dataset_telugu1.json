@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "te",
+    "query": "తగిన శ్రద్ధ వహించే వ్యాయామం చేసేటప్పుడు మార్గదర్శక చట్టపరమైన సూత్రం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            1354,
+            1651
+          ]
+        ],
+        "snippet": "శ్రద్ధా అభ్యాసాన్ని నిర్వహించే సమయంలో మార్గదర్శక సూత్రం కేవియట్ ఎంప్టర్, ఎందుకంటే తరచుగా తమను తాము ఒక వధువుకు ఆకర్షణీయంగా మార్చుకోవాలనుకునే వ్యాపారాలు నిర్వహణ ద్వారా 'దుస్తులు ధరించే' అవకాశం ఉంది, అయితే ఉబెర్రిమా ఫైడ్స్‌కు ఖచ్చితమైన ఒప్పందాలను రూపొందించడంలో మరియు చర్చించడంలో టాక్ మార్పులు ఉంటాయి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "కొనుగోలుదారుడి రిస్క్ ఆకలికి సంబంధించి తగిన శ్రద్ధను నిర్వహించడానికి ప్రాథమిక హేతువు ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            2343,
+            2587
+          ]
+        ],
+        "snippet": "లక్ష్యం యొక్క వ్యాపార నమూనాలో అంతర్లీనంగా ఉన్న నష్టాలు పెట్టుబడిదారుడి ఆకలికి అనుగుణంగా ఉంటాయి - కొంతమంది కొనుగోలుదారులు లేదా పెట్టుబడిదారులు కొన్ని రకాల రిస్క్‌లను కలిగి ఉన్న వ్యాపారాలకు గురికావడానికి అనుకూలంగా ఉండరు (ఉదా.,ప్రభుత్వ ఒప్పందాలు);"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "తగిన శ్రద్ధ ప్రక్రియను ప్లాన్ చేయడానికి సమయం కేటాయించడం ఎందుకు ముఖ్యం?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            4254,
+            4509
+          ]
+        ],
+        "snippet": "శ్రద్ధను ప్లాన్ చేయడంలో సమయం గడపడం ముఖ్యం, ఇది శ్రద్ధను త్వరగా మార్చడానికి సహాయపడుతుంది మరియు లక్ష్యం ఒకటి కంటే ఎక్కువ మంది సంభావ్య దాతృత్వాన్ని ఆకర్షించడానికి ప్రయత్నిస్తుండవచ్చు కాబట్టి, ఎక్కువగా వివరణాత్మక శ్రద్ధ యొక్క లగ్జరీ లక్ష్యం ద్వారా అందించబడదు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "ఒక కంపెనీ వరుసగా మూడు సంవత్సరాల పాటు తన ఆర్థిక నివేదికలను లేదా వార్షిక రిటర్న్‌లను దాఖలు చేయడంలో విఫలమైతే డైరెక్టర్లకు కలిగే పర్యవసానం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            9664,
+            9773
+          ]
+        ],
+        "snippet": "వరుసగా మూడు సంవత్సరాల పాటు (రెండు పత్రాలలో దేనినైనా) దాఖలు చేయనప్పుడు, అది డైరెక్టర్ల అనర్హతకు దారితీస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "ట్రేడ్ మార్క్స్ చట్టం 1999 ప్రకారం, అనుబంధిత ట్రేడ్‌మార్క్‌ను కేటాయించడానికి సంబంధించిన నియమం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            11006,
+            11342
+          ]
+        ],
+        "snippet": "ట్రేడ్ మార్క్స్ చట్టం 1999 యొక్క నిబంధనల ప్రకారం, రిజిస్ట్రేషన్ ప్రక్రియ సమయంలో మరొక ట్రేడ్‌మార్క్‌తో అనుబంధించబడిన ట్రేడ్‌మార్క్‌ను మరొక మార్క్‌తో కూడా కేటాయించాలి మరియు దానిని ఒంటరిగా బదిలీ చేయలేము, ట్రేడ్ మార్క్స్ చట్టం 1999 యొక్క నిబంధనల ప్రకారం అనుబంధ ట్రేడ్‌మార్క్‌ల మధ్య అనుబంధాన్ని రద్దు చేయడానికి అవసరమైన చర్యలు తీసుకుంటే తప్ప."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "మనీలాండరింగ్‌ను అరికట్టడానికి అమలు చేయబడిన, తగిన వాల్యుయేషన్ లేకుండా ప్రీమియంతో జారీ చేయబడిన షేర్లపై పన్నుకు వ్యావహారిక పదం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            13315,
+            13419
+          ]
+        ],
+        "snippet": "దీనిని వ్యావహారికంగా 'ఏంజెల్ టాక్స్' అని పిలుస్తారు - మనీ లాండరింగ్‌ను అరికట్టడానికి అమలు చేయబడిన పన్ను."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "భారతదేశంలో కొన్ని కాంట్రాక్టులపై స్టాంప్ డ్యూటీ చెల్లించకపోతే చట్టపరమైన చిక్కు ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            16046,
+            16188
+          ]
+        ],
+        "snippet": "భారతదేశంలో కొన్ని కాంట్రాక్టులపై స్టాంప్ డ్యూటీ తప్పనిసరి, మరియు స్టాంప్ డ్యూటీ చెల్లించకపోవడం ఒప్పందం అమలు సామర్థ్యాన్ని ప్రభావితం చేస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "పబ్లిక్ శోధనల ద్వారా మాత్రమే అన్ని సంబంధిత-పార్టీ లావాదేవీలను గుర్తించడం ఎందుకు కష్టం?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            17200,
+            17456
+          ]
+        ],
+        "snippet": "అన్ని పబ్లిక్ శోధనలు అటువంటి ఆసక్తులను వెల్లడించలేవు ఎందుకంటే ఎంటిటీలు నిర్మాణాత్మకంగా ఉన్నాయి మరియు అంతిమ ప్రయోజనకరమైన యాజమాన్యం (UBO) యొక్క బహిర్గతం చట్ట పుస్తకంలో ఇటీవల ప్రవేశపెట్టబడినందున, UBO యొక్క రాడార్‌ను దాటని ఎంటిటీలలో ఇప్పటికీ ఆసక్తులు ఉండవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "COVID-19 మహమ్మారి నేపథ్యంలో, పునరుద్ధరించబడిన శ్రద్ధ వ్యాయామం వ్యాపారం యొక్క ఏ అంశాలపై దృష్టి పెట్టాలి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            20589,
+            20730
+          ]
+        ],
+        "snippet": "సరఫరా గొలుసుపై ప్రభావంపై శ్రద్ధ, ఒప్పంద బాధ్యతల పనితీరు, ఉత్పత్తి మరియు అమ్మకాల నెట్‌వర్క్‌లు మరియు వ్యాపార ప్రభావం యొక్క విశ్లేషణ చేపట్టాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "ఏ పరిస్థితులలో కొనుగోలుదారు లేదా పెట్టుబడిదారు ప్రమోటర్ లేదా విక్రేత నుండి నష్టపరిహారాన్ని కోరాలి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            21994,
+            22501
+          ]
+        ],
+        "snippet": "లక్ష్యానికి సంబంధించిన ఒక అన్వేషణతో, లక్ష్యం లేదా ప్రమోటర్ ఎటువంటి పరిష్కార చర్య తీసుకోలేరు, లేదా లక్ష్యం లేదా ప్రమోటర్ మూసివేయడానికి ముందు ఏదైనా పరిష్కార చర్య తీసుకోవడానికి ఆసక్తి చూపకపోతే, మరియు అలాంటి అన్వేషణ భవిష్యత్తులో నిర్ణయించలేని సమయ వ్యవధిలో లక్ష్యంపై ద్రవ్య ప్రభావాన్ని చూపే అవకాశం ఉంటే (పరిమితి లేదా ప్రిస్క్రిప్షన్‌కు లోబడి), మరియు కొనుగోలుదారు లేదా పెట్టుబడిదారు దాని పరిణామాలను భరించాలని అనుకోకపోతే, కొనుగోలుదారు లేదా పెట్టుబడిదారుడు ప్రమోటర్ లేదా విక్రేత నుండి దానికి నష్టపరిహారాన్ని కోరాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "te",
+    "query": "ఒక విషయం షరతు పూర్వగామి కాకుండా తదుపరి షరతుగా ఉండాలా అని నిర్ణయించడానికి మార్గదర్శక సూత్రం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            23542,
+            23692
+          ]
+        ],
+        "snippet": "పైన పేర్కొన్న ఏవైనా విషయాలు పరిధిలోకి రాని మరియు షరతుల పూర్వగామిగా చేర్చబడితే లావాదేవీ ముగింపును ఆలస్యం చేసే ఏవైనా విషయాలు తదుపరి షరతులుగా చేర్చబడాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "te",
+    "query": "జాబితా చేయని కంపెనీకి భారతీయ వాల్యుయేషన్ చట్టాలను పాటించకుండా ఉండటానికి, ఉత్తమ అభ్యాసం ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            25387,
+            25591
+          ]
+        ],
+        "snippet": "నిబంధనలకు విరుద్ధంగా ఉండకుండా ఉండటానికి, లిస్టెడ్ కంపెనీలో పెట్టుబడి లేదా సముపార్జన చేయాలంటే, రిజిస్టర్డ్ వాల్యూయర్‌తో కూడిన బృందంలోని మర్చంట్ బ్యాంకర్ నుండి ఫెయిర్ వాల్యుయేషన్‌పై నివేదికను పొందడం ఉత్తమం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "te",
+    "query": "పోటీ చట్టం 2002 కింద ఒక సముపార్జన \"కలయిక\"గా వర్గీకరించబడితే, ఏ నియంత్రణ చర్య అవసరం?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            27257,
+            27405
+          ]
+        ],
+        "snippet": "మరొక ఉదాహరణ ఏమిటంటే, కాంపిటీషన్ యాక్ట్ 2002 ప్రకారం ఒక సముపార్జన కలయిక వర్గంలోకి వస్తే, కాంపిటీషన్ కమిషన్ ఆఫ్ ఇండియాకు దరఖాస్తు చేసుకుని ఆమోదించాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "te",
+    "query": "లక్ష్య కంపెనీ యొక్క ఆర్టికల్స్ ఆఫ్ అసోసియేషన్‌లో నిశ్చయాత్మక ఒప్పందం నుండి నిబంధనలను పొందుపరచడం ఎందుకు ముఖ్యం?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            28458,
+            28547
+          ]
+        ],
+        "snippet": "ఏదైనా ఉల్లంఘన విషయంలో నిర్దిష్ట పనితీరును కోరడంలో ఆర్టికల్‌లకు ఇటువంటి సవరణ సహాయపడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "te",
+    "query": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా (RBI)కి ఒక లావాదేవీని నివేదించడంలో విఫలమైతే కలిగే పర్యవసానాలు ఏమిటి?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            29250,
+            29467
+          ]
+        ],
+        "snippet": "లావాదేవీని నివేదించడం మరియు RBI నుండి రసీదు పొందడం చాలా అవసరం, లేకుంటే డబ్బును తిరిగి పంపడం ఒక సవాలుగా మారుతుంది మరియు నివేదించడంలో జాప్యాలు పెట్టుబడి మొత్తానికి సమానంగా ఉండే చక్రవడ్డీ రుసుములను చెల్లించడం జరుగుతుంది."
+      }
+    ]
+  }
+]

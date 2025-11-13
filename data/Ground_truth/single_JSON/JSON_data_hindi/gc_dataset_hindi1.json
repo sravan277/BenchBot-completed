@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "ड्यू डिलिजेंस अभ्यास करते समय मार्गदर्शक कानूनी सिद्धांत क्या है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            1150,
+            1374
+          ]
+        ],
+        "snippet": "कानूनी ड्यू डिलिजेंस करने का व्यापक तर्क यह है कि अधिग्रहणकर्ता या निवेशक को सूचित निर्णय लेने में मदद करना कि:\nलक्ष्य द्वारा वर्णित व्यवसाय मॉडल, प्रथाएँ और संचालन नियामक वातावरण को ध्यान में रखते हुए कार्य करता है या नहीं;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "अधिग्रहणकर्ता की जोखिम लेने की क्षमता के संबंध में ड्यू डिलिजेंस आयोजित करने का एक प्राथमिक तर्क क्या है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            1375,
+            1581
+          ]
+        ],
+        "snippet": "लक्ष्य के व्यवसाय मॉडल में निहित जोखिम निवेशक की इच्छा के अनुरूप हैं या नहीं – कुछ अधिग्रहणकर्ता या निवेशक उन व्यवसायों के प्रति संवेदनशील नहीं होते जिनमें कुछ प्रकार के जोखिम होते हैं (जैसे, सरकारी अनुबंध)"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "ड्यू डिलिजेंस प्रक्रिया की योजना बनाने में समय लगाना क्यों महत्वपूर्ण है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            2345,
+            2601
+          ]
+        ],
+        "snippet": "यह आवश्यक है कि परिश्रम की योजना बनाने में समय लगाया जाए, जिससे परिश्रम स्वयं का तेज़ टर्नअराउंड हो सके, और आमतौर पर विस्तृत परिश्रम की सुविधा लक्ष्य स्वयं नहीं देता, क्योंकि लक्ष्य एक से अधिक संभावित प्रस्तावकों को आकर्षित करने की कोशिश कर रहा हो सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "यदि कोई कंपनी लगातार तीन वर्षों तक अपनी वित्तीय रिपोर्ट या वार्षिक रिटर्न दाखिल करने में विफल रहती है तो निदेशकों के लिए इसका क्या परिणाम होता है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            4996,
+            5114
+          ]
+        ],
+        "snippet": "यदि इन दस्तावेजों में से कोई भी तीन लगातार वर्षों तक नहीं दाखिल किया जाता है, तो इससे निदेशकों की अयोग्यता हो जाती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "ट्रेड मार्क्स एक्ट 1999 के अनुसार, एक संबद्ध ट्रेडमार्क के सौंपने के संबंध में क्या नियम है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            5464,
+            5828
+          ]
+        ],
+        "snippet": "ट्रेड मार्क्स एक्ट 1999 के प्रावधानों के अनुसार, एक ट्रेडमार्क जिसे पंजीकरण प्रक्रिया के दौरान किसी अन्य ट्रेडमार्क के साथ जोड़ा गया था, उसे अन्य चिह्न के साथ ही सौंपा जाना चाहिए और इसे अकेले स्थानांतरित नहीं किया जा सकता, जब तक कि ट्रेड मार्क्स एक्ट 1999 के प्रावधानों के तहत जुड़ी हुई ट्रेडमार्कों के बीच के संबंध को समाप्त करने के लिए आवश्यक कदम नहीं उठाए जाएँ।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "उचित मूल्यांकन के बिना प्रीमियम पर जारी किए गए शेयरों पर लगने वाले कर का बोलचाल का शब्द क्या है, जिसे मनी लॉन्ड्रिंग को रोकने के लिए लागू किया गया था?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            6721,
+            6966
+          ]
+        ],
+        "snippet": "यह भी महत्वपूर्ण है कि उन शेयरों पर संभावित कर की जांच की जाए जो मूलधन से प्रीमियम पर जारी किए गए हैं,13 जिनका उचित मूल्यांकन नहीं किया गया है, जिन्हें आमतौर पर \"एंजेल टैक्स\" कहा जाता है – यह वह कर है जो धन शोधन को रोकने के लिए लागू किया गया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "भारत में कुछ अनुबंधों पर स्टांप शुल्क का भुगतान न करने का कानूनी निहितार्थ क्या है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            7885,
+            8017
+          ]
+        ],
+        "snippet": "यह देखना कि कंपनी का अनुबंध मॉडल उपर्युक्त सिद्धांतों को कैप्चर करता है या नहीं, ड्यू डिलिजेंस प्रक्रिया में एक प्रमुख जानकारी होगी।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "केवल सार्वजनिक खोजों के माध्यम से सभी संबंधित-पक्ष लेन-देन की पहचान करना क्यों मुश्किल हो सकता है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            8868,
+            9006
+          ]
+        ],
+        "snippet": "सभी सार्वजनिक खोजें ऐसे हितों को उजागर नहीं कर पातीं क्योंकि संस्थाओं की संरचना इस प्रकार है, और यह देखते हुए कि अंतिम लाभार्थी का खुलासा…"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "कोविड-19 महामारी के संदर्भ में, एक संशोधित डिलिजेंस अभ्यास को व्यवसाय के किन पहलुओं पर ध्यान केंद्रित करना चाहिए?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            10539,
+            10693
+          ]
+        ],
+        "snippet": "आपूर्ति श्रृंखला, अनुबंधीय दायित्वों का प्रदर्शन, उत्पादन और बिक्री नेटवर्क पर प्रभाव तथा व्यवसायिक प्रभाव का विश्लेषण करने हेतु डिलिजेंस किया जाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "किन परिस्थितियों में एक अधिग्रहणकर्ता या निवेशक को प्रमोटर या विक्रेता से क्षतिपूर्ति की मांग करनी चाहिए?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            11100,
+            11597
+          ]
+        ],
+        "snippet": "ऐसी कोई खोज जो लक्ष्य से संबंधित हो, जिसके लिए लक्ष्य या प्रमोटर द्वारा कोई सुधारात्मक कार्रवाई नहीं की जा सकती, या यदि लक्ष्य या प्रमोटर बंद होने से पहले किसी भी सुधारात्मक कार्रवाई करने के इच्छुक नहीं हैं, और यदि ऐसी खोज भविष्य में अनिर्धारित समय‑सीमा में लक्ष्य पर मौद्रिक प्रभाव डालने की संभावना रखती है (सीमा या अवधि के अधीन), तथा अधिग्रहणकर्ता या निवेशक इसका परिणाम वहन नहीं करने का इरादा रखता है, तो अधिग्रहणकर्ता या निवेशक को प्रमोटर या विक्रेता से इसके लिए क्षतिपूर्ति की मांग करनी चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "यह निर्धारित करने के लिए मार्गदर्शक सिद्धांत क्या है कि कोई मामला पूर्व शर्त के बजाय बाद की शर्त होना चाहिए?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            11824,
+            11997
+          ]
+        ],
+        "snippet": "उपरोक्त में न आने वाले मामलों को, यदि उन्हें पूर्व शर्तों के रूप में शामिल किया जाए तो लेन‑देन के समापन में देरी होगी, इन्हें बाद की शर्तों के रूप में शामिल किया जाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "एक असूचीबद्ध कंपनी के लिए भारतीय मूल्यांकन कानूनों का अनुपालन न करने से बचने के लिए सबसे अच्छी प्रथा क्या है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            12792,
+            12999
+          ]
+        ],
+        "snippet": "अनुपालन से बचने के लिए, निष्पक्ष मूल्यांकन की रिपोर्ट सबसे अच्छी होगी यदि वह एक मर्चेंट बैंकर से प्राप्त की जाए जिसके दल में पंजीकृत मूल्यांकक शामिल हो, जब निवेश या अधिग्रहण अनलिस्टेड कंपनी में किया जाना हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "यदि किसी अधिग्रहण को प्रतिस्पर्धा अधिनियम 2002 के तहत \"संयोजन\" के रूप में वर्गीकृत किया गया है, तो क्या नियामक कार्रवाई की आवश्यकता है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            13784,
+            13995
+          ]
+        ],
+        "snippet": "एक और उदाहरण यह होगा कि यदि कोई अधिग्रहण प्रतियोगिता अधिनियम 2002 के तहत संयोजन24 श्रेणी में आता है, तो प्रतिस्पर्धा आयोग (Competition Commission of India) को आवेदन प्रस्तुत करना होगा और उसकी स्वीकृति लेनी होगी।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "एक निश्चित समझौते के प्रावधानों को लक्ष्य कंपनी के आर्टिकल्स ऑफ एसोसिएशन में प्रतिष्ठापित करना क्यों महत्वपूर्ण है?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            14462,
+            14584
+          ]
+        ],
+        "snippet": "कंपनी के लेख, लक्ष्य कंपनी के उपनियमों के रूप में कार्य करने के साथ-साथ, कंपनी और उसके शेयरधारकों के बीच एक अनुबंध भी हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "भारतीय रिजर्व बैंक (RBI) को किसी लेन-देन की रिपोर्ट करने में विफल रहने के क्या परिणाम हैं?",
+    "document_description": "Due Diligence Management Closing and Post-Closing Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management - Hindi.txt",
+        "spans": [
+          [
+            14933,
+            15171
+          ]
+        ],
+        "snippet": "यह आवश्यक है कि लेनदेन की रिपोर्ट की जाए और RBI से स्वीकृति प्राप्त की जाए, जिसके विफल होने पर धन की पुनर्वापसी चुनौतीपूर्ण हो जाएगी, और रिपोर्टिंग में देरी करने से संयोजन शुल्क का भुगतान करना पड़ेगा, जो निवेश की राशि के बराबर हो सकता है।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "te",
+    "query": "M&A లావాదేవీలో ప్రాతినిధ్యాలు మరియు వారంటీలు (R&W) యొక్క ప్రాథమిక పాత్ర ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            310,
+            450
+          ]
+        ],
+        "snippet": "R&W వివరించిన ప్రకారం R&W అనేది లావాదేవీకి ముందు కాలానికి సంబంధించిన ప్రకటనలు, ఒప్పందం అమలుపై మరియు పూర్తయిన సమయంలో నిజమని నిర్ధారించబడింది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "'ప్రాతినిధ్యం' మరియు 'వారంటీ' మధ్య సాధారణ వ్యత్యాసం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            1149,
+            1386
+          ]
+        ],
+        "snippet": "సరళంగా చెప్పాలంటే, 'ప్రాతినిధ్యం' అనేది ఇప్పటికే ఉన్న లేదా గత సంఘటనకు సంబంధించిన వాస్తవ ప్రకటన, దీని ఆధారంగా కొనుగోలుదారు ఒప్పందంలోకి ప్రవేశించడానికి ప్రేరేపించబడతాడు, అయితే 'వారంటీ' అనేది ఒక నిర్దిష్ట రాష్ట్రం యొక్క నిరంతర ఉనికికి హామీ."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "వస్తువుల అమ్మకపు చట్టం 1930 (SOGA) 'వారంటీ'ని ఎలా నిర్వచిస్తుంది మరియు దాని ఉల్లంఘన యొక్క పర్యవసానం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            2214,
+            2433
+          ]
+        ],
+        "snippet": "SOGA 'వారంటీ'ని ఒప్పందం యొక్క ప్రధాన ఉద్దేశ్యానికి ఒక నిబంధన అనుషంగికంగా నిర్వచిస్తుంది, దీని ఉల్లంఘన వస్తువులను తిరస్కరించే మరియు ఒప్పందాన్ని తిరస్కరించబడినదిగా పరిగణించే హక్కుకు దారితీయదు కానీ నష్టాలకు దావా వేస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "వస్తువుల అమ్మకపు చట్టం 1930 (SOGA) విక్రేత యొక్క వస్తువుల శీర్షికకు సంబంధించి ఏ సూచించబడిన షరతు మరియు వారంటీలను అందిస్తుంది?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            3414,
+            3729
+          ]
+        ],
+        "snippet": "ఈ సందర్భంలో, SOGA యొక్క సెక్షన్ 14 స్పష్టంగా అందిస్తుంది, దీనికి విరుద్ధంగా ఒక ఒప్పందానికి లోబడి, విక్రేతకు వస్తువులను విక్రయించడానికి హక్కు ఉందని మరియు నిశ్శబ్ద స్వాధీనం (అంటే మూడవ పక్ష క్లెయిమ్‌ల అవకాశం లేకుండా) మరియు అటువంటి వస్తువులకు సంబంధించి భారాలు లేకపోవడం వంటి సూచించబడిన వారంటీలు ఉన్నాయని గమనించడం ముఖ్యం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "R&W అందించబడినప్పటికీ తగిన శ్రద్ధ (DD) వ్యాయామం నిర్వహించడానికి చట్టపరమైన ఆధారం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            6738,
+            6992
+          ]
+        ],
+        "snippet": "DD అవసరం; R&Wతో పరస్పర చర్య అమ్మకందారుడు విక్రయించబడుతున్న వస్తువులకు సంబంధించిన అన్ని సంబంధిత వాస్తవాలను బహిర్గతం చేయవలసిన అవసరం లేనందున DD వ్యాయామం జరుగుతుంది (అంటే, కేవియట్ ఎమ్ప్టర్ లేదా కొనుగోలుదారు జాగ్రత్త అనే సూత్రం వర్తించే న్యాయశాస్త్రంలో భాగం)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "ఇసుక బ్యాగింగ్ మరియు ఇసుక బ్యాగింగ్ నిరోధక నిబంధన మధ్య వ్యత్యాసం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            9404,
+            9725
+          ]
+        ],
+        "snippet": "ఇసుక బ్యాగింగ్ నిబంధన ఒక కొనుగోలుదారుడు నిజం తెలిసిన చోట కూడా R&W ఉల్లంఘనకు వారెంటర్ నుండి నష్టపరిహారాలను కోరవచ్చు. దీనికి విరుద్ధంగా, ఒక ఇసుక బ్యాగింగ్ వ్యతిరేక నిబంధన, లావాదేవీ ముగిసే ముందు ఏదైనా ప్రాతినిధ్యం లేదా వారంటీ యొక్క సరికానితనం గురించి కొనుగోలుదారుకు తెలిసినప్పుడు ఉపశమనం పొందే అర్హత ఉండదని స్పష్టం చేస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "నష్టపరిహారాల దావాతో పోలిస్తే చెల్లింపు సమయానికి సంబంధించి నష్టపరిహార దావా యొక్క ముఖ్య ప్రయోజనం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            13852,
+            13961
+          ]
+        ],
+        "snippet": "బాధ్యత పెరిగిన తర్వాత చెల్లింపు చేయడానికి పరిహారదారునికి నష్టపరిహారం చెల్లించమని పరిహారాన్ని అభ్యర్థించవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "నష్టపరిహార దావా కింద నష్టాలను తగ్గించే బాధ్యత ICA యొక్క సెక్షన్ 73 కింద నష్టపరిహారాల దావాతో ఎలా భిన్నంగా ఉంటుంది?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            17231,
+            17422
+          ]
+        ],
+        "snippet": "నష్టపరిహారం కింద నష్టాలు తగ్గింపు చర్యలను పరిగణనలోకి తీసుకోవలసిన అవసరం ఉండకపోవచ్చు మరియు అందువల్ల నష్టపరిహారం ఇచ్చే వ్యక్తి తన బాధ్యతను పరిమితం చేయడానికి అటువంటి స్థానాన్ని చేర్చవలసి రావచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "కొనుగోలుదారులు \"నిర్దిష్ట నష్టపరిహారాలను\" ఏ ప్రయోజనం కోసం కోరుకుంటారు?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            17447,
+            17674
+          ]
+        ],
+        "snippet": "R&W కోసం సాధారణ నష్టపరిహారంతో పాటు, ఒప్పందాన్ని అమలు చేయడానికి ముందు (సాధారణంగా DD ప్రక్రియ సమయంలో) నిర్దిష్ట నష్టపరిహారాలను గుర్తించినప్పుడు, కొనుగోలుదారులు అటువంటి ప్రమాదానికి వ్యతిరేకంగా నిర్దిష్ట నష్టపరిహారాలను కోరుకుంటారు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "విదేశీ మారక చట్టాల ప్రకారం నివాసి వారెంట్ల నుండి విదేశీ కొనుగోలుదారులకు నష్టపరిహార చెల్లింపులపై ఉన్న పరిమితులు ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            18841,
+            19107
+          ]
+        ],
+        "snippet": "2016 వరకు, నష్టపరిహార చెల్లింపులకు రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా (RBI) ముందస్తు అనుమతి అవసరం. అయితే, 20 మే 2016న, RBI ఒక నోటిఫికేషన్ జారీ చేసింది, వాటా అమ్మకంలో,అమ్మకపు పరిగణనలో 25 శాతం వరకు మరియు ఆమోదం లేకుండా ఒప్పందం తేదీ నుండి 18 నెలల వరకు నష్టపరిహారం అందించబడవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "te",
+    "query": "వారెంట్లు కొన్ని ప్రాతినిధ్యాలను \"జ్ఞానం\" క్వాలిఫయర్‌తో ఎందుకు పరిమితం చేయడానికి ప్రయత్నిస్తారు?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            20494,
+            20613
+          ]
+        ],
+        "snippet": "దీనికి కారణం ఏమిటంటే, నోటీసు అందని దావాలు లేదా గుప్త లోపాలు వంటి కొన్ని విషయాలను వారెంట్ తెలుసుకోవడం సాధ్యం కాకపోవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "te",
+    "query": "నష్టపరిహార దావాలలో మెటీరియాలిటీ థ్రెషోల్డ్‌ల కోసం ఉపయోగించే \"టిప్పింగ్ బాస్కెట్\" భావన ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            21434,
+            21629
+          ]
+        ],
+        "snippet": "టిప్పింగ్ బాస్కెట్ అనే భావన - మొత్తం క్లెయిమ్‌లు అంగీకరించిన పరిమితిని మించి ఉన్న చోట పరిమితికి దిగువన ఉన్న క్లెయిమ్‌లకు నష్టపరిహారం కోరే నష్టపరిహారం పొందిన పక్షం సామర్థ్యం - తరచుగా కనిపిస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "te",
+    "query": "వివిధ రకాల వారంటీల కోసం నష్టపరిహారాల కోసం ఒప్పంద పరిమితి కాలాలు సాధారణంగా ఎలా నిర్మించబడతాయి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            22561,
+            22722
+          ]
+        ],
+        "snippet": "సాధారణంగా ప్రాథమిక వారంటీలు సమయానికి అపరిమితంగా ఉంటాయి, అయితే ఇతర R&Wలు 18 నుండి 36 నెలలకు పరిమితం చేయబడతాయి, పన్ను వారంటీలు తప్ప, దీనికి ఏడు సంవత్సరాలు ప్రమాణం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "te",
+    "query": "బహుళ విక్రేతలతో కూడిన లావాదేవీలో, వారి బాధ్యత \"అనేకం మరియు ఉమ్మడి కాదు\" అని అర్థం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            23694,
+            23770
+          ]
+        ],
+        "snippet": "దీని అర్థం వారు తీసుకున్న బాధ్యతల మేరకు మాత్రమే వారిపై క్లెయిమ్‌లు చేయవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "te",
+    "query": "M&A లావాదేవీలలో R&W భీమాను ఉపయోగించడం యొక్క ఉద్దేశ్యం మరియు ప్రయోజనం ఏమిటి?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            24955,
+            25264
+          ]
+        ],
+        "snippet": "M&A లావాదేవీల చర్చలలో ఎక్కువ భాగం ఈ నిబంధనలు మరియు వాటి పరిమితుల చుట్టూ తిరుగుతుంది మరియు అవి తరచుగా తీవ్రంగా చర్చించబడతాయి. భీమా లభ్యత చర్చల కోసం తీసుకునే సమయాన్ని బాగా తగ్గిస్తుంది మరియు ధరను కూడా ప్రభావితం చేస్తుంది, ఎందుకంటే విక్రేతలు తరచుగా వారి లావాదేవీ తర్వాత నష్టాలను కోరిన పరిగణలోకి ధర నిర్ణయిస్తారు."
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "Under the Companies Act, who grants the final approval for any merger?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt.",
+        "spans": [
+          [
+            2785,
+            2848
+          ]
+        ],
+        "snippet": "The final approval for any merger would be granted by the NCLT."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the condition under which the NCLT may dispense with the requirement of holding a creditors' meeting for a merger?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            3265,
+            3506
+          ]
+        ],
+        "snippet": "The requirement of holding creditors meetings may be dispensed with by the NCLT at its discretion upon the companies furnishing affidavits of creditors having at least 90 per cent in value confirming their acceptance of the scheme of merger."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "Who is permitted to make an objection pertaining to a merger?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            3780,
+            4054
+          ]
+        ],
+        "snippet": "Any objection pertaining to the merger can only be made by members who hold not less than 10 per cent of the shareholding, or creditors having outstanding debt amounting to not less than 5 per cent of the total outstanding debt as per the latest audited financial statement."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "To which transactions do the Takeover Regulations apply?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            6717,
+            6973
+          ]
+        ],
+        "snippet": "The Takeover Regulations apply to all direct and indirect acquisitions of shares or voting rights or control in a listed company in India, except to companies listed on the institutional trading platform of a stock exchange without making any public issue."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What is the minimum size of an open offer for acquiring shares of a target company?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            8112,
+            8218
+          ]
+        ],
+        "snippet": "An open offer for acquiring shares must be for at least 26 per cent of total shares of the target company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What obligation does a listed company have when it plans to undertake a scheme of arrangement?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            10503,
+            10757
+          ]
+        ],
+        "snippet": "As and when a listed company plans to undertake a scheme of arrangement, the listed company is obliged to file the draft scheme of arrangement with the stock exchange or exchanges for the purpose of obtaining an observation letter or no-objection letter."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What types of \"Combinations\" are prohibited by the Competition Act 2002?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            12072,
+            12251
+          ]
+        ],
+        "snippet": "In general, the Competition Act prohibits Combinations that cause, or are likely to cause, an appreciable adverse effect on competition (AAEC) within the relevant market in India."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "Under what condition is a transaction eligible for the \"de minimis exemption,\" exempting it from the pre-notification requirement?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            13646,
+            13999
+          ]
+        ],
+        "snippet": "Accordingly, any enterprises being party to a Combination where the value of assets being acquired, taken control of, merged or amalgamated is not more than more than 3.5 billion Indian rupees in India or where the turnover is not more than 10 billion Indian rupees in India, are exempted from the pre-notification requirement under the Competition Act."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "For a proposed Combination to be deemed approved under the \"green channel,\" what is required?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            17237,
+            17393
+          ]
+        ],
+        "snippet": "Upon filing under the green channel and an acknowledgment being received from the CCI thereof, the proposed Combination is deemed to be approved by the CCI."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What are the two primary routes through which an acquisition of an Indian company by a foreign entity can be done?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            19335,
+            19475
+          ]
+        ],
+        "snippet": "Acquisition of an Indian company can be done either through the ‘automatic route’ or the ‘approval route’ as mandated by the FDI Guidelines."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "What recent change has the government of India made to curb opportunistic takeovers?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            21162,
+            21387
+          ]
+        ],
+        "snippet": "Accordingly, an entity of a country that shares a land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country can invest only through the approval route."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "What is the definition of an \"inbound merger\"?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            21906,
+            21998
+          ]
+        ],
+        "snippet": "An inbound merger is a cross-border merger where the resultant company is an Indian company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "In an outbound merger, what happens to an office of the Indian company located in India?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            24120,
+            24409
+          ]
+        ],
+        "snippet": "An office of the Indian company in India is deemed to be a branch office of the resultant foreign company and is governed by the Foreign Exchange Management (Establishment in India of a branch office or a liaison office or a project office or any other place of business) Regulations 2016."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "What opportunity does the insolvency process under the IBC provide for potential acquirers?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            27502,
+            27763
+          ]
+        ],
+        "snippet": "While the IBC does not directly deal with M&A, the insolvency process creates an opportunity for potential acquirers to acquire assets of stressed companies, whereby the acquirer may be able to acquire assets at a lower valuation than in ordinary circumstances."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "What has the Supreme Court observed regarding the transfer of employees to a new management without their consent?",
+    "document_description": "Regulatory Interventions in M&A including CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            31293,
+            31540
+          ]
+        ],
+        "snippet": "However, the Supreme Court has observed that without their consent, employees cannot be forced to work under a different management, and if they do not give their consent to such transfer, those employees are entitled to retrenchment compensation."
+      }
+    ]
+  }
+]

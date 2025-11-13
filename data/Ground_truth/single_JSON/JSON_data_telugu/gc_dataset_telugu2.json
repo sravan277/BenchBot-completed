@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "te",
+    "query": "కంపెనీల చట్టం ప్రకారం, ఏదైనా విలీనానికి తుది ఆమోదం ఎవరు మంజూరు చేస్తారు?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            1804,
+            1864
+          ]
+        ],
+        "snippet": "ఏదైనా విలీనం కోసం తుది ఆమోదం NCLT ద్వారా మంజూరు చేయబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "NCLT విలీనం కోసం రుణదాతల సమావేశాన్ని నిర్వహించవలసిన అవసరాన్ని ఏ షరతు కింద తొలగించవచ్చు?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            2222,
+            2420
+          ]
+        ],
+        "snippet": "విలీన పథకాన్ని అంగీకరించినట్లు నిర్ధారిస్తూ కనీసం 90 శాతం విలువ కలిగిన రుణదాతల అఫిడవిట్‌లను కంపెనీలు సమర్పించిన తర్వాత, రుణదాతల సమావేశాలను నిర్వహించాలనే అవసరాన్ని NCLT తన అభీష్టానుసారం తొలగించవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "విలీనానికి సంబంధించి అభ్యంతరం చెప్పడానికి ఎవరికి అనుమతి ఉంది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            2663,
+            2862
+          ]
+        ],
+        "snippet": "విలీనంపై ఏవైనా అభ్యంతరాలు ఉంటే, తాజా ఆడిట్ చేయబడిన ఆర్థిక నివేదిక ప్రకారం, వాటాలో కనీసం 10 శాతం వాటా కలిగి ఉన్న సభ్యులు లేదా మొత్తం అప్పులో కనీసం 5 శాతం రుణం కలిగి ఉన్న రుణదాతలు మాత్రమే తెలియజేయగలరు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "టేకోవర్ నిబంధనలు ఏ లావాదేవీలకు వర్తిస్తాయి?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            5244,
+            5506
+          ]
+        ],
+        "snippet": "టేకోవర్ నిబంధనలు భారతదేశంలోని లిస్టెడ్ కంపెనీలో షేర్ల లేదా ఓటింగ్ హక్కుల యొక్క ప్రత్యక్ష మరియు పరోక్ష సముపార్జనలు లేదా నియంత్రణకు వర్తిస్తాయి, స్టాక్ ఎక్స్ఛేంజ్ యొక్క సంస్థాగత ట్రేడింగ్ ప్లాట్‌ఫామ్‌లో ఎటువంటి పబ్లిక్ ఇష్యూ చేయకుండా జాబితా చేయబడిన కంపెనీలకు తప్ప."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "లక్ష్య కంపెనీ షేర్లను కొనుగోలు చేయడానికి ఓపెన్ ఆఫర్ యొక్క కనీస పరిమాణం ఎంత?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            6654,
+            6742
+          ]
+        ],
+        "snippet": "షేర్లను కొనుగోలు చేయడానికి ఓపెన్ ఆఫర్ లక్ష్య కంపెనీ మొత్తం షేర్లలో కనీసం 26 శాతం ఉండాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "ఒక లిస్టెడ్ కంపెనీ ఒక అరేంజ్‌మెంట్ స్కీమ్‌ను చేపట్టాలని ప్లాన్ చేసినప్పుడు దానిపై ఏ బాధ్యత ఉంటుంది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            8773,
+            9018
+          ]
+        ],
+        "snippet": "ఒక లిస్టెడ్ కంపెనీ ఒక అరేంజ్‌మెంట్ స్కీమ్‌ను చేపట్టాలని ప్లాన్ చేసినప్పుడు, లిస్టెడ్ కంపెనీ స్టాక్ ఎక్స్ఛేంజ్ లేదా ఎక్స్ఛేంజ్‌లతో అరేంజ్‌మెంట్ స్కీమ్‌ను దాఖలు చేయడానికి బాధ్యత వహిస్తుంది, దీని కోసం పరిశీలన లేఖ లేదా అభ్యంతరం లేని లేఖను పొందవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "పోటీ చట్టం 2002 ద్వారా ఏ రకమైన \"కలయికలు\" నిషేధించబడ్డాయి?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            10148,
+            10305
+          ]
+        ],
+        "snippet": "సాధారణంగా, భారతదేశంలోని సంబంధిత మార్కెట్‌లో పోటీ (AAEC)పై గణనీయమైన ప్రతికూల ప్రభావాన్ని కలిగించే లేదా కలిగించే అవకాశం ఉన్న కలయికలను పోటీ చట్టం నిషేధిస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "ఏ షరతు కింద ఒక లావాదేవీ \"డి మినిమిస్ మినహాయింపు\"కు అర్హత పొంది, ముందస్తు నోటిఫికేషన్ అవసరం నుండి మినహాయించబడుతుంది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            11663,
+            11990
+          ]
+        ],
+        "snippet": "దీని ప్రకారం, భారతదేశంలో సంపాదించబడిన, నియంత్రణలోకి తీసుకోబడిన, విలీనం చేయబడిన లేదా విలీనం చేయబడిన ఆస్తుల విలువ 3.5 బిలియన్ భారతీయ రూపాయల కంటే ఎక్కువ లేని కలయికలో పార్టీగా ఉన్న ఏవైనా సంస్థలు లేదా భారతదేశంలో టర్నోవర్ 10 బిలియన్ భారతీయ రూపాయల కంటే ఎక్కువ లేని చోట, పోటీ చట్టం ప్రకారం ప్రీ-నోటిఫికేషన్ అవసరం నుండి మినహాయించబడతాయి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "ప్రతిపాదిత కలయిక \"గ్రీన్ ఛానల్\" కింద ఆమోదించబడినట్లుగా పరిగణించబడటానికి ఏమి అవసరం?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            14774,
+            14895
+          ]
+        ],
+        "snippet": "గ్రీన్ ఛానల్ కింద దాఖలు చేసి, CCI నుండి రసీదు పొందిన తర్వాత, ప్రతిపాదిత కాంబినేషన్‌ను CCI ఆమోదించినట్లు పరిగణించబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "విదేశీ సంస్థ ద్వారా ఒక భారతీయ కంపెనీని కొనుగోలు చేయడానికి రెండు ప్రాథమిక మార్గాలు ఏమిటి?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            16696,
+            16830
+          ]
+        ],
+        "snippet": "FDI మార్గదర్శకాల ద్వారా నిర్దేశించిన విధంగా భారతీయ కంపెనీని స్వాధీనం చేసుకోవడం 'ఆటోమేటిక్ మార్గం' లేదా 'ఆమోదం మార్గం' ద్వారా చేయవచ్చు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "te",
+    "query": "అవకాశవాద టేకోవర్‌లను అరికట్టడానికి భారత ప్రభుత్వం ఇటీవల ఏ మార్పు చేసింది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            18076,
+            18291
+          ]
+        ],
+        "snippet": "దీని ప్రకారం, భారతదేశంతో భూ సరిహద్దును పంచుకునే లేదా భారతదేశంలో పెట్టుబడి పెట్టే ప్రయోజనకరమైన యజమాని ఉన్న లేదా అటువంటి ఏదైనా దేశం యొక్క పౌరుడిగా ఉన్న దేశం యొక్క సంస్థ ఆమోదం మార్గం ద్వారా మాత్రమే పెట్టుబడి పెట్టగలదు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "te",
+    "query": "\"ఇన్‌బౌండ్ విలీనం\" యొక్క నిర్వచనం ఏమిటి?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            18752,
+            18836
+          ]
+        ],
+        "snippet": "ఇన్‌బౌండ్ విలీనం అనేది ఒక క్రాస్-బోర్డర్ విలీనం, ఇక్కడ ఫలిత కంపెనీ ఒక భారతీయ కంపెనీ."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "te",
+    "query": "అవుట్‌బౌండ్ విలీనంలో, భారతదేశంలో ఉన్న భారతీయ కంపెనీ కార్యాలయానికి ఏమి జరుగుతుంది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            20706,
+            21003
+          ]
+        ],
+        "snippet": "భారతదేశంలోని భారతీయ కంపెనీ కార్యాలయం ఫలితంగా ఏర్పడే విదేశీ కంపెనీ యొక్క శాఖ కార్యాలయంగా పరిగణించబడుతుంది మరియు ఇది విదేశీ మారక ద్రవ్య నిర్వహణ (భారతదేశంలో ఒక శాఖ కార్యాలయం లేదా అనుసంధాన కార్యాలయం లేదా ప్రాజెక్ట్ కార్యాలయం లేదా ఏదైనా ఇతర వ్యాపార స్థలం స్థాపన) నిబంధనలు 2016 ద్వారా నిర్వహించబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "te",
+    "query": "IBC కింద దివాలా ప్రక్రియ సంభావ్య కొనుగోలుదారులకు ఏ అవకాశాన్ని అందిస్తుంది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            23710,
+            23927
+          ]
+        ],
+        "snippet": "IBC నేరుగా M&Aతో వ్యవహరించనప్పటికీ, దివాలా ప్రక్రియ సంభావ్య కొనుగోలుదారులకు ఒత్తిడిలో ఉన్న కంపెనీల ఆస్తులను పొందే అవకాశాన్ని సృష్టిస్తుంది, తద్వారా కొనుగోలుదారు సాధారణ పరిస్థితుల కంటే తక్కువ విలువతో ఆస్తులను పొందగలడు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "te",
+    "query": "ఉద్యోగులను వారి సమ్మతి లేకుండా కొత్త యాజమాన్యానికి బదిలీ చేయడం గురించి సుప్రీంకోర్టు ఏమి గమనించింది?",
+    "document_description": "Regulatory Interventions in M&A-including_CCI RBI and SEBI",
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.en.te.txt",
+        "spans": [
+          [
+            27045,
+            27248
+          ]
+        ],
+        "snippet": "అయితే, సుప్రీంకోర్టు వారి అనుమతి లేకుండా, ఉద్యోగులను వేరే నిర్వహణ కింద పని చేయమని బలవంతం చేయలేమని మరియు వారు అలాంటి బదిలీకి తమ సమ్మతిని ఇవ్వకపోతే, ఆ ఉద్యోగులు తొలగింపు పరిహారానికి అర్హులు అని గమనించింది."
+      }
+    ]
+  }
+]

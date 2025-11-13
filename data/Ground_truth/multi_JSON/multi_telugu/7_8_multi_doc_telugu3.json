@@ -1,0 +1,297 @@
+[
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "వస్తువుల అమ్మకపు చట్టం ప్రకారం 'వారంటీ' ఎలా నిర్వచించబడింది మరియు సరిహద్దు విలీనాల సందర్భంలో 'ఇన్‌బౌండ్ విలీనం' అంటే ఏమిటి?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            2214,
+            2433
+          ]
+        ],
+        "snippet": "SOGA 'వారంటీ'ని ఒప్పందం యొక్క ప్రధాన ఉద్దేశ్యానికి ఒక నిబంధన అనుషంగికంగా నిర్వచిస్తుంది, దీని ఉల్లంఘన వస్తువులను తిరస్కరించే మరియు ఒప్పందాన్ని తిరస్కరించబడినదిగా పరిగణించే హక్కుకు దారితీయదు కానీ నష్టాలకు దావా వేస్తుంది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            569,
+            903
+          ]
+        ],
+        "snippet": "దేనిలోనైనా చేర్చబడితేనే క్రాస్-బోర్డర్ విలీనం అనుమతించబడుతుంది: • అనుబంధం A జాబితాలో సెక్యూరిటీస్ మార్కెట్ రెగ్యులేటర్ ఉన్నవారు ఇంటర్నేషనల్ ఆర్గనైజేషన్ ఆఫ్ సెక్యూరిటీస్ కమిషన్స్ (IOSCO) యొక్క బహుళ పక్ష అవగాహన ఒప్పందంపై సంతకం చేసినవారు లేదా సెక్యూరిటీస్ అండ్ ఎక్స్ఛేంజ్ బోర్డ్ ఆఫ్ ఇండియాతో ద్వైపాక్షిక అవగాహన ఒప్పందంపై సంతకం చేసినవారు;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "M&A ఒప్పందంలో వారంటీ ఉల్లంఘన యొక్క చట్టపరమైన పరిణామం ఏమిటి మరియు సరిహద్దు విలీనం కోసం నిర్దేశించిన షరతులు నెరవేరకపోతే ఏమి జరుగుతుంది?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            10128,
+            10257
+          ]
+        ],
+        "snippet": "తప్పుడు ప్రాతినిధ్యం అమాయక పక్షానికి ఒప్పందాన్ని రద్దు చేయడానికి అర్హతను ఇస్తుంది, 8 అయితే వారంటీ ఉల్లంఘన నష్టాలకు దారితీస్తుంది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            5779,
+            5868
+          ]
+        ],
+        "snippet": "ఈ షరతులు నెరవేర్చకపోతే, RBI నుండి నిర్దిష్ట ముందస్తు అనుమతి పొందవలసిన అవసరం వర్తిస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "ప్రవాసి కొనుగోలుదారులకు నష్టపరిహార చెల్లింపులకు సంబంధించిన RBI నియమాలు ఏమిటి మరియు ఇన్‌బౌండ్ విలీనంలో విదేశీ కంపెనీ యొక్క రుణాలను ఎలా పరిగణిస్తారు?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            18939,
+            19107
+          ]
+        ],
+        "snippet": "20 మే 2016న, RBI ఒక నోటిఫికేషన్ జారీ చేసింది, వాటా అమ్మకంలో,అమ్మకపు పరిగణనలో 25 శాతం వరకు మరియు ఆమోదం లేకుండా ఒప్పందం తేదీ నుండి 18 నెలల వరకు నష్టపరిహారం అందించబడవచ్చు."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            6815,
+            7073
+          ]
+        ],
+        "snippet": "విదేశీ కంపెనీ విదేశీ వనరుల నుండి తీసుకునే హామీలు లేదా బకాయి రుణాలు రెండు సంవత్సరాల వ్యవధిలోపు బాహ్య వాణిజ్య రుణాలు (ECB) నిబంధనలకు (క్రింద చర్చించబడ్డాయి) లేదా వాణిజ్య క్రెడిట్ నిబంధనలు లేదా ఇతర విదేశీ రుణ నిబంధనలకు (గ్యారంటీ నిబంధనలతో సహా) అనుగుణంగా ఉండాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "ఒక ప్రాతినిధ్యం తప్పు అని తెలిసినప్పటికీ కొనుగోలుదారు ఒప్పందాన్ని కొనసాగిస్తే ఏమి జరుగుతుంది మరియు సరిహద్దు విలీనంలో పాల్గొనే కంపెనీలు విలీనానికి ముందు ఏ షరతును నెరవేర్చాలి?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            8792,
+            8991
+          ]
+        ],
+        "snippet": "ఒక వ్యక్తి ప్రాతినిధ్యానికి విరుద్ధంగా ఉన్న వాస్తవాల గురించి తెలిసినప్పటికీ, ఒప్పందానికి కట్టుబడి ఉండాలని ఎంచుకుంటే, అతను లేదా ఆమె ఒప్పందాన్ని ఆమోదించినట్లు భావించబడుతుంది మరియు దానిని రద్దు చేయలేడు."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            7933,
+            8094
+          ]
+        ],
+        "snippet": "విలీనానికి ముందు, ఇన్‌బౌండ్ విలీనంలో పాల్గొన్న అన్ని కంపెనీలు FEMA నిబంధనలను పాటించకపోవడం, ఉల్లంఘించడం, ఉల్లంఘనకు సంబంధించి అన్ని నియంత్రణ చర్యలను పూర్తి చేయాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "M&A లావాదేవీలలో భీమా పాత్ర ఏమిటి మరియు సరిహద్దు విలీనం RBI యొక్క ముందస్తు అనుమతిని పొందినట్లు ఎప్పుడు పరిగణించబడుతుంది?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            24854,
+            24954
+          ]
+        ],
+        "snippet": "ఈ భీమా ఒప్పందంలోని R&W మరియు నష్టపరిహారాల నుండి ఉత్పన్నమయ్యే విక్రేత యొక్క బాధ్యతలను కవర్ చేస్తుంది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            5546,
+            5778
+          ]
+        ],
+        "snippet": "అయితే, క్రాస్-బోర్డర్ విలీనం (ఇన్‌బౌండ్ లేదా అవుట్‌బౌండ్) కారణంగా జరిగే ఏదైనా లావాదేవీకి క్రాస్ బోర్డర్ విలీన నిబంధనలలో పేర్కొన్న షరతులు నెరవేరితే RBI ముందస్తు అనుమతి (విలీన నియమాల నియమం 25A ప్రకారం అవసరం) ఉన్నట్లు పరిగణించబడుతుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "M&Aలో డ్యూ డిలిజెన్స్ (DD) నిర్వహించడానికి ఒక ముఖ్య కారణం ఏమిటి మరియు సరిహద్దు విలీనాల విషయంలో వాల్యుయేషన్‌ను ఎవరు నిర్వహించాలి?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            6766,
+            6992
+          ]
+        ],
+        "snippet": "అమ్మకందారుడు విక్రయించబడుతున్న వస్తువులకు సంబంధించిన అన్ని సంబంధిత వాస్తవాలను బహిర్గతం చేయవలసిన అవసరం లేనందున DD వ్యాయామం జరుగుతుంది (అంటే, కేవియట్ ఎమ్ప్టర్ లేదా కొనుగోలుదారు జాగ్రత్త అనే సూత్రం వర్తించే న్యాయశాస్త్రంలో భాగం)."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            4493,
+            4689
+          ]
+        ],
+        "snippet": "చివరగా, క్రాస్-బోర్డర్ విలీనాల విషయంలో, ఫలిత కంపెనీ అధికార పరిధిలోని గుర్తింపు పొందిన ప్రొఫెషనల్ బాడీ సభ్యుడు (అంతర్జాతీయంగా ఆమోదించబడిన అకౌంటింగ్ సూత్రాలకు అనుగుణంగా) ఒక వాల్యుయేషన్ నిర్వహించాలి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "అమ్మకందారులు తమ నష్టపరిహార బాధ్యతను సాధారణంగా ఎలా పరిమితం చేస్తారు, మరియు ఇన్‌బౌండ్ విలీనం తర్వాత ఫలిత భారతీయ కంపెనీ విదేశీ ఆస్తులను కలిగి ఉండటానికి అనుమతి లేకపోతే ఏమి చేయాలి?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            21705,
+            21843
+          ]
+        ],
+        "snippet": "పరిమితులు నష్టపరిహారం కింద మొత్తం బాధ్యత సాధారణంగా ఒక నిర్దిష్ట మొత్తానికి పరిమితం చేయబడుతుంది, ఇది పరిశీలనలో శాతంగా వ్యక్తీకరించబడుతుంది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            7406,
+            7593
+          ]
+        ],
+        "snippet": "FEMA కింద అలా చేయడానికి అనుమతి లేకపోతే, ఫలిత భారతీయ కంపెనీ అటువంటి ఆస్తి లేదా భద్రతను విక్రయించడానికి మరియు అమ్మకపు ఆదాయాన్ని భారతదేశానికి తిరిగి పంపడానికి రెండు సంవత్సరాల వ్యవధి ఉంటుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "M&A ఒప్పందాల కింద మూడవ పక్ష లబ్ధిదారులు దావా వేయవచ్చా, మరియు సరిహద్దు విలీన పథకానికి ఏ అధికారుల ఆమోదం అవసరం?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            18011,
+            18146
+          ]
+        ],
+        "snippet": "భారతదేశంలో ఒప్పందం యొక్క గోప్యత సిద్ధాంతం బాగా గుర్తింపు పొందినప్పటికీ, మూడవ పక్ష లబ్ధిదారులు ఒప్పందాల కింద దావా వేయడానికి అనుమతి ఉంది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            2703,
+            2957
+          ]
+        ],
+        "snippet": "పైన పేర్కొన్న వాటితో పాటు, క్రాస్-బోర్డర్ విలీన పథకానికి ప్రాంతీయ డైరెక్టర్, అధికారిక లిక్విడేటర్, ఆదాయపు పన్ను అధికారులు, RBI (వర్తిస్తే) మరియు ఇతర నియంత్రణ సంస్థలు (కాంపిటీషన్ కమిషన్ ఆఫ్ ఇండియా (CCI) వంటివి) వంటి ఇతర అధికారుల ఆమోదం లేదా అభ్యంతరం అవసరం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "భారతదేశంలో M&A ఒప్పందాల పరిణామం ఎలా ఉంది మరియు అవుట్‌బౌండ్ విలీనాలలో ఎదురయ్యే ఒక ప్రాథమిక సవాలు ఏమిటి?",
+    "document_descriptions": [
+      "Representations Warranties Indemnities and Insurance in M&A",
+      "Challenges In Cross-Border Mergers"
+    ],
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.en.te.txt",
+        "spans": [
+          [
+            27330,
+            27556
+          ]
+        ],
+        "snippet": "భారతదేశం, ఒక డైనమిక్ అధికార పరిధిగా ఉండటం వలన, సంవత్సరాలుగా పెరుగుతున్న M&A కార్యకలాపాలను చూసింది (చాలా విదేశీ అధికార పరిధిని కలిగి ఉంటుంది), ఇది ఎక్కువ ఆలోచనల మార్పిడికి మరియు అంతర్జాతీయ ఒప్పంద పరిణామాల స్వీకరణకు దారితీసింది."
+      },
+      {
+        "file_name": "8_Challenges_In_Cross-Border_Mergers.en.te.txt",
+        "spans": [
+          [
+            21905,
+            21974
+          ],
+          [
+            24053,
+            24122
+          ],
+          [
+            26212,
+            26281
+          ],
+          [
+            28049,
+            28118
+          ],
+          [
+            29871,
+            29940
+          ]
+        ],
+        "snippet": "అయితే, అవుట్‌బౌండ్ విలీనాల విషయంలో ఇలాంటి ప్రయోజనాలు అందుబాటులో లేవు."
+      }
+    ]
+  }
+]

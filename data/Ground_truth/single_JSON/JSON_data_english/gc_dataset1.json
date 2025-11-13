@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the guiding legal principle when carrying out a due diligence exercise?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            1570,
+            1870
+          ]
+        ],
+        "snippet": "The guiding principle at the time of carrying-out the diligence exercise is caveat emptor, as often businesses wanting to make themselves attractive to a suitor are prone to be 'dressed up' by the management, while the tack changes in drafting and negotiating definitive agreements to uberrima fides."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is a primary rationale for conducting due diligence regarding the acquirer's risk appetite?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            2299,
+            2791
+          ]
+        ],
+        "snippet": "The broad rationale for carrying out a legal due diligence is to help the acquirer or investor to arrive at an informed judgement on whether: the business model, practices and operations as outlined by the target work, factoring in the regulatory environment; the risks inherent in the business model of the target are in alignment with investor’s appetite – certain acquirers or investors are not amenable to exposure to businesses that have certain types of risk (eg, government contracts);"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "Why is it important to spend time planning the due diligence process?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            4578,
+            4862
+          ]
+        ],
+        "snippet": "It is important that time is spent in planning the diligence, which would help a quick turnaround of the diligence itself, and mostly the luxury of a detailed diligence would not be offered by the target itself, as the target might be attempting to woo more than one potential suitor."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "What is the consequence for directors if a company fails to file its financial reports or annual returns for three consecutive years?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            10379,
+            10528
+          ]
+        ],
+        "snippet": "When such filing is not done (of either of the two documents) for a period of three consecutive years, it leads to disqualification of the directors."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "According to the Trade Marks Act 1999, what is the rule regarding the assignment of an associated trademark?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            11898,
+            12275
+          ]
+        ],
+        "snippet": "As per the provisions of the Trade Marks Act 1999, a trademark that has been associated with another trademark during the registration process has to also be assigned with the other mark and cannot be transferred in isolation, unless necessary steps are taken to dissolve the association between the associated trademarks pursuant to the provisions of the Trade Marks Act 1999."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What is the colloquial term for the tax on shares issued at a premium without appropriate valuation, which was enacted to curb money laundering?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            14294,
+            14555
+          ]
+        ],
+        "snippet": "It will also be important to look into any potential tax on shares that have been issued at a premium over the face value, that is not backed by an appropriate valuation, which is colloquially referred to as 'angel tax' – a tax enacted to curb money laundering."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is the legal implication in India if stamp duty is not paid on certain contracts?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            17285,
+            17421
+          ]
+        ],
+        "snippet": "Stamp duty on certain contracts is a requirement in India, and the non-payment of stamp duty affects the enforceability of the contract."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "Why can it be difficult to identify all related-party transactions through public searches alone?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            18546,
+            18845
+          ]
+        ],
+        "snippet": "Not all public searches can reveal such interests because of the way the entities are structured, and considering that disclosure of ultimate beneficial ownership (UBO) is a recent introduction in the statute book, there can still be interests in entities that have not yet crossed the radar of UBO."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "In the context of the COVID-19 pandemic, what aspects of a business should a revamped diligence exercise focus on?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            22266,
+            22434
+          ]
+        ],
+        "snippet": "Diligence on the effect on supply chain, performance of contractual obligations, production and sales networks and analysis of the business impact should be undertaken."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "Under what circumstances should an acquirer or investor seek an indemnity from the promoter or seller?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            23834,
+            24366
+          ]
+        ],
+        "snippet": "With a finding that relates to the target, for which no remedial action can be taken by the target or the promoter, or if the target or the promoter is not keen on taking any remedial action before closing, and if such finding is likely to have a monetary impact on the target at a future indeterminable time frame (subject to limitation or prescription), and the acquirer or investor does not intend to bear the consequences of the same, the acquirer or investor should then seek indemnity for the same from the promoter or seller."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "What is the guiding principle for determining if a matter should be a condition subsequent rather than a condition precedent?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            25583,
+            25763
+          ]
+        ],
+        "snippet": "Any matters that do not come within the above, and if included as conditions precedent would only delay the closing of the transaction, should be included as conditions subsequent."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "To avoid non-compliance with Indian valuation laws for an unlisted company, what is the best practice?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            27616,
+            27837
+          ]
+        ],
+        "snippet": "To steer clear of non-compliance, the report on fair valuation should best be obtained from a merchant banker whose team includes a registered valuer, if the investment or acquisition is to be made in an unlisted company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "If an acquisition is classified as a \"combination\" under the Competition Act 2002, what regulatory action is required?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            29582,
+            29792
+          ]
+        ],
+        "snippet": "Another example would be that, if an acquisition falls under the category of a combination under the Competition Act 2002, an application needs to be made to and approved by the Competition Commission of India."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "Why is it important to enshrine provisions from a definitive agreement into the target company's articles of association?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            30887,
+            31141
+          ]
+        ],
+        "snippet": "Thus it is important that the articles be amended so as to incorporate therein the various provisions of the definitive agreement that bind the target. Such amendment to the articles would assist in seeking specific performance in the case of any breach."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "What are the consequences of failing to report a transaction to the Reserve Bank of India (RBI)?",
+    "document_description": "Due Diligence Management",
+    "labels": [
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            31851,
+            32115
+          ]
+        ],
+        "snippet": "It is essential that the transaction be reported and an acknowledgement obtained from the RBI, failing which repatriation of money will become a challenge, and delays in reporting involve payment of compounding fees, which can be equal to the amount of investment."
+      }
+    ]
+  }
+]

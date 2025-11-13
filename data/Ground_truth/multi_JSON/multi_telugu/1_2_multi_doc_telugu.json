@@ -1,0 +1,281 @@
+[
+  {
+    "query_id": "Q002",
+    "language": "te",
+    "query": "వ్యాపార నిర్ణయాలు తీసుకునేటప్పుడు జనరల్ కౌన్సెల్ ఏ నైతిక సూత్రాన్ని పాటించాలి, మరియు డ్యూ డిలిజెన్స్ ప్రక్రియలో కొనుగోలుదారు ఏ మార్గదర్శక సూత్రాన్ని అనుసరించాలి?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            3125,
+            3258
+          ]
+        ],
+        "snippet": "ఒక GC సంస్థ అందించిన నైతిక దిక్సూచిపై పని చేయాలంటే, ఒక వైపు 'మనం చేయాలా?' మరియు మరోవైపు 'మనం చేయగలమా?' మధ్య సున్నితమైన గట్టి నడక ఇది."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            1354,
+            1651
+          ]
+        ],
+        "snippet": "శ్రద్ధా అభ్యాసాన్ని నిర్వహించే సమయంలో మార్గదర్శక సూత్రం కేవియట్ ఎంప్టర్, ఎందుకంటే తరచుగా తమను తాము ఒక వధువుకు ఆకర్షణీయంగా మార్చుకోవాలనుకునే వ్యాపారాలు నిర్వహణ ద్వారా 'దుస్తులు ధరించే' అవకాశం ఉంది, అయితే ఉబెర్రిమా ఫైడ్స్‌కు ఖచ్చితమైన ఒప్పందాలను రూపొందించడంలో మరియు చర్చించడంలో టాక్ మార్పులు ఉంటాయి."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "te",
+    "query": "జనరల్ కౌన్సెల్ చేపట్టగల ఒక వ్యూహాత్మక చొరవ ఏమిటి మరియు డ్యూ డిలిజెన్స్ ప్రక్రియలో కొనుగోలుదారు చేయగల ఒక వ్యూహాత్మక చర్య ఏమిటి?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            12643,
+            12874
+          ]
+        ],
+        "snippet": "కార్పొరేషన్ వ్యాపార ప్రణాళికలో అంతర్భాగం చట్టం లేదా నియంత్రణను మార్చడం లేదా నిషేధించబడిన లేదా నియంత్రించబడిన వ్యాపారాన్ని సులభతరం చేయడానికి సంస్కరణలను తీసుకురావడంపై కేంద్రీకృతమై ఉన్న చోట, అటువంటి చొరవను నియంత్రణ వ్యవస్థాపకత అంటారు."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            2765,
+            2923
+          ]
+        ],
+        "snippet": "ఏదైనా ఒప్పందం తర్వాత విలువ సృష్టి అవకాశాన్ని ముందస్తుగా అంచనా వేయడం మరియు (ఇది సముపార్జన లేదా వ్యూహాత్మక పెట్టుబడి అయితే) ఏకీకరణ కోసం ప్రణాళికను ప్రారంభించడం."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "te",
+    "query": "జనరల్ కౌన్సెల్ పాత్రలోని అనూహ్యతను మరియు భారతదేశంలో డ్యూ డిలిజెన్స్ సమయంలో ఎదురయ్యే క్షేత్రస్థాయి వాస్తవాలను ఎలా వర్ణించారు?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            16217,
+            16281
+          ]
+        ],
+        "snippet": "సాంప్రదాయేతర పాత్రలు పునరావృతం కావు మరియు సాధారణంగా అనూహ్యమైనవి."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            30095,
+            30216
+          ]
+        ],
+        "snippet": "భారతదేశం ఏకీకృత వ్యాపార, కార్పొరేట్ మరియు పన్ను చట్టాలను కలిగి ఉన్నప్పటికీ, క్షేత్ర స్థాయి పద్ధతుల్లో గణనీయమైన తేడా ఉంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "te",
+    "query": "నైతికతను విస్మరించడం వల్ల కార్పొరేషన్‌కు ఎలాంటి నష్టం వాటిల్లుతుంది, మరియు డ్యూ డిలిజెన్స్‌లో ప్రమోటర్ అనర్హులుగా తేలితే లావాదేవీకి ఎలాంటి పరిణామాలు ఉంటాయి?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            4084,
+            4350
+          ]
+        ],
+        "snippet": "సాధనాలను సమర్థించే ముగింపు యొక్క తత్వశాస్త్రం ఒక సద్గుణంగా పరిగణించబడటానికి సరిపోదని వ్యాపారానికి నిరంతరం గుర్తు చేయడంలో GCలు ప్రాథమిక పాత్ర పోషిస్తాయి, ఇది కీర్తిని కోల్పోయేలా చేస్తుంది, వాటాదారులు, వాటాదారులు, నియంత్రణదారులు మరియు సమాజం యొక్క గౌరవాన్ని పొందుతుంది."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            10130,
+            10395
+          ]
+        ],
+        "snippet": "ప్రమోటర్లు అనర్హులుగా తేలితే, అది లావాదేవీ యొక్క మొత్తం రూపురేఖలను మార్చవచ్చు, ఎందుకంటే అనర్హత తిరిగి నియామకానికి అర్హత పొందడానికి ఐదు సంవత్సరాల వేచి ఉండవలసి ఉంటుంది మరియు న్యాయపరమైన జోక్యం కోరడం మూడు నుండి ఆరు నెలల మధ్య పట్టవచ్చు, ఆశించిన ఫలితం యొక్క హామీ లేకుండా."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "te",
+    "query": "ఆధునిక వాణిజ్యంలో నిర్ణయం తీసుకోవడంలో ఆలస్యం గురించి జనరల్ కౌన్సెల్ దృక్పథం ఏమిటి, మరియు డ్యూ డిలిజెన్స్ సమయంలో సమాచార సేకరణ పరిధిని ఏది నిర్దేశిస్తుంది?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            2799,
+            3017
+          ]
+        ],
+        "snippet": "నా బృందానికి ఎల్లప్పుడూ ఒక ముఖ్యమైన సందేశం ఏమిటంటే, విశ్లేషణ ద్వారా పక్షవాతం అనేది ఆధునిక వాణిజ్యంలో చోటు లేదు, ముఖ్యంగా పోటీ ముందుకు సాగడానికి ప్రయత్నిస్తున్నప్పుడు, అధిక వాటా ఒప్పందాలను ముగించడానికి సమయం చాలా ముఖ్యం."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            3584,
+            3750
+          ]
+        ],
+        "snippet": "పొందవలసిన సమాచారం యొక్క స్వభావం మరియు అలా పొందిన సమాచారం యొక్క సమీక్ష పరిధి కూడా లావాదేవీ యొక్క స్వభావం మరియు విలువ ప్రతిపాదన లేదా ఒప్పంద హేతుబద్ధతపై ఆధారపడి ఉంటుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "te",
+    "query": "జనరల్ కౌన్సెల్ పాత్రను ఏ రెండు ప్రధాన వర్గాలుగా విభజించవచ్చు, మరియు భారతదేశంలోని వివాహ వ్యవస్థను ఏ రెండు వర్గాలుగా పోల్చారు?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            14897,
+            15013
+          ]
+        ],
+        "snippet": "సూచన సౌలభ్యం కోసం GC పాత్రను రెండు తరగతులుగా వర్గీకరించవచ్చు: మొదటిది, సాంప్రదాయ పాత్ర మరియు రెండవది, అసాధారణ పాత్ర."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            120,
+            348
+          ]
+        ],
+        "snippet": "భారతదేశంలో, ఘనంగా జరిగే వివాహాలు ఈ క్రింది రెండు వర్గాలలో ఒకదానిలోకి వస్తాయి: ఇక్కడ వధువు మరియు వరుడి ఎంపికలో వారి తల్లిదండ్రులు ఉంటారు లేదా ఇద్దరు సమ్మతించిన పెద్దలు ఒకరినొకరు ప్రేమించుకుని వివాహం చేసుకోవాలని నిర్ణయించుకుంటారు."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "te",
+    "query": "సమకాలీన నియమాలు జనరల్ కౌన్సెల్ బాధ్యతలను ఎలా ప్రభావితం చేశాయి మరియు భారతదేశంలో వ్యాపార నియంత్రణ వాతావరణం ఎలా మార్పు చెందింది?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            3412,
+            3598
+          ]
+        ],
+        "snippet": "పర్యావరణ, సామాజిక మరియు పాలన క్రమశిక్షణ, కఠినమైన సమ్మతి సంకేతాలు మరియు పాలన ప్రమాణాలు వంటి వ్యాపారాన్ని చేయడానికి సమకాలీన నియమాల ప్రారంభంతో GC యొక్క బాధ్యత అనేక విధాలుగా విస్తరించబడింది."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            8131,
+            8238
+          ]
+        ],
+        "snippet": "సంవత్సరాలుగా, భారతదేశం మారకపు నియంత్రణను సడలించింది మరియు వ్యాపారాలలో విదేశీ భాగస్వామ్యాన్ని స్వాగతించింది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "te",
+    "query": "జనరల్ కౌన్సెల్ దృష్టి సారించాల్సిన ఒక ముఖ్యమైన సమ్మతి రంగం ఏది, మరియు భారతదేశంలో కాంట్రాక్టుల అమలులో ఎదురయ్యే ఒక నిర్దిష్ట చట్టపరమైన అవసరం ఏమిటి?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            5211,
+            5353
+          ]
+        ],
+        "snippet": "అనేక ఇతర విషయాలతోపాటు, లంచం నిరోధక చట్టాలను పాటించడం లేదా వ్యాపార నిర్వహణలో ఆసక్తి సంఘర్షణలు లేదా వ్యాజ్య నిర్వహణను నివారించడం ఒక మంచి ఉదాహరణ."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            16046,
+            16188
+          ]
+        ],
+        "snippet": "భారతదేశంలో కొన్ని కాంట్రాక్టులపై స్టాంప్ డ్యూటీ తప్పనిసరి, మరియు స్టాంప్ డ్యూటీ చెల్లించకపోవడం ఒప్పందం అమలు సామర్థ్యాన్ని ప్రభావితం చేస్తుంది."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "te",
+    "query": "కార్పొరేట్ నిర్మాణంలో జనరల్ కౌన్సెల్ పాత్రను ఎలా వర్ణించవచ్చు, మరియు డ్యూ డిలిజెన్స్ ప్రక్రియను ఏ ఇతర ముఖ్యమైన ప్రక్రియతో పోల్చారు?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.en.te.txt",
+        "spans": [
+          [
+            1017,
+            1180
+          ]
+        ],
+        "snippet": "బోర్డు, వాటాదారులు మరియు వ్యాపారంతో కూడిన త్రికోణాన్ని తెలిసి లేదా తెలియకుండా వారి సహించదగిన చుట్టుకొలతలను దాటి వెళ్లకుండా GC ఒక ఇరుసు అని చెప్పడం అతిశయోక్తి కాదు."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.en.te.txt",
+        "spans": [
+          [
+            777,
+            940
+          ]
+        ],
+        "snippet": "ఈ అధ్యాయంలో వివాహం గురించి చర్చించడానికి కారణం, నిర్ణయం తీసుకునే ముందు చేపట్టే వ్యాయామం యొక్క సారూప్యత - అది వివాహం లేదా డ్యూ డిలిజెన్స్ పేరుతో వెళ్ళే M&A కావచ్చు."
+      }
+    ]
+  }
+]

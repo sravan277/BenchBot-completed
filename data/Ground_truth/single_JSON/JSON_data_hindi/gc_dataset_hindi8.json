@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "मजबूत आईपी पोर्टफोलियो वाली कंपनी का अधिग्रहण करना व्यवसाय का विस्तार करने का एक रणनीतिक तरीका क्यों माना जाता है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            1560,
+            1665
+          ]
+        ],
+        "snippet": "यह रणनीतिक निर्णय अपने पोर्टफ़ोलियो को मजबूत करने और एक महत्वपूर्ण बाजार में प्रवेश करने के लिए लिया गया।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "आईपी-संचालित एमएंडए लेनदेन को नेविगेट करते समय महत्वपूर्ण केंद्र बिंदु क्या हैं?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            2669,
+            2788
+          ]
+        ],
+        "snippet": "हमारे अनुभव में, इस प्रकार की लेनदेन के महत्वपूर्ण मोड़ एक सुदृढ़ आईपी ड्यू डिलिजेंस और सुदृढ़ आईपी मूल्यांकन होते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "दवा उद्योग में ड्यू डिलिजेंस के दौरान पेटेंट पोर्टफोलियो के साथ किन संभावित मुद्दों की जांच की जानी चाहिए?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            2937,
+            3066
+          ]
+        ],
+        "snippet": "एक M&A लेनदेन के दौरान लक्ष्य की IP पोर्टफ़ोलियो के स्वास्थ्य का निर्धारण करके लेनदेन की दिशा को बहुत हद तक निर्धारित कर सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "अधिग्रहणकर्ता के दृष्टिकोण से, संपूर्ण आईपी ड्यू डिलिजेंस आयोजित करने के प्राथमिक लाभ क्या हैं?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            3254,
+            3524
+          ]
+        ],
+        "snippet": "IP अधिग्रहण करने वाली कंपनी के दृष्टिकोण से, IP पर विशेष ध्यान केंद्रित किया गया DD अत्यंत महत्वपूर्ण है, क्योंकि यह उसकी वर्तमान स्थिति, अंतर्निहित मूल्य और सबसे महत्वपूर्ण रूप से M&A में शामिल सभी क्षेत्रों में लक्ष्य की IP की स्थिति का मूल्यांकन करने में मदद करता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "आईपी ड्यू डिलिजेंस प्रक्रिया शुरू करने से पहले एक पारस्परिक गैर-प्रकटीकरण समझौते पर हस्ताक्षर क्यों किया जाना चाहिए?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            4650,
+            4761
+          ]
+        ],
+        "snippet": "यह समझौता प्रक्रिया के दौरान प्रकट की गई जानकारी की रक्षा के लिए आवश्यक है, यदि लेन‑देन अंतिम रूप नहीं लेता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "ड्यू डिलिजेंस के दौरान उजागर होने वाली आईपी स्वामित्व से संबंधित कुछ सामान्य जटिलताएँ क्या हैं?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            5853,
+            5956
+          ]
+        ],
+        "snippet": "इसके अलावा, घर-घर के व्यवसायों में, बौद्धिक संपदा (आईपी) सामान्यतः प्रमोटरों के नाम पर पंजीकृत होती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "अधिग्रहणकर्ता द्वारा संचालित करने की योजना वाले सभी अधिकार क्षेत्रों में लक्ष्य के आईपी अधिकारों का मूल्यांकन करना क्यों महत्वपूर्ण है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            6421,
+            6489
+          ]
+        ],
+        "snippet": "आईपी अधिकार भू‑स्थानिक होते हैं और सीमित अवधि के लिए मान्य होते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "लक्ष्य के आईपी में तीसरे पक्ष के अधिकारों के अस्तित्व का मूल्यांकन करने का प्राथमिक कारण क्या है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            6996,
+            7185
+          ]
+        ],
+        "snippet": "एक मौजूदा विवाद या संभावित विवाद के संभावित परिणामों का मूल्यांकन और विश्लेषण महत्वपूर्ण है क्योंकि इसका अधिग्रहणकर्ता की अधिग्रहण के बाद IP उपयोग की स्वतंत्रता पर गंभीर प्रभाव पड़ सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "मौजूदा या संभावित आईपी मुकदमेबाजी एमएंडए लेनदेन की व्यवहार्यता को कैसे प्रभावित कर सकती है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            7186,
+            7526
+          ]
+        ],
+        "snippet": "ट्रेडमार्क के संदर्भ में, यदि लेनदेन के मुख्य भाग के रूप में ब्रांड के संबंध में कोई विवाद लंबित है, और यह संभव है कि मुकदमे के परिणामस्वरूप ब्रांड के उपयोग को समझौता किया जा सकता है या रोक दिया जा सकता है, तो इस परिदृश्य में विवादित ब्रांड को अधिग्रहित करना समझदारी नहीं होगी, क्योंकि अधिग्रहणकर्ता के ब्रांड के अधिकार स्वतंत्र नहीं होंगे।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "आईपी मूल्यांकन की 'आय विधि' में क्या शामिल है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            7731,
+            7831
+          ]
+        ],
+        "snippet": "आईपी का मूल्य वह मौद्रिक मूल्य है जो लाइसेंस या आईपी के हस्तांतरण से प्राप्त होने की आशा की जाती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "एमएंडए समझौते में कौन सी आवश्यक आईपी वारंटी शामिल की जानी चाहिए?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            8993,
+            9382
+          ]
+        ],
+        "snippet": "लेन‑देन में आईपी वारंटियों में स्पष्ट रूप से यह कहा जाना चाहिए कि लक्ष्य (टार्गेट) उस आईपी का वैध मालिक है जिसे असाइन या ट्रांसफ़र किया जा रहा है, उक्त अधिकार प्रस्तावित व्यवसाय को उन अधिकारों का उपयोग करके संचालित करने के लिए पर्याप्त हैं, और असाइन या ट्रांसफ़र किए जा रहे आईपी अधिकार किसी तीसरे पक्ष के आईपी अधिकारों का उल्लंघन नहीं करते तथा उनका उपयोग बिना किसी बाधा के किया जा सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "लक्ष्य कंपनी से आईपी क्षतिपूर्ति प्राप्त करने का उद्देश्य क्या है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            9385,
+            9562
+          ]
+        ],
+        "snippet": "एक आईपी उत्तरदायित्व लक्ष्य (असाइंर) से लेन‑देनकर्ता (असाइनी) को उस आईपी अधिकार के संबंध में किसी भी तीसरे पक्ष के उल्लंघन दावे से बचाने के लिए लिया जाता है जो असाइन किए गए हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "अधिग्रहण के बाद प्रत्येक प्रासंगिक अधिकार क्षेत्र में बौद्धिक संपदा अधिकारों को खरीदार के नाम पर स्थानांतरित करना क्यों महत्वपूर्ण है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            9637,
+            9931
+          ]
+        ],
+        "snippet": "उदाहरण के तौर पर, यदि अधिग्रहित बौद्धिक संपदा (IP) के उल्लंघन के मामले में अधिग्रहक को IP का मालिक के रूप में रिकॉर्ड नहीं किया गया है या संबंधित दस्तावेज़ IP के रेकॉर्डल के लिए सम्बंधित बौद्धिक संपदा कार्यालय में प्रस्तुत नहीं किए गए हैं, तो अधिग्रहक के लिए इसे लागू करना अत्यंत कठिन हो जाएगा;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "आईपी स्वामित्व में परिवर्तन को समय पर रिकॉर्ड करने में विफल रहने का एक महत्वपूर्ण जोखिम क्या है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            10128,
+            10263
+          ]
+        ],
+        "snippet": "मूल्यवान IP अधिकारों का नुकसान हो सकता है क्योंकि अधिग्रहण के बाद अधिग्रहक द्वारा उसी का रेकॉर्डल न होने के कारण वे समाप्त हो सकते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "आज की अर्थव्यवस्था में, विशेष रूप से एमएंडए के संदर्भ में, आईपी संपत्तियों की सुरक्षा और प्रबंधन पहले से कहीं अधिक महत्वपूर्ण क्यों है?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            10414,
+            10562
+          ]
+        ],
+        "snippet": "जैसे ही दुनिया ब्रांड‑केंद्रित और नवाचार‑प्रेरित अर्थव्यवस्थाओं की ओर बढ़ रही है, IP संपत्तियों का मूल्य और महत्व प्रतिदिन तेज़ी से बढ़ता जा रहा है।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the general economic context for M&A activity?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            128,
+            277
+          ]
+        ],
+        "snippet": "M&As are an integral part of a growing economy and take place both during times of rapid economic growth and when there is turbulence in the economy."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            173,
+            588
+          ]
+        ],
+        "snippet": "Driven by macroeconomic factors, with India being one of the fastest-growing emerging economies and the ever-growing demand for energy resources to sustain that growth, there is a great deal of focus on renewable energy (which accounts for 23 per cent of installed capacity) and efforts to channel foreign investment into the energy sector,2 which in turn provides ripe opportunities for M&A activity in the sector."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the importance of due diligence in an M&A transaction?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            5847,
+            6026
+          ]
+        ],
+        "snippet": "A comprehensive IP due diligence (DD), on the other hand, in an M&A can very well steer the course of the transaction by ascertaining the health of the IP portfolio of the target."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            5778,
+            6135
+          ]
+        ],
+        "snippet": "The arbitral tribunal had concluded that even though Daiichi Sankyo exercised majority control of the board of Ranbaxy, owing to the compartmentalised nature of information and communications within Ranbaxy Laboratories Ltd made available to it, the fraud and misrepresentation could not have been discovered at an earlier time even on reasonable diligence."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What is the role of legal agreements in structuring M&A deals?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            1396,
+            1480
+          ]
+        ],
+        "snippet": "Typically, in M&As, the IP transaction is captured in the license or sale agreement."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            12860,
+            13084
+          ]
+        ],
+        "snippet": "In the context of M&A, it is common to find SHAs, joint venture agreements, or even articles of association of companies to contain arbitration clauses, wherein the parties agree to refer contractual disputes to arbitration."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "What is mentioned about the trend of cross-border M&A in India?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            427,
+            550
+          ]
+        ],
+        "snippet": "The Indian corporate sector experienced a boom in cross-border M&As after the liberalisation of the Indian economy in 1991."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            22552,
+            22693
+          ]
+        ],
+        "snippet": "In the context of cross-border acquisitions, there are few provisions under the Income Tax Act that may lead to disputes between the parties."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "How are disputes typically characterized in M&A transactions?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            14613,
+            14935
+          ]
+        ],
+        "snippet": "If the acquirer decides to proceed with the acquisition, despite the pending litigation, the time and costs likely to be entailed to contest the litigation after the acquisition should be factored in, as the same should not outweigh the benefits of the acquisition; if they do, then it makes no sense to acquire the brand."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            878,
+            1062
+          ]
+        ],
+        "snippet": "M&A disputes typically involve issues relating to failure to disclose all relevant information on account of fraud or misrepresentation, breaches of warranties, price adjustments, etc."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What do the texts say about the regulatory environment surrounding M&A?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            1481,
+            1649
+          ]
+        ],
+        "snippet": "While doing an IP transaction, the applicable laws of the jurisdiction where the IP is registered and that jurisdiction's reciprocal obligations need to be factored in."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            589,
+            877
+          ]
+        ],
+        "snippet": "While at a high level there are positive drivers, the complex regulatory environment of India does entail some challenges, particularly to foreign investors, and consequently identification of some of those issues is critical to managing the risk of litigation or disputes that may arise."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "How are risks identified or managed within an M&A process?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            15395,
+            15674
+          ]
+        ],
+        "snippet": "The final due diligence report, as a general practice, sets out the potential risks, liabilities and benefits associated with the transaction; as well as strategies to mitigate those risks and liabilities and whether it would make business sense to go ahead with the acquisition."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            11085,
+            11222
+          ]
+        ],
+        "snippet": "The unconditional bank guarantee is considered to be among the most secure forms of protection against various risks in M&A transactions."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What is the role of warranties in M&A transactions?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            18107,
+            18495
+          ]
+        ],
+        "snippet": "The IP warranties in a transaction should include warranties stating explicitly that the target is the lawful proprietor of the IP being assigned or transferred, the said rights are sufficient to conduct the proposed business utilising the said rights and the IP rights being assigned or transferred do not infringe any third-party IP rights and the rights to use the same are unfettered."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            4211,
+            4387
+          ]
+        ],
+        "snippet": "M&A disputes are broadly contractual in nature, such as breach of a warranties, post-deal price adjustments, etc, which are typically resolvable by arbitration or a civil suit."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What are some examples of M&A deals mentioned in the texts?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            4314,
+            4518
+          ]
+        ],
+        "snippet": "IBM acquired Daksh e-Services, the third-largest Indian call centre and back-office service provider, and thus not only gained a core competency but also Daksh’s copyrighted software codes and related IP."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            5152,
+            5268
+          ]
+        ],
+        "snippet": "In 2008 Daiichi Sankyo, a Japanese entity, acquired a majority stake in an Indian company, Ranbaxy Laboratories Ltd."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What is mentioned about post-closing activities or issues in M&A?",
+    "document_descriptions": [
+      "Procedure and Protection of Intellectual Property in M&A",
+      "Dispute Resolution and M&A and Criminalisation of Civil Disputes"
+    ],
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            19042,
+            19190
+          ]
+        ],
+        "snippet": "The intellectual property rights of the target company must be transferred into the name of the buyer in every jurisdiction where such rights exist."
+      },
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            1063,
+            1212
+          ]
+        ],
+        "snippet": "While in principle disputes can arise both before and after closing a deal, typically M&A disputes with a nexus in India fall in the latter category."
+      }
+    ]
+  }
+]

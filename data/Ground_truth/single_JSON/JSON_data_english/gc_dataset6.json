@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the fundamental role of representations and warranties (R&W) in an M&A transaction?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            245,
+            425
+          ]
+        ],
+        "snippet": "R&W allocate risks between the acquirer and the seller, target entity or both (warrantor or warrantors), where the warrantor assumes the risk of the veracity of certain statements."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the simple distinction between a 'representation' and a 'warranty'?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            1896,
+            2135
+          ]
+        ],
+        "snippet": "Simply put, a ‘representation’ is a statement of fact relating to an existing or past event based on which an acquirer is induced into entering the contract, while a ‘warranty’ is an assurance of the continued existence of a certain state."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "How does the Sale of Goods Act 1930 (SOGA) define a 'warranty' and what is the consequence of its breach?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            3031,
+            3256
+          ]
+        ],
+        "snippet": "The SOGA defines a ‘warranty’ as a stipulation collateral to the main purpose of the contract, the breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "What implied condition and warranties does the Sale of Goods Act 1930 (SOGA) provide concerning the seller's title to goods?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            4322,
+            4700
+          ]
+        ],
+        "snippet": "In this context, it is important to note that section 14 of the SOGA clearly provides that, subject to a contract to the contrary, there is an implied condition that the seller has title to sell the goods as well as implied warranties as to the quiet possession (meaning devoid of the possibility of third-party claims) and the absence of encumbrances in relation to such goods."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What is the legal basis for conducting a due diligence (DD) exercise even when R&W are provided?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            7791,
+            8002
+          ]
+        ],
+        "snippet": "A DD exercise is carried out since a seller is not required to disclose all relevant facts relating to goods being sold (ie, the principle of caveat emptor or buyer beware is a part of applicable jurisprudence)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What is the difference between a sandbagging and an anti-sandbagging provision?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            10581,
+            10929
+          ]
+        ],
+        "snippet": "A sandbagging provision provides that an acquirer can seek indemnities from a warrantor for a breach of R&W even where it knew the truth. An anti-sandbagging provision in contrast clarifies that the acquirer would not be entitled to relief where it knows of the inaccuracy of any representation or warranty prior to consummation of the transaction."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is the key advantage of an indemnity claim regarding the timing of payment compared to a claim for damages?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            15498,
+            15842
+          ]
+        ],
+        "snippet": "Courts have time and again taken the position that an indemnity holder is entitled to sue the indemnifier even before incurring any actual damage or loss, and an indemnity is not necessarily given by repayment after payment. In contrast, damages can be claimed only after the claimant has suffered actual loss and not merely on accrual of loss."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "How does the obligation to mitigate losses under an indemnity claim differ from a claim for damages under section 73 of the ICA?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            18735,
+            18914
+          ]
+        ],
+        "snippet": "Losses under indemnity may not need to take into account mitigation measures and hence an indemnifier may require the inclusion of such a position in order to limit its liability."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "For what purpose do acquirers seek \"specific indemnities\"?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            18936,
+            19246
+          ]
+        ],
+        "snippet": "In addition to the general indemnification for R&W, where specific risks are identified prior to execution of the contract (usually during the DD process), acquirers seek specific indemnities against such risk. This ensures that the acquirer can claim indemnity against such risk despite its knowledge thereof."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What are the restrictions on indemnity payments from resident warrantors to foreign acquirers under foreign exchange laws?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            20383,
+            20736
+          ]
+        ],
+        "snippet": "However, on 20 May 2016, the RBI issued a notification providing that in a share sale, an indemnity may be provided for up to 25 per cent of the sale consideration and for 18 months from the date of the contract without approval. Any indemnity payments beyond this limit and indemnities in other M&A transactions would still require approval of the RBI."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "Why do warrantors seek to limit certain representations with a \"knowledge\" qualifier?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            21995,
+            22175
+          ]
+        ],
+        "snippet": "The rationale for this is that it may not be possible for the warrantor to know of certain things such as claims filed against it for which no notice is received or latent defects."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "What is the \"tipping basket\" concept used for materiality thresholds in indemnity claims?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            23002,
+            23189
+          ]
+        ],
+        "snippet": "The concept of a tipping basket – the ability of the indemnified party to seek indemnity for claims below the threshold where aggregate claims exceed the agreed threshold – is often seen."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "How are contractual limitation periods for indemnities typically structured for different types of warranties?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            24152,
+            24310
+          ]
+        ],
+        "snippet": "Usually fundamental warranties are unlimited in time, while other R&W are limited to 18 to 36 months, except tax warranties for which seven years is the norm."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "In a transaction with multiple sellers, what does it mean if their liability is \"several and not joint\"?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            25239,
+            25595
+          ]
+        ],
+        "snippet": "This would mean that claims may be made against them only to the extent of the obligations taken on by them. This would result in a seller being liable only for specific representations provided by it or where the representations are joint, then only to the extent of the ratio of consideration paid to it (when read in conjunction with the liability cap)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "What is the purpose and benefit of using R&W insurance in M&A transactions?",
+    "document_description": "The Avant-Garde General Counsel",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A.txt",
+        "spans": [
+          [
+            26498,
+            26942
+          ]
+        ],
+        "snippet": "This insurance covers the seller’s liabilities arising from the R&W and indemnities in the contract. A large part of the negotiation of M&A transactions revolves around these provisions and their limitations, and they are often hotly debated. The availability of insurance can drastically reduce the time taken for negotiations and can also affect the price, since sellers often price their post-transaction risks into the consideration sought."
+      }
+    ]
+  }
+]

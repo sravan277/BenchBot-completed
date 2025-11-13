@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "Why is acquiring a company with a strong IP portfolio considered a strategic way to expand a business?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            1059,
+            1395
+          ]
+        ],
+        "snippet": "An M&A with a target having a well-curated IP portfolio is the swiftest and the surest way of gaining access to a new product line, competencies, technology, marketplace, customer base or geography. The brand recognition and goodwill associated with the acquired IP assist in gaining a foothold in the new sector and steadily expanding."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What are the critical focal points when navigating an IP-driven M&A transaction?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            4566,
+            4787
+          ]
+        ],
+        "snippet": "This brings us to the question of what requires primary focus while traversing an IP-driven M&A. In our experience, the critical pivots of a transaction of this nature are a robust IP due diligence and sound IP valuation."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What potential issues with a patent portfolio must be investigated during due diligence in the drug industry?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            5337,
+            5679
+          ]
+        ],
+        "snippet": "'A company may see that the firm it wants to buy has all these wonderful patents', she explains, 'but sometimes they don’t ask when those patents expire. And especially if they’re acquiring a smaller firm, executives have to ask if the company has maintained its patents. If the maintenance fees are not paid, then those patents have elapsed."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "From the acquirer's perspective, what are the primary benefits of conducting a thorough IP due diligence?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            6267,
+            6701
+          ]
+        ],
+        "snippet": "From the perspective of the company acquiring the IP, a DD with special focus on IP is crucial, since it helps assess its current status, intrinsic value and more importantly status of the IP of the target in all geographies being covered in the M&As. The acquirer gets a complete understanding of the target’s IP and more importantly if the target has the requisite IP for conducting the business that is of interest to the acquirer."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "Why should a mutual non-disclosure agreement be signed before commencing the IP due diligence process?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            8573,
+            8829
+          ]
+        ],
+        "snippet": "Prior to commencing the IP due diligence process, a mutual non-disclosure agreement should be signed between the acquirer and the target. This is required to protect the information disclosed during the process in case the transaction does not materialise."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What are some common complexities related to IP ownership that are uncovered during due diligence?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            11585,
+            11998
+          ]
+        ],
+        "snippet": "Often the target, unknown to the acquirer, is operating on the IP of another entity. These arrangements are relatively common in the case of group companies, where the IP is in the name of one company and the same is used by the other group companies, often without any formal arrangement regarding the terms of use. Moreover, in home-grown businesses, the IP is generally registered in the name of the promoters."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "Why is it crucial to evaluate the IP rights of the target in all jurisdictions where the acquirer plans to operate?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            12474,
+            12689
+          ]
+        ],
+        "snippet": "IP rights are territorial in nature and valid for a limited period. It is therefore crucial to evaluate the IP rights of the target in the jurisdictions where the rights are proposed to be exploited by the acquirer."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What is the primary reason for evaluating the existence of third-party rights in the target's IP?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            13377,
+            13631
+          ]
+        ],
+        "snippet": "It is of paramount importance to evaluate the existence of any third-party rights in the IP of the target. If third-party rights exist, their nature and extent need to be examined, as they might well obstruct the rights of the acquirer to exploit the IP."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "How can existing or potential IP litigation impact the viability of an M&A transaction?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            14041,
+            14366
+          ]
+        ],
+        "snippet": "The evaluation and analysis of the likely results of an existing dispute or a potential dispute are important as they can have a severe impact on the freedom of the acquirer to use the IP post-acquisition. In the trademark sense, if there is a dispute pending with respect to the brand that is the mainstay of the transaction"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What does the 'income method' of IP valuation entail?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            16710,
+            16993
+          ]
+        ],
+        "snippet": "income Method, also known as the economic benefits method, which looks at the historic revenues generated by the IP and calculates the future revenues the IP will generate and the cost of generating that income. This method uses the IP future prospects as the basis of the valuation."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "What are the essential IP warranties that should be included in an M&A agreement?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            18107,
+            18495
+          ]
+        ],
+        "snippet": "The IP warranties in a transaction should include warranties stating explicitly that the target is the lawful proprietor of the IP being assigned or transferred, the said rights are sufficient to conduct the proposed business utilising the said rights and the IP rights being assigned or transferred do not infringe any third-party IP rights and the rights to use the same are unfettered."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "What is the purpose of securing an IP indemnification from the target company?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            18496,
+            18807
+          ]
+        ],
+        "snippet": "An IP indemnification is taken from the target (assignor) to indemnify the acquirer (assignee) against any third-party infringement claims with respect to the IP rights assigned. The indemnification can be limited to a certain period following the transaction closing date and does not need to be in perpetuity."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "Why is it critical to transfer the intellectual property rights into the name of the buyer in every relevant jurisdiction post-acquisition?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            19042,
+            19371
+          ]
+        ],
+        "snippet": "The intellectual property rights of the target company must be transferred into the name of the buyer in every jurisdiction where such rights exist. Timely recording in the appropriate jurisdictions of the change of ownership is essential for protecting the ongoing validity of the IP and enforcing the IP rights by the acquirer."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "What is a significant risk of failing to record the change in IP ownership in a timely manner?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            19601,
+            20048
+          ]
+        ],
+        "snippet": "enforcement of an IP right that can be done only at the instance of the proprietor can be lost, in the absence of timely recordal. For example, in the case of an infringement of the acquired IP, if the acquirer is not on record as the proprietor of the IP or the relevant documents for recordal of the IP have not been filed before the concerned Intellectual Property Office, then enforcing the same would be extremely cumbersome for the acquirer;"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "In today's economy, why is the protection and management of IP assets more critical than ever, especially in the context of M&A?",
+    "document_description": "Procedure and Protection of Intellectual Property in M&A",
+    "labels": [
+      {
+        "file_name": "9_Procedure_and_Protection_of_Intellectual_Property_in_M&A.txt",
+        "spans": [
+          [
+            20676,
+            21052
+          ]
+        ],
+        "snippet": "For IP owners looking to realise the monetary value for their intangible assets, the range is greater than ever before. This in turn makes it essential to protect IP, especially when it comes to M&As where IP assets are often referred to as the ultimate M&A dealbreaker. The power of IP to influence or even determine the outcome of an M&A is only going to grow in the future."
+      }
+    ]
+  }
+]

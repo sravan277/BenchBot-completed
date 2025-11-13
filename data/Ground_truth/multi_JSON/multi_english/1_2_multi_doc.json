@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What do the texts say about the role of mergers and acquisitions in relation to a General Counsel's responsibilities and the due diligence process?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16046,
+            16458
+          ]
+        ],
+        "snippet": "Responsibilities include, inter alia, contracts management, routine compliance, board governance and safeguarding against prosecution, litigation management, supporting the corporation's organic and inorganic growth through mergers and acquisitions, intellectual property rights management and protection, employment issues and advising various business heads on the core business activity on a day-to-day basis."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            854,
+            1094
+          ]
+        ],
+        "snippet": "The reason that marriage is being talked about in this chapter is because of the similarity of the exercise that is undertaken before the decision is taken to go ahead – be it the wedding or the M&A, which goes under the name due diligence."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "How is litigation management characterized as a function for a General Counsel and as an area of review during due diligence?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            7726,
+            7814
+          ]
+        ],
+        "snippet": "Litigation management by a GC is by far the most intense and complex management science."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            12902,
+            13300
+          ]
+        ],
+        "snippet": "If the target has any pending or resolved bankruptcy proceedings that have been initiated before the appropriate judicial forum (ie, the National Company Law Tribunal,11 the appellate body, the National Company Law Appellate Tribunal,12 or a class action suit or disputes with minority shareholders), then the existence of such litigation and the nature of the orders passed are available publicly."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What is mentioned about the management of intellectual property rights as a General Counsel's duty and a due diligence check?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16046,
+            16458
+          ]
+        ],
+        "snippet": "Responsibilities include, inter alia, contracts management, routine compliance, board governance and safeguarding against prosecution, litigation management, supporting the corporation's organic and inorganic growth through mergers and acquisitions, intellectual property rights management and protection, employment issues and advising various business heads on the core business activity on a day-to-day basis."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            11285,
+            11485
+          ]
+        ],
+        "snippet": "The information relating to trademarks, copyrights, patents and designs of the target, if the target had filed any applications for registration of any of the above forms of IP, is publicly available."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How is compliance with anti-bribery laws described from the General Counsel's perspective and within the scope of due diligence?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            6055,
+            6179
+          ]
+        ],
+        "snippet": "Doing clean business and adherence to anti-bribery laws is an area that GCs might have to be diligent and very attentive to."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            21258,
+            21856
+          ]
+        ],
+        "snippet": "While ESG issues involve understanding the sustainability of the business model of the company and go well beyond the scope of a legal due diligence, from the legal perspective it is important to ensure adherence to environmental regulations (including procuring of environmental licences, as necessary), compliance with anti-bribery and anti-corruption laws (including the Prevention of Corruption Act 1988 and Prevention of Money Laundering Act 2002) and applicable labour regulations in specific sectors that relate to factory working conditions, working hours and prevention of child labour.-19"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What do the texts state about the importance of contracts for a General Counsel and during a due diligence review?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16046,
+            16458
+          ]
+        ],
+        "snippet": "Responsibilities include, inter alia, contracts management, routine compliance, board governance and safeguarding against prosecution, litigation management, supporting the corporation's organic and inorganic growth through mergers and acquisitions, intellectual property rights management and protection, employment issues and advising various business heads on the core business activity on a day-to-day basis."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            16110,
+            16230
+          ]
+        ],
+        "snippet": "Every business has its material contracts that are essential for scaling up the business and meeting future projections."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "How do both documents address the topic of labour and employment issues?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16046,
+            16458
+          ]
+        ],
+        "snippet": "Responsibilities include, inter alia, contracts management, routine compliance, board governance and safeguarding against prosecution, litigation management, supporting the corporation's organic and inorganic growth through mergers and acquisitions, intellectual property rights management and protection, employment issues and advising various business heads on the core business activity on a day-to-day basis."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            19505,
+            19612
+          ]
+        ],
+        "snippet": "Labour and employment India has extensive labour law regulations that attract penalties for non-compliance."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is the stated relationship of a General Counsel to the board, and how are board activities examined in due diligence?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            1164,
+            1377
+          ]
+        ],
+        "snippet": "It is no exaggeration to mention that a GC is a pivot who holds together the troika comprising the board, the shareholders and the business from knowingly or unknowingly drifting beyond their tolerable perimeters."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            14754,
+            15001
+          ]
+        ],
+        "snippet": "The records to be maintained by a company are expected to reveal its entire story since incorporation, as matters of critical importance are required to be approved and recorded in meetings of the board of directors or shareholders of the company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "How is the topic of conflicts and related-party transactions approached in each document?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            6886,
+            7071
+          ]
+        ],
+        "snippet": "Conflicts in corporate transactions arise when a person’s self-interest and professional interest lead to outcomes that are based on the foundation of unfair and unethical presumptions."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            18846,
+            19094
+          ]
+        ],
+        "snippet": "This may result in several related-party transactions between the entities, either through a subcontracting arrangement or other services being provided to each other, which may not be at arm’s length or even relate to the core business operations."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What do the documents mention regarding the regulatory environment?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            3761,
+            3982
+          ]
+        ],
+        "snippet": "A GC's responsibility has been amplified in manifold ways with the onset of contemporary canons of doing business such as environmental, social and governance discipline, tighter compliance codes and governance standards."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            8345,
+            8566
+          ]
+        ],
+        "snippet": "Based on the business of the target, one should be able to assess the regulatory environment that affects the business, and in particular the ability of the acquirer or investor to be able to participate in such business."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What examples are given regarding the role of a sector-specific regulator like the Reserve Bank of India?",
+    "document_descriptions": [
+      "The Avant-Garde General Counsel",
+      "Due Diligence Management Closing and Post-Closing Management"
+    ],
+    "labels": [
+      {
+        "file_name": "1_The_Avant-Garde_General_Counsel.txt",
+        "spans": [
+          [
+            16619,
+            16924
+          ]
+        ],
+        "snippet": "For example, a manufacturing business will have a series of pieces of labour and factory legislation to adhere to, while a banking business will have to observe laws that specifically govern the sector and comply with various prudential norms prescribed by the sector regulator, the Reserve Bank of India."
+      },
+      {
+        "file_name": "2_Due_Diligence_Management_Closing_and_Post-Closing_Management.txt",
+        "spans": [
+          [
+            29437,
+            29581
+          ]
+        ],
+        "snippet": "For example, in the case of change of control of a non-banking financial company, prior approval of the Reserve Bank of India (RBI) is mandated."
+      }
+    ]
+  }
+]

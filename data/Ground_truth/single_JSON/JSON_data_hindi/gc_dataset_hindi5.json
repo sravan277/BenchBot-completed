@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "भारत में वैकल्पिक निवेश फंड (AIF) की परिभाषा क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            1862,
+            2118
+          ]
+        ],
+        "snippet": "यहाँ यह ध्यान देना चाहिए कि चूँकि एआईएफ (AIF) सार्वजनिक तौर पर अपने यूनिट्स, सिक्योरिटीज़ या साझेदारी हितों के लिये आमंत्रण नहीं दे सकता, इसलिए उसके चार्टर दस्तावेज़ों में यह स्पष्ट रूप से प्रतिबंध होना चाहिए कि वह सार्वजनिक को ऐसा आमंत्रण या अनुरोध न करे।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "श्रेणी II एआईएफ का प्राथमिक निवेश फोकस क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            2820,
+            2995
+          ]
+        ],
+        "snippet": "आईएएफ, श्रेणी II एआईएफ भी मुख्यतः अनलिस्टेड प्रतिभूतियों में निवेश करते हैं और उनके कार्यकाल एवं उधार प्रतिबंधों के संबंध में ऊपर बताए अनुसार समान आवश्यकताओं के अधीन होते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "श्रेणी I या II एआईएफ के प्रायोजक के लिए \"फ्लेश इन द गेम\" या निरंतर हित की आवश्यकता क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            3916,
+            4229
+          ]
+        ],
+        "snippet": "इसलिए, श्रेणी I और II एआईएफ के प्रायोजक या प्रबंधक को एआईएफ में निवेश के रूप में कोर्पस के न्यूनतम 2.5 प्रतिशत या 50 मिलियन भारतीय रुपये, जो भी कम हो, का निरंतर हित रखना आवश्यक है। श्रेणी III एआईएफ के मामले में, प्रायोजक या प्रबंधक का निरंतर हित कम से कम कोर्पस के 5 प्रतिशत या 100 मिलियन भारतीय रुपये होना चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "श्रेणी I और II एआईएफ के लिए कर पास-थ्रू लाभ कैसे काम करता है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            4607,
+            4800
+          ]
+        ],
+        "snippet": "‘लाभ और पेशे के आय’ की श्रेणी के तहत, उपरोक्त एआईएफ में निवेश करने से निवेशकों को प्राप्त होने वाली आय को इस तरह कर लगाया जाता है जैसे एआईएफ द्वारा किए गए निवेश सीधे निवेशकों द्वारा किए गए हों।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "विदेशी प्रत्यक्ष निवेश (एफडीआई) और विदेशी पोर्टफोलियो निवेश (एफपीआई) के बीच मौलिक अंतर क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            5695,
+            6102
+          ]
+        ],
+        "snippet": "विदेशी प्रत्यक्ष निवेश (FDI) के विपरीत, विदेशी पोर्टफ़ोलियो निवेश एक अल्पकालिक निवेश है जो किसी विदेशी निवेशक द्वारा किया जाता है जो निवेशित कंपनी के दैनिक प्रबंधन में शामिल नहीं होता। इन लेन‑देनों को पोर्टफ़ोलियो निवेश भी कहा जाता है, जो भारत के पूँजी खाते का हिस्सा बनते हैं और देश के भुगतान संतुलन में दिखाए जाते हैं (अर्थात् एक वित्तीय वर्ष में भारत से अन्य देशों में प्रवाहित होने वाली धनराशि की गणना)।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "किस प्रकार की संस्थाओं को श्रेणी I विदेशी पोर्टफोलियो निवेशक (एफपीआई) के रूप में वर्गीकृत किया गया है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            7214,
+            7420
+          ]
+        ],
+        "snippet": "श्रेणी I में पेंशन फंड, विश्वविद्यालय फंड और उपयुक्त रूप से नियमन किए गए संस्थान शामिल हैं, जबकि श्रेणी II में ... पात्रता मानदंड  \nभारत के विदेशी निवासी एफपीआई के रूप में पंजीकरण के लिए आवेदन नहीं कर सकते।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "किसी भारतीय कंपनी में एकल विदेशी पोर्टफोलियो निवेशक (एफपीआई) के लिए व्यक्तिगत निवेश सीमा क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            8189,
+            8387
+          ]
+        ],
+        "snippet": "भारतीय इकाई में अप्रत्यक्ष विदेशी निवेश, जो नॉन-डेट नियमों के तहत अनुमति प्राप्त है, को पूरी तरह से पतला किए गए आधार पर उस इकाई के कुल भुगतान किए गए इक्विटी पूँजी के 24 प्रतिशत तक सीमित किया गया है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "यदि किसी विदेशी पोर्टफोलियो निवेशक (एफपीआई) का निवेश आवश्यक अनुमोदन के बिना निर्धारित सीमाओं से अधिक हो जाता है तो क्या होता है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            8572,
+            8799
+          ]
+        ],
+        "snippet": "यदि किसी एफपीआई ने उपरोक्त सीमाओं को आवश्यक स्वीकृति के बिना पार कर लिया, तो पोर्टफोलियो निवेश को एफडीआई माना जाएगा, जब तक कि निवेशक ट्रेडों के निपटान की तिथि से पाँच ट्रेडिंग दिनों के भीतर अतिरिक्त हिस्सेदारी को नहीं बेच देता।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "गैर-ऋण नियमों के अनुसार, विदेशी प्रत्यक्ष निवेश (एफडीआई) की परिभाषा क्या है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            10872,
+            11000
+          ]
+        ],
+        "snippet": "गैर-ऋण नियमों के अनुसार, भारत के बाहर निवासी व्यक्ति द्वारा पुनःधनवापसी योग्य आधार पर इक्विटी उपकरणों में किया गया कोई भी निवेश."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "भारत के साथ भूमि सीमा साझा करने वाले देशों से निवेश के संबंध में एफडीआई नीति में हाल ही में क्या बदलाव किया गया है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            10063,
+            10145
+          ]
+        ],
+        "snippet": "लाभकारी स्वामित्व में क्रमिक परिवर्तन के लिए भी सरकारी अनुमोदन की आवश्यकता होगी।30"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "अनिवासी भारतीय (एनआरआई) द्वारा गैर-प्रत्यावर्तनीय आधार पर किए गए निवेश को कैसे वर्गीकृत किया जाता है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            7421,
+            7594
+          ]
+        ],
+        "snippet": "हालांकि, भारतीय निवासी, गैर‑निवासी भारतीय (एनआरआई) और भारत के ओवरसीज नागरिक (ओसीआई) आवेदक के घटक हो सकते हैं, बशर्ते वे समय‑समय पर सेबी द्वारा निर्धारित शर्तों का पालन करें।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "भारत के बाहर निवासी व्यक्ति को आंशिक भुगतान वाले शेयर जारी करने के क्या नियम हैं?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            11810,
+            11974
+          ]
+        ],
+        "snippet": "गैर‑ऋण नियमों के अनुसार, भारतीय कंपनियाँ भारत के बाहर रहने वाले व्यक्ति को आंशिक भुगतान वाले शेयर जारी कर सकती हैं, जिनको बाद में पूरी तरह से बुलाया जाना आवश्यक है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "एक भारतीय कंपनी और एक विदेशी कंपनी के बीच सीमा-पार विलय पर क्या शर्तें लागू होती हैं?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            12350,
+            12573
+          ]
+        ],
+        "snippet": "कंपनी अधिनियम भारत में पंजीकृत कंपनियों और विदेशी अधिकार क्षेत्रों में स्थापित कंपनियों के बीच विलय और सम्मिलन की अनुमति देता है, बशर्ते विदेशी कंपनी RBI की पूर्व स्वीकृति के साथ भारतीय कंपनी में विलय कर सके या इसके विपरीत।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "एक भारतीय स्टार्टअप से परिवर्तनीय नोट खरीदने वाली अनिवासी संस्था के लिए क्या नियम हैं?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            12966,
+            13210
+          ]
+        ],
+        "snippet": "आगे, भारत के बाहर निवासी व्यक्ति बिक्री के माध्यम से, परिवर्तनीय नोट्स को प्राप्त या स्थानांतरित कर सकता है, चाहे वह भारत के भीतर या बाहर निवासी व्यक्ति को हो, बशर्ते कि स्थानांतरण प्रविष्टि मार्गों और मूल्य निर्धारण दिशानिर्देशों के अनुसार हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "किस शर्त के तहत एक सीमित देयता भागीदारी (एलएलपी) में विदेशी प्रत्यक्ष निवेश (एफडीआई) की अनुमति है?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI - Hindi.txt",
+        "spans": [
+          [
+            13573,
+            13967
+          ]
+        ],
+        "snippet": "FEMA कानूनों के अनुसार, LLP अधिनियम की प्रावधानों के अधीन, भारत के बाहर रहने वाला कोई भी व्यक्ति (पाकिस्तान या बांग्लादेश के नागरिकों और इन देशों में स्थापित संस्थाओं को छोड़कर) पूंजी योगदान या अर्थव्यवस्था को, अंतरायन सहित, उन्नत तकनीकों और तकनीकी ज्ञान तक पहुँच को बढ़ावा देने, वैश्विक मंचों के लिए द्वार प्रदान करने, रोजगार के अवसर, उच्च पूंजी प्रवाह आदि प्रदान करने के रूप में माना जाता है।"
+      }
+    ]
+  }
+]

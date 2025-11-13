@@ -1,0 +1,9 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "vector_db": "chroma",
+  "top_k": 5,
+  "reranking_strategy": "none"
+}
+

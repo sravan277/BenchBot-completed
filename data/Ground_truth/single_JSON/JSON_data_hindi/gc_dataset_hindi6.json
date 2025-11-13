@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "एम एंड ए लेन-देन में प्रतिनिधित्व और वारंटी (R&W) की मौलिक भूमिका क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            244,
+            426
+          ]
+        ],
+        "snippet": "R&W जोखिम को अधिग्रहणकर्ता और विक्रेता, लक्ष्य संस्था या दोनों (वारंटीकर्ता या वारंटीकर्ता) के बीच वितरित करते हैं, जहाँ वारंटीकर्ता कुछ बयानों की सत्यता के जोखिम को स्वीकार करता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "'प्रतिनिधित्व' और 'वारंटी' के बीच सरल अंतर क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            979,
+            1154
+          ]
+        ],
+        "snippet": "एक मौजूदा या अतीत की घटना के आधार पर जिससे खरीदार को अनुबंध में प्रवेश करने के लिए प्रेरित किया जाता है, जबकि एक ‘वारंटी’ किसी निश्चित स्थिति के निरंतर अस्तित्व की आश्वासन है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "माल की बिक्री अधिनियम 1930 (SOGA) 'वारंटी' को कैसे परिभाषित करता है और इसके उल्लंघन का क्या परिणाम होता है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            1815,
+            1934
+          ]
+        ],
+        "snippet": "कुछ प्रतिनिधित्व ऐसी शर्त बन सकते हैं, जो SOGA के तहत प्रमुख उद्देश्य के लिए आवश्यक एक प्रविधान के रूप में परिभाषित है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "माल की बिक्री अधिनियम 1930 (SOGA) विक्रेता के माल पर स्वामित्व के संबंध में क्या निहित शर्त और वारंटी प्रदान करता है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            2325,
+            2652
+          ]
+        ],
+        "snippet": "इस संदर्भ में यह नोट करना महत्वपूर्ण है कि SOGA की धारा 14 स्पष्ट रूप से यह प्रावधान करती है कि, यदि विपरीत कोई अनुबंध न हो, तो एक निहित शर्त होती है कि विक्रेता के पास वस्तुओं को बेचने का शीर्षक हो तथा शांत स्वामित्व (जिसका अर्थ है तीसरे पक्ष के दावे की संभावना नहीं होना) और ऐसी वस्तुओं पर कोई बंधक न होने की निहित वारंटी हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "R&W प्रदान किए जाने पर भी ड्यू डिलिजेंस (DD) अभ्यास करने का कानूनी आधार क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            4093,
+            4351
+          ]
+        ],
+        "snippet": "ICA के सेक्शन 19 के अपवाद में कहा गया है कि यदि अनुबंध की सहमति गलत प्रस्तुति या मौन, अर्थात् ICA के सेक्शन 17 के अर्थ में धोखाधड़ी के कारण होती है, तो अनुबंध को रद्द नहीं किया जा सकता यदि संबंधित पक्ष के पास सामान्य परिश्रम से सत्य की खोज करने की क्षमता हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "सैंडबैगिंग और एंटी-सैंडबैगिंग प्रावधान के बीच क्या अंतर है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            5615,
+            5762
+          ]
+        ],
+        "snippet": "सैंडबैगिंग प्रावधान यह निर्धारित करता है कि अधिग्रहणकर्ता R&W के उल्लंघन के लिए वारंटोर से क्षतिपूर्ति मांँगा सकता है, भले ही उसे सत्य का ज्ञान हो।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "क्षति के दावे की तुलना में भुगतान के समय के संबंध में क्षतिपूर्ति दावे का मुख्य लाभ क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            7994,
+            8249
+          ]
+        ],
+        "snippet": "जब कोई व्यक्ति दूसरे को क्षतिपूर्ति करने के लिए अनुबंध करता है, तो दूसरा पक्ष क्षतिपूरक को यह सुनिश्चित करने के लिए बाध्य कर सकता है कि वह उस देयता को पूरा कर सके जो उस पर लग सकती है, बिना यह इंतजार किए कि क्षतिपूर्ति धारक वास्तव में उस देयता को निपटा दे।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "क्षतिपूर्ति दावे के तहत नुकसान को कम करने का दायित्व आईसीए की धारा 73 के तहत क्षति के दावे से कैसे भिन्न है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            9548,
+            9785
+          ]
+        ],
+        "snippet": "जो पक्ष प्रतिपूर्ति प्रदान करते हैं उन्हें ध्यान में रखना चाहिए कि क्षतिपूर्ति के दावे में, अनुबंध के निपूर्ण न होने से उत्पन्न हुई असुविधा को ठीक करने के लिए मौजूद साधनों को ICA धारा 73 के तहत क्षति का अनुमान लगाने में विचार किया जाएगा।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "अधिग्रहणकर्ता 'विशिष्ट क्षतिपूर्ति' किस उद्देश्य से मांगते हैं?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            9223,
+            9374
+          ]
+        ],
+        "snippet": "कभी‑कभी प्रतिपूर्ति को अनुबंध उल्लंघन के लिए भी मांगा जाता है, R&W के अतिरिक्त, ताकि ICA की धारा 73 के दायरे से बाहर के नुकसान के लिए दावा किया जा सके।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "विदेशी मुद्रा कानूनों के तहत निवासी वारंटरों से विदेशी अधिग्रहणकर्ताओं को क्षतिपूर्ति भुगतान पर क्या प्रतिबंध हैं?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            10600,
+            10795
+          ]
+        ],
+        "snippet": "20 मई 2016 को RBI ने एक अधिसूचना जारी की जिसमें कहा गया कि शेयर बिक्री में, बिक्री विचारधारा के 25 प्रतिशत तक की प्रतिपूर्ति 18 महीने के लिए अनुबंध की तिथि से बिना अनुमति के प्रदान की जा सकती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "वारंटदाता कुछ प्रतिनिधित्वों को 'ज्ञान' क्वालिफायर के साथ सीमित करने का प्रयास क्यों करते हैं?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            11188,
+            11340
+          ]
+        ],
+        "snippet": "इसका कारण यह है कि वारंटीदाता के लिए कुछ चीज़ें जान पाना संभव नहीं हो सकता, जैसे उस पर दायर किए गए दावे जिनकी सूचना उसे नहीं मिली या छिपी हुई त्रुटियां।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "क्षतिपूर्ति दावों में भौतिकता थ्रेसहोल्ड के लिए उपयोग की जाने वाली 'टिपिंग बास्केट' अवधारणा क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            11816,
+            11929
+          ]
+        ],
+        "snippet": "धोखाधड़ी के लिए उत्तरदायित्व अनसीमित हो सकता है या 100 प्रतिशत पर सीमित (जबकि बाकी वारंटियों की सीमा कम होती है)।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "विभिन्न प्रकार की वारंटियों के लिए क्षतिपूर्ति के लिए संविदात्मक सीमा अवधि को आम तौर पर कैसे संरचित किया जाता है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            12299,
+            12575
+          ]
+        ],
+        "snippet": "सामान्यतः मूलभूत वारंटियों का समय अनिश्चित होता है, जबकि अन्य R&W 18 से 36 महीनों के भीतर सीमित होते हैं, कर वारंटियों को छोड़ कर, जिनके लिए सात साल का मानक होता है। उन मामलों में जहाँ विक्रेता संबंधित अधिकार क्षेत्र से पूरी तरह बाहर निकलना चाहता है, छोटी समयसीमा चाही जाती है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "कई विक्रेताओं वाले लेन-देन में, यदि उनका दायित्व 'कई और संयुक्त नहीं' (several and not joint) है तो इसका क्या अर्थ है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            12990,
+            13082
+          ]
+        ],
+        "snippet": "जब लक्ष्य वारंटीधारक में से कोई एक हो, तो अधिग्राहक को कई उत्तरदायित्वों की माँग करनी चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "एम एंड ए लेन-देन में R&W बीमा का उपयोग करने का उद्देश्य और लाभ क्या है?",
+    "document_description": "Representations Warranties Indemnities and Insurance in M&A",
+    "labels": [
+      {
+        "file_name": "7_Representations_Warranties_Indemnities_and_Insurance_in_M&A - Hindi.txt",
+        "spans": [
+          [
+            13604,
+            13696
+          ]
+        ],
+        "snippet": "यह बीमा विक्रेताओं के उन दायित्वों को कवर करता है जो R&W और प्रतिपूर्ति से उत्पन्न होते हैं।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "hi",
+    "query": "भारत में आने वाले विदेशी निवेश को नियंत्रित करने वाला सामान्य नियामक ढांचा क्या है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            873,
+            1123
+          ]
+        ],
+        "snippet": "gn निवेश भारत में किया जा सकता है और, सामान्यतः, विदेशी निवेश को निम्न आधार पर विभाजित किया जाता है:\n• प्रत्यक्ष विदेशी निवेश (FDI);\n• विदेशी पोर्टफोलियो निवेश (FPI);\n• विदेशी वेंचर कैपिटल निवेश (FVCI); और\n• गैर-निवासी भारतीयों द्वारा किया गया निवेश।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "hi",
+    "query": "भारत में निवेश के लिए फॉरेन वेंचर कैपिटल इन्वेस्टमेंट (FVCI) वाहन का उपयोग करने के कुछ प्राथमिक लाभ क्या हैं?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            1952,
+            2296
+          ]
+        ],
+        "snippet": "इंडिया में निवेश करने के लिए FVCI वाहन का उपयोग करने के कुछ प्रमुख लाभ यह हैं कि भारतीय सिक्योरिटीज़ के इश्यू या ट्रांसफ़र पर लागू मूल्य निर्धारण दिशानिर्देश लागू नहीं होते और FVCI वाहन को भारतीय कंपनी के विभिन्न प्रकार के इक्विटी और इक्विटी‑लिंक्ड इंस्ट्रूमेंट में निवेश करने का अवसर मिलता है, और यह केवल इक्विटी इंस्ट्रूमेंट तक सीमित नहीं है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "hi",
+    "query": "किन क्षेत्रों में विदेशी निवेश और विदेशी प्रौद्योगिकी सहयोग प्रतिबंधित है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            3449,
+            3664
+          ]
+        ],
+        "snippet": "यदि कोई विशेष क्षेत्र प्रतिबंधित क्षेत्रों, निर्दिष्ट क्षेत्रों की सूची में नहीं है या अन्यथा एनडीआई नियमों में उल्लेखित नहीं है, तो सामान्यतः 100 प्रतिशत विदेशी निवेश स्वचालित मार्ग के तहत उस क्षेत्र में अनुमति है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "hi",
+    "query": "किन शर्तों के तहत \"स्वचालित मार्ग\" के माध्यम से सरकारी अनुमोदन के बिना विदेशी निवेश किया जा सकता है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            3218,
+            3448
+          ]
+        ],
+        "snippet": "जहाँ विदेशी निवेश निर्दिष्ट क्षेत्र के लिए स्वचालित मार्ग के अंतर्गत आता है, ऐसे निवेश को सरकार की पूर्व अनुमति के बिना किया जा सकता है, बशर्ते कि क्षेत्रीय सीमाओं का उल्लंघन न हो और एफडीआई-से जुड़ी प्रदर्शन शर्तें पूरी की गई हों।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "hi",
+    "query": "हाल ही में कौन सा संशोधन भारत के साथ भूमि सीमा साझा करने वाले देशों की संस्थाओं से विदेशी निवेश को प्रतिबंधित करता है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            4421,
+            4617
+          ]
+        ],
+        "snippet": "22 अप्रैल 2020 को प्रकाशित एनडीआई नियमों में किए गए एक हालिया संशोधन के अनुसार, भारत की सीमा साझा करने वाले किसी भी देश में रहने वाले इकाई द्वारा किया गया कोई भी विदेशी निवेश16 या जहाँ लाभार्थी..."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "hi",
+    "query": "NDI नियमों के तहत किसी भारतीय इकाई में निवेश से बाहर निकलने वाले विदेशी निवेशक के लिए मार्गदर्शक सिद्धांत क्या है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            5602,
+            5704
+          ]
+        ],
+        "snippet": "महत्वपूर्ण यह है कि निवेशक को निवेश करते समय निकास पर कोई भी आश्वस्त रिटर्न का वादा नहीं किया जा सकता।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "hi",
+    "query": "एक निवासी और एक अनिवासी के बीच लेन-देन में स्थगित प्रतिफल और एस्क्रो के उपयोग के संबंध में क्या नियम हैं?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            6155,
+            6261
+          ]
+        ],
+        "snippet": "एनडीआई नियम स्थगित विचार, एस्क्रो के उपयोग और क्षतिपूर्ति के उपचार से संबंधित कुछ नियम निर्धारित करते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "hi",
+    "query": "NDI नियम उस लेन-देन में क्षतिपूर्ति को कैसे नियंत्रित करते हैं जहाँ खरीदार ने पूरा प्रतिफल चुका दिया है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            6499,
+            6678
+          ]
+        ],
+        "snippet": "जब कोई लेनदेन शामिल है the ऊपर दिया गया सिद्धांत इस कुल सिद्धांत के अधीन है कि विक्रेता को प्राप्त शुद्ध राशि ऊपर उल्लिखित मूल्य निर्धारण दिशानिर्देशों का उल्लंघन नहीं करनी चाहिए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "hi",
+    "query": "NDI नियम पुट या कॉल विकल्पों के प्रयोग के माध्यम से इक्विटी उपकरणों के हस्तांतरण पर क्या शर्तें लगाते हैं?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            6713,
+            7038
+          ]
+        ],
+        "snippet": "NDI नियम यह प्रदान करते हैं कि भारत के बाहर निवासी कोई व्यक्ति जो किसी भारतीय कंपनी में इक्विटी उपकरण रखता है, और ये इक्विटी उपकरण पुट विकल्प या कॉल विकल्प अधिकारों के अधीन हैं, वह केवल संबंधित विकल्प अधिकार का प्रयोग करने के बाद, एक वर्ष की न्यूनतम लॉक‑इन अवधि समाप्त होने पर ही इन इक्विटी उपकरणों को स्थानांतरित कर सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "hi",
+    "query": "अप्रत्यक्ष विदेशी निवेश की गणना के उद्देश्य से \"स्वामित्व\" और \"नियंत्रण\" को कैसे परिभाषित किया गया है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            8424,
+            8628
+          ]
+        ],
+        "snippet": "और नियंत्रण, अर्थात् निदेशकों की बहिनाशक्ति नियुक्त करने या कंपनी के प्रबंधन या नीति निर्णयों को नियंत्रित करने का अधिकार, जिसमें उनके शेयरधारिता, प्रबंधन अधिकार, शेयरधारक समझौता या मतदान समझौता शामिल है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "hi",
+    "query": "डाउनस्ट्रीम निवेश के संबंध में, निवेश करने वाली भारतीय इकाई द्वारा उपयोग किए गए धन के स्रोत के संबंध में क्या नियम है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            9493,
+            9793
+          ]
+        ],
+        "snippet": "एक भारतीय इकाई के इक्विटी उपकरण, जिसके पास अप्रत्यक्ष विदेशी निवेश प्राप्त हुआ है, को एक FOCC को भारत के बाहर रहने वाले व्यक्ति द्वारा, मूल्य निर्धारण दिशानिर्देशों का पालन किए बिना, या भारत में रहने वाले व्यक्ति द्वारा, मूल्य निर्धारण दिशानिर्देशों के पालन के अधीन होकर, स्थानांतरित किया जा सकता है।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "hi",
+    "query": "अधिग्रहण विनियमों के तहत, अधिग्रहणकर्ता को एक खुली पेशकश करने की आवश्यकता का उद्देश्य क्या है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            10830,
+            11063
+          ]
+        ],
+        "snippet": "मूलतः, टेकओवर विनियम सार्वजनिक शेयरधारकों के हितों की रक्षा करते हैं, क्योंकि वे अधिग्राहकों को पर्याप्त वोटिंग अधिकारों या सूचीबद्ध कंपनी पर नियंत्रण के अधिग्रहण की स्थिति में उन्हें निकलने का अवसर प्रदान करने के लिए बाधित करते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "hi",
+    "query": "लिमिटेड लायबिलिटी पार्टनरशिप (एलएलपी) में स्वचालित मार्ग के तहत प्रत्यक्ष विदेशी निवेश की अनुमति के लिए किन शर्तों को पूरा किया जाना चाहिए?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            12165,
+            12430
+          ]
+        ],
+        "snippet": "एनडीआई नियम विदेशी निवेश वाले एलएलपी को, जो उन क्षेत्रों या गतिविधियों में कार्यरत है जहाँ 100 प्रतिशत एफ़डीआई स्वचालित मार्ग द्वारा अनुमति है और जहाँ कोई एफ़डीआई-लिंक्ड प्रदर्शन शर्तें नहीं हैं, को स्वचालित मार्ग के तहत कंपनी में परिवर्तित करने की अनुमति देते हैं।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "hi",
+    "query": "दिवाला और शोधन अक्षमता संहिता (आईबीसी) के तहत समाधान प्रक्रिया के माध्यम से किसी कंपनी का अधिग्रहण करने का मुख्य लाभ क्या है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            13289,
+            13424
+          ]
+        ],
+        "snippet": "दिवालियापन शुरू होने की तिथि से पहले की अवधि में किए गए अपराधों से संबंधित कार्पोरेट देनदार की संपत्ति के खिलाफ कोई कार्यवाही न की जाए।"
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "hi",
+    "query": "कॉर्पोरेट दिवाला समाधान प्रक्रिया (CIRP) अवधि के दौरान, अधिस्थगन का क्या प्रभाव होता है?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions - Hindi.txt",
+        "spans": [
+          [
+            13950,
+            14023
+          ]
+        ],
+        "snippet": "डेब्टर और कोई लंबित प्रक्रिया नहीं चलाई जा सकती कॉरपोरेट देब्टर के खिलाफ।"
+      }
+    ]
+  }
+]

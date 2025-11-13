@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "Why might disputes related to M&A deals conducted through schemes of arrangement be required to go to Indian courts?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            2021,
+            2277
+          ]
+        ],
+        "snippet": "M&A activity pursued under the schemes of arrangement provisions of the Companies Act may in certain circumstances require disputes to be necessarily referred to Indian courts, as certain disputes have been held to be incapable of reference to arbitration."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the role of the National Company Law Tribunal (NCLT) regarding mergers and amalgamations under the Companies Act 2013?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            3203,
+            3434
+          ]
+        ],
+        "snippet": "The National Company Law Tribunal (NCLT) is the tribunal vested with the authority to approve such schemes, which will be duly considered when a 75 per cent majority of shareholders or creditors proposes to undertake such a scheme."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What did the arbitral tribunal in the Daiichi Sankyo case conclude about the acquirer's ability to discover the fraud and misrepresentation?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            5778,
+            6135
+          ]
+        ],
+        "snippet": "The arbitral tribunal had concluded that even though Daiichi Sankyo exercised majority control of the board of Ranbaxy, owing to the compartmentalised nature of information and communications within Ranbaxy Laboratories Ltd made available to it, the fraud and misrepresentation could not have been discovered at an earlier time even on reasonable diligence."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How did the Bombay High Court in the Banyan Tree Growth Capital case uphold the validity of put options in shareholder agreements?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            8420,
+            8872
+          ]
+        ],
+        "snippet": "The court upheld the validity of put options entered into in 2008 by the petitioner, who was a foreign private equity investor, with the promoters of Axiom Cordages Ltd under the Indian securities regulations inter alia on the basis that the Securities Contract Regulation Act intended to prohibit speculative transactions, and put options of the kind found in an SHA providing an investor an exit opportunity do not amount to such a speculative trade."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What was the Supreme Court's view in the Vijay Karia case regarding a rectifiable breach of FEMA regulations?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            10227,
+            10686
+          ]
+        ],
+        "snippet": "The court observed that the scheme of the legislation allows for permission for such transfer of shares to be sought from the regulatory authority (ie, RBI) ex post facto and therefore held that a rectifiable breach under FEMA cannot be considered a violation of the fundamental policy of Indian law that would render the award unenforceable (while noting that the RBI may exercise its regulatory authority and insist that the shares be sold at market value)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "Under what limited circumstances will courts interfere with the invocation of an unconditional bank guarantee?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            11377,
+            11808
+          ]
+        ],
+        "snippet": "However in the context of bank guarantees, the courts will rarely interfere in their invocation and there are only a few circumstances where a grantor of a bank guarantee can prevent the beneficiary from obtaining payment, such as where it is shown that the invocation is vitiated by egregious fraud or there exist 'special equities' such that invocation of the bank guarantee would result in irretrievable injury to the guarantor."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What classes of disputes has the Supreme Court identified as being prima facie non-arbitrable?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            13405,
+            13856
+          ]
+        ],
+        "snippet": "Based on the principle noted above, the Supreme Court has identified certain classes of disputes to be prima facie non-arbitrable, namely: criminal offences; matrimonial disputes; insolvency and winding-up petitions; testamentary matters; intellectual property rights; and the court has also observed that disputes that are subject to the exclusive jurisdiction of specially constituted statutory tribunals may also not be arbitrable under Indian law."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "According to the Supreme Court, when does \"oppression\" of shareholders occur?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            18394,
+            18917
+          ]
+        ],
+        "snippet": "The Supreme Court has observed that oppression can occur when the affairs of the company are carried on without probity and fair dealing towards minority shareholders or where it is shown that minority shareholders have been prejudiced in the exercise of their legal and proprietary rights as shareholders, although it has been clarified that the legality of a particular action by the management of the company has no bearing on whether the affairs of the company have been conducted in a manner oppressive to its members."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "In the Subkham Ventures v SEBI case, how did the Securities Appellate Tribunal (SAT) distinguish between rights that constitute control and those that do not?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            21483,
+            21710
+          ]
+        ],
+        "snippet": "The SAT distinguished between rights that were meant to protect the interest of an investor (by reference to the contractual provision titled 'Protected Provisions') from rights that provided for day-to-day operational control."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What are the limits imposed by the Reserve Bank of India on holding back consideration for indemnification or contingent liabilities in a cross-border deal?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            23655,
+            23949
+          ]
+        ],
+        "snippet": "Further there are limits imposed by the RBI regarding deferment of any part of consideration in relation to a holdback for any contingent liabilities or indemnification (currently 25 per cent of consideration value may be set aside for a maximum period of 18 months under the FEMA Regulations)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "For what strategic reasons are criminal complaints often filed in matters that are purely commercial civil disputes?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            25145,
+            25373
+          ]
+        ],
+        "snippet": "More often than not, criminal complaints are also filed in matters of pure commercial civil disputes with a view to either avoid a civil liability, delay legitimate proceedings or to get the other party to the negotiating table."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "As per the Supreme Court's ruling in Iridium India Telecom Ltd, when does the criminal liability of a corporation arise?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            27757,
+            28162
+          ]
+        ],
+        "snippet": "The criminal liability of corporation would arise when an offence is committed in relation to the business of the corporation by a person or body of persons in control of its affairs. In such circumstances, it would be necessary to ascertain that the degree and control of the person or body of persons is so tense that a corporation may be said to think and act through the person or the body of persons."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "What is the primary purpose of the recent amendments to the Companies Act 2013 that recategorize certain offences as civil defaults?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            29121,
+            29283
+          ]
+        ],
+        "snippet": "Several offences have been recategorised as civil defaults with the aim to ensure compliance as well as to prevent repetition by imposition of stricter penalties."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "In the State of Haryana v Bhajan Lal judgment, under what circumstances can a court quash a criminal proceeding to prevent abuse of process?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            34669,
+            34915
+          ]
+        ],
+        "snippet": "Where a criminal proceeding is manifestly attended with mala fide and/or where the proceeding is maliciously instituted with an ulterior motive for wreaking vengeance on the accused and with a view to spite him due to private and personal grudge."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "What is the overarching objective of the push to decriminalise business and economic legislation?",
+    "document_description": "Dispute Resolution and M&A and Criminalisation of Civil Disputes",
+    "labels": [
+      {
+        "file_name": "10_Dispute_Resolution_and_M&A_and_Criminalisation_of_Civil_Disputes.txt",
+        "spans": [
+          [
+            38874,
+            39143
+          ]
+        ],
+        "snippet": "The objective of such decriminalisation is to avoid civil cases being treated as criminal in nature and to alleviate the fear of prosecution among entrepreneurs, foreign investors and independent directors, which it is hoped will lead to economic growth and prosperity."
+      }
+    ]
+  }
+]

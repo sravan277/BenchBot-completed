@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the definition of an Alternative Investment Fund (AIF) in India?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            3338,
+            3711
+          ]
+        ],
+        "snippet": "AIFs are defined to mean privately pooled investment vehicles that collect funds from investors, whether Indian or foreign, for investing in accordance with a defined investment policy for the benefit of their investors, excluding funds operating in the retail segment such as mutual funds, collective investment schemes and other SEBI-regulated fund management activities."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the primary investment focus of a Category II AIF?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            5682,
+            5900
+          ]
+        ],
+        "snippet": "Category II – for AIFs that fall neither under Category I or Category III, such as private equity funds or debt funds and for which no specific incentives or concessions are given by the government or other regulators."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What is the \"flesh in the game\" or continuing interest requirement for a sponsor of a Category I or II AIF?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            8079,
+            8301
+          ]
+        ],
+        "snippet": "Thereby, the sponsor or manager of a Category I and II AIF is required to have a continuing interest of not less than 2.5 per cent of the corpus or 50 million Indian rupees, whichever is lower, as an investment in the AIF."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How does the tax pass-through benefit work for Category I and II AIFs?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            9737,
+            10124
+          ]
+        ],
+        "snippet": "Moreover, Category I and II AIFs enjoy certain tax benefits under the Income Tax Act 1961 whereby any income (except income chargeable under the head ‘profits and gains of business and profession’) accrued to the investors from their investments in the aforementioned AIFs is taxed in the hands of the investors as if the investments made by the AIFs were directly made by the investors."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What is the fundamental difference between Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI)?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            12053,
+            12257
+          ]
+        ],
+        "snippet": "Unlike foreign direct investment (FDI), foreign portfolio investment is a short-term investment that is made by a foreign investor who is not involved in the day-to-day management of the investee company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "Which types of entities are classified as Category I Foreign Portfolio Investors (FPIs)?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            14666,
+            14947
+          ]
+        ],
+        "snippet": "Category I comprises pension funds, university funds and appropriately regulated entities while Category II covers endowments, charitable organisations, corporate bodies, family offices, etc, which also includes appropriately regulated entities investing on behalf of their client."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is the individual investment limit for a single Foreign Portfolio Investor (FPI) in an Indian company?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            17348,
+            17555
+          ]
+        ],
+        "snippet": "As per the FPI Regulations, the total equity holding of a single FPI (including its investor group) is capped at 10 per cent of the total paid-up equity capital of an Indian entity, on a fully diluted basis."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "What happens if a Foreign Portfolio Investor's (FPI) investment exceeds the prescribed limits without the necessary approvals?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            18158,
+            18413
+          ]
+        ],
+        "snippet": "If an FPI exceeds the above-mentioned limits, in the absence of the requisite approval, the portfolio investment will be treated as FDI unless the investor divests the excess shareholding within five trading days from the date of settlement of the trades."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "According to the Non-Debt Rules, what is the definition of Foreign Direct Investment (FDI)?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            20832,
+            21092
+          ]
+        ],
+        "snippet": "As per the Non-Debt Rules, FDI means investment through equity instruments by a person resident outside India in an unlisted Indian company, or in 10 per cent or more of the post-issue paid-up equity capital on a fully diluted basis of a listed Indian company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What recent change was made to the FDI policy concerning investments from countries sharing a land border with India?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            21171,
+            21442
+          ]
+        ],
+        "snippet": "With effect from 22 April 2020, prior permission of the government of India is required for investment by an entity of a country sharing a land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "How is an investment made by a Non-Resident Indian (NRI) on a non-repatriable basis classified?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            23361,
+            23489
+          ]
+        ],
+        "snippet": "If investment by NRIs and OCIs in Indian entities is on a non-repatriable basis, this will be considered as domestic investment."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "What are the rules for issuing partly paid shares to a person resident outside India?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            24493,
+            24845
+          ]
+        ],
+        "snippet": "According to the Non-Debt Rules, Indian companies can issue partly paid shares to a person resident outside India that must be fully called up within 12 months of such issue or as per such time period specified by the RBI. However, 25 per cent of the total consideration amount of such partly paid shares (including share premium) must be paid upfront."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "What conditions apply to a cross-border merger between an Indian company and a foreign company?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            26088,
+            26345
+          ]
+        ],
+        "snippet": "The Companies Act permits mergers and amalgamations between companies incorporated in India and companies established in foreign jurisdictions, provided the foreign company may, with the prior approval of the RBI, merge into an Indian company or vice versa."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "What are the regulations for a non-resident entity purchasing convertible notes from an Indian startup?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            27035,
+            27380
+          ]
+        ],
+        "snippet": "According to the Non-Debt Rules, a person resident outside India, other than an individual who is citizen of Pakistan or Bangladesh or an entity that is registered or incorporated in Pakistan or Bangladesh, can purchase convertible notes issued by an Indian startup company for an amount of 2.5 million Indian rupees or more in a single tranche."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "Under what condition is Foreign Direct Investment (FDI) permitted in a Limited Liability Partnership (LLP)?",
+    "document_description": "Smart Acquisition Structures in M&A AIF FPI and FDI",
+    "labels": [
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            28321,
+            28746
+          ]
+        ],
+        "snippet": "As per the FEMA laws, subject to the provisions of the LLP Act, any person resident outside India (except citizens of Pakistan or Bangladesh and entities incorporated in these countries) is permitted to invest by way of either capital contribution or acquisition or transfer of profit shares of an LLP in sectors where 100 per cent FDI is permitted through the automatic route and there are no sector-specific FDI conditions."
+      }
+    ]
+  }
+]

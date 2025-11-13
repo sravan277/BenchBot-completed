@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the general regulatory framework that governs foreign investment coming into India?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            1470,
+            1919
+          ]
+        ],
+        "snippet": "At the outset, it should be noted that the Indian economy is a regulated one and any foreign investment from other countries into India is regulated under the Foreign Exchange Management Act 1999 read with the Foreign Exchange Management (Non Debt Instruments) Rules 2019 (NDI Rules) and the Foreign Exchange Management (Debt Instruments) Rules 2019 (DI Rules), issued by the Department of Economic Affairs, Ministry of Finance, Government of India."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What are some of the primary benefits of using a Foreign Venture Capital Investment (FVCI) vehicle for investing in India?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            4114,
+            4467
+          ]
+        ],
+        "snippet": "Some of the key benefits of using an FVCI vehicle to invest in India include the fact that the pricing guidelines on issuance or transfer of Indian securities do not apply and the FVCI vehicle has the opportunity to invest in different types of equity and equity-linked instruments of the Indian company and is not restricted to just equity instruments."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "In which sectors is foreign investment and foreign technology collaboration prohibited?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            5150,
+            5674
+          ]
+        ],
+        "snippet": "Foreign investment and foreign technology collaboration is prohibited in certain sectors or activities (Prohibited Sectors), such as atomic energy or railway operations, lottery business including government or private lottery, online lotteries, gambling and betting business including casinos, the manufacture of cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes, chit funds and Nidhi companies, trading in transferable development rights, real estate business or construction of farmhouses."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "Under what conditions can foreign investment be made through the \"automatic route\" without government approval?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            6388,
+            6894
+          ]
+        ],
+        "snippet": "Where foreign investment with respect to a Specified Sector is under the automatic route, such investment can be made without prior approval of the government, provided that the sectoral caps are not breached and the FDI-linked performance conditions are complied with. If a particular sector is not in the list of Prohibited Sectors, Specified Sectors or otherwise dealt with in the NDI Rules, then generally speaking, 100 per cent foreign investment is permitted in such sector under the automatic route."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What recent amendment restricts foreign investment from entities in countries that share a land border with India?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            8660,
+            9067
+          ]
+        ],
+        "snippet": "Pursuant to a recent amendment to the NDI Rules notified on 22 April 2020, any foreign investment by an entity resident in a country that shares a land border with India or where the beneficial owner of such foreign investment is a person situated in or a citizen of such country, can only be undertaken with the prior approval of the government, irrespective of the sector or quantum of foreign investment."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What is the guiding principle under the NDI Rules for a foreign investor exiting an investment in an Indian entity?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            11719,
+            11981
+          ]
+        ],
+        "snippet": "As per the NDI Rules, the guiding principle is that the foreign investor must exit at the fair market price prevailing at the time of such exit. Importantly, an investor cannot be promised any kind of assured return on exit, at the time of making its investment."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What are the regulations concerning deferred consideration and the use of escrow in transactions between a resident and a non-resident?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            12758,
+            13408
+          ]
+        ],
+        "snippet": "Where a transaction involves the transfer of equity instruments between a person resident in India and a person resident outside India, an amount not exceeding 25 per cent of the total consideration may be paid by the buyer to the seller on a deferred basis or settled through an escrow arrangement between the buyer and the seller. Further, where structures involve deferred consideration or escrow arrangement restricted to amounts equal to or below 25 per cent, the deferred consideration must be paid, and the escrow arrangement must be settled, within a period of 18 months from the date of the transfer agreement (and not the date of transfer)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "How do the NDI Rules regulate indemnities in a transaction where the buyer has paid the full consideration?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            13411,
+            13769
+          ]
+        ],
+        "snippet": "With respect to indemnities, if the buyer has paid the consideration in full, then the NDI Rules permit the buyer to be indemnified by the seller for a period not exceeding 18 months from the date of payment of the full consideration, provided that, the aggregate indemnity amount does not exceed 25 per cent of the total consideration paid for the purchase."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What conditions do the NDI Rules impose on the transfer of equity instruments through the exercise of put or call options?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            13971,
+            14481
+          ]
+        ],
+        "snippet": "The NDI Rules provide that a person resident outside India who holds equity instruments in an Indian company, which equity instruments are subject to put option or call option rights, may only transfer such equity instruments upon the exercise of the relevant option right after a minimum lock-in period of one year has passed. Further, the transfer of such equity instruments shall be subject to the pricing guidelines set out in the NDI Rules and will not involve any assured return for the exiting investor."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "How are \"ownership\" and \"control\" defined for the purpose of calculating indirect foreign investment?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            17618,
+            17971
+          ]
+        ],
+        "snippet": "The NDI Rules define ownership by reference to the beneficial holding of more than 50 per cent of the equity instruments and control as the right to appoint majority of directors or to control the management or policy decisions of the company, including by virtue of their shareholding or management rights or shareholders agreement or voting agreement."
+      }
+    ]
+  },
+  {
+    "query_id": "Q011",
+    "language": "en",
+    "query": "Regarding downstream investments, what is the rule concerning the source of funds used by the investing Indian entity?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            19121,
+            19501
+          ]
+        ],
+        "snippet": "The Indian entity making the downstream investment (ie, the FOCC) is required to bring the necessary funds for investment from outside India and is not permitted to use funds borrowed on the domestic Indian markets. However, the FOCC is permitted to make downstream investments through its internal accruals (ie, profits transferred to reserve account after the payment of taxes)."
+      }
+    ]
+  },
+  {
+    "query_id": "Q012",
+    "language": "en",
+    "query": "Under the Takeover Regulations, what is the purpose of requiring an acquirer to make an open offer?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            22234,
+            22477
+          ]
+        ],
+        "snippet": "Essentially, the Takeover Regulations protect the interests of the public shareholders by requiring acquirers to provide an exit opportunity to them, in the event of an acquisition of substantial voting rights or control over a listed company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q013",
+    "language": "en",
+    "query": "What conditions must be met for Foreign Direct Investment to be permitted in a Limited Liability Partnership (LLP) under the automatic route?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            25043,
+            25305
+          ]
+        ],
+        "snippet": "FDI is permitted in LLPs operating in sectors or activities where 100 per cent FDI is permitted under the automatic route and there are no FDI-linked performance conditions. Government approval is required for FDI in LLPs if the above condition is not satisfied."
+      }
+    ]
+  },
+  {
+    "query_id": "Q014",
+    "language": "en",
+    "query": "What is the main advantage of acquiring a company through the resolution process under the Insolvency and Bankruptcy Code (IBC)?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            27315,
+            27500
+          ]
+        ],
+        "snippet": "The main advantage of the IBC resolution process is the extinguishment of all historical liabilities of the corporate debtor if and to the extent provided for under the resolution plan."
+      }
+    ]
+  },
+  {
+    "query_id": "Q015",
+    "language": "en",
+    "query": "During the Corporate Insolvency Resolution Process (CIRP) Period, what is the effect of the moratorium?",
+    "document_description": "Cross-Border Mergers Old Challenges New Solutions",
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            29403,
+            29630
+          ]
+        ],
+        "snippet": "During the CIRP Period, no suit or legal proceeding can be commenced (including any action to enforce security interest) against the corporate debtor and no pending proceeding can be proceeded with against the corporate debtor."
+      }
+    ]
+  }
+]

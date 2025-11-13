@@ -1,0 +1,312 @@
+[
+  {
+    "query_id": "Q001",
+    "language": "en",
+    "query": "What is the role of the National Company Law Tribunal (NCLT) in approving mergers?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Key Challenges in Indian M&A and Exits"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            2785,
+            2848
+          ]
+        ],
+        "snippet": "The final approval for any merger would be granted by the NCLT."
+      },
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            2619,
+            2881
+          ]
+        ],
+        "snippet": "In relation to schemes, the Companies Act provides for the role of the National Company Law Tribunal (NCLT) – the forum responsible for approving schemes through its regional benches, protection of minority shareholders and a fast-track process in certain cases."
+      }
+    ]
+  },
+  {
+    "query_id": "Q002",
+    "language": "en",
+    "query": "What is the mandatory tender offer (MTO) requirement for an acquirer of a listed company?",
+    "document_descriptions": [
+      "Cross-Border Mergers Old Challenges New Solutions",
+      "Key Challenges in Indian M&A and Exits"
+    ],
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            22234,
+            22477
+          ]
+        ],
+        "snippet": "Essentially, the Takeover Regulations protect the interests of the public shareholders by requiring acquirers to provide an exit opportunity to them, in the event of an acquisition of substantial voting rights or control over a listed company."
+      },
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            14840,
+            15093
+          ]
+        ],
+        "snippet": "Under the Takeover Regulations, a person acquiring control over a listed company is required to provide an exit opportunity to the public shareholders by offering to additionally acquire at least 26 per cent of the shares of such company through an MTO."
+      }
+    ]
+  },
+  {
+    "query_id": "Q003",
+    "language": "en",
+    "query": "What is the approval process for the Competition Commission of India (CCI) for M&A transactions?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Key Challenges in Indian M&A and Exits"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            12282,
+            12520
+          ]
+        ],
+        "snippet": "A Combination subject to a notification requirement cannot be consummated until a clearance from the CCI has been obtained, or a review period of 210 calendar days from the date of notification to the CCI has passed, whichever is earlier."
+      },
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            10082,
+            10316
+          ]
+        ],
+        "snippet": "An M&A transaction will require notification to, and approval of, the Competition Commission of India (CCI), India’s antitrust authority, if the assets or turnover of the parties to the transaction exceed certain specified thresholds."
+      }
+    ]
+  },
+  {
+    "query_id": "Q004",
+    "language": "en",
+    "query": "How is the acquisition of distressed assets under the Insolvency and Bankruptcy Code (IBC) seen as an M&A opportunity?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            27502,
+            27763
+          ]
+        ],
+        "snippet": "While the IBC does not directly deal with M&A, the insolvency process creates an opportunity for potential acquirers to acquire assets of stressed companies, whereby the acquirer may be able to acquire assets at a lower valuation than in ordinary circumstances."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            27315,
+            27500
+          ]
+        ],
+        "snippet": "The main advantage of the IBC resolution process is the extinguishment of all historical liabilities of the corporate debtor if and to the extent provided for under the resolution plan."
+      }
+    ]
+  },
+  {
+    "query_id": "Q005",
+    "language": "en",
+    "query": "What recent changes have been made to the foreign direct investment (FDI) policy for countries sharing a land border with India?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Smart Acquisition Structures in M&A AIF FPI and FDI"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            21162,
+            21387
+          ]
+        ],
+        "snippet": "Accordingly, an entity of a country that shares a land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country can invest only through the approval route."
+      },
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            21171,
+            21442
+          ]
+        ],
+        "snippet": "With effect from 22 April 2020, prior permission of the government of India is required for investment by an entity of a country sharing a land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country."
+      }
+    ]
+  },
+  {
+    "query_id": "Q006",
+    "language": "en",
+    "query": "What are the regulations surrounding cross-border mergers?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Smart Acquisition Structures in M&A AIF FPI and FDI"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            21532,
+            21735
+          ]
+        ],
+        "snippet": "In order to operationalise the enabling provisions under the Companies Act regarding cross-border mergers, the RBI has issued the Cross-Border Merger Regulations, which provide its operational framework."
+      },
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            26088,
+            26345
+          ]
+        ],
+        "snippet": "The Companies Act permits mergers and amalgamations between companies incorporated in India and companies established in foreign jurisdictions, provided the foreign company may, with the prior approval of the RBI, merge into an Indian company or vice versa."
+      }
+    ]
+  },
+  {
+    "query_id": "Q007",
+    "language": "en",
+    "query": "What is the distinction between Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI)?",
+    "document_descriptions": [
+      "Key Challenges in Indian M&A and Exits",
+      "Smart Acquisition Structures in M&A AIF FPI and FDI"
+    ],
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            4426,
+            4730
+          ]
+        ],
+        "snippet": "Investment of less than 10 per cent in the shares of a listed company by a SEBI-registered investor is treated as foreign portfolio investment (FPI), while foreign investment in an unlisted company or in 10 per cent or more of the shares of a listed company is treated as foreign direct investment (FDI)."
+      },
+      {
+        "file_name": "6_Smart_Acquisition_Structures_in_M&A_AIF_FPI_and_FDI.txt",
+        "spans": [
+          [
+            12053,
+            12257
+          ]
+        ],
+        "snippet": "Unlike foreign direct investment (FDI), foreign portfolio investment is a short-term investment that is made by a foreign investor who is not involved in the day-to-day management of the investee company."
+      }
+    ]
+  },
+  {
+    "query_id": "Q008",
+    "language": "en",
+    "query": "Which business sectors are prohibited for foreign investment in India?",
+    "document_descriptions": [
+      "Regulatory Interventions in M&A - including CCI RBI and SEBI",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "3_Regulatory_Interventions_in_M&A_-_including_CCI_RBI_and_SEBI.txt",
+        "spans": [
+          [
+            20756,
+            20952
+          ]
+        ],
+        "snippet": "There are a few business sectors in which foreign investment is prohibited, such as the lottery business, chit funds, real estate business, manufacturing of cigars, cigarettes, atomic energy, etc."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            5150,
+            5674
+          ]
+        ],
+        "snippet": "Foreign investment and foreign technology collaboration is prohibited in certain sectors or activities (Prohibited Sectors), such as atomic energy or railway operations, lottery business including government or private lottery, online lotteries, gambling and betting business including casinos, the manufacture of cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes, chit funds and Nidhi companies, trading in transferable development rights, real estate business or construction of farmhouses."
+      }
+    ]
+  },
+  {
+    "query_id": "Q009",
+    "language": "en",
+    "query": "What are the rules regarding deferred consideration in transactions involving foreign investors?",
+    "document_descriptions": [
+      "Cross-Border Mergers Old Challenges New Solutions",
+      "Key Challenges in Indian M&A and Exits"
+    ],
+    "labels": [
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            12758,
+            13090
+          ]
+        ],
+        "snippet": "Where a transaction involves the transfer of equity instruments between a person resident in India and a person resident outside India, an amount not exceeding 25 per cent of the total consideration may be paid by the buyer to the seller on a deferred basis or settled through an escrow arrangement between the buyer and the seller."
+      },
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            24706,
+            24918
+          ]
+        ],
+        "snippet": "In transactions involving foreign buyers, up to 25 per cent of the purchase consideration can be held back for a period of up to 18 months from the date of the share purchase agreement without prior RBI approval."
+      }
+    ]
+  },
+  {
+    "query_id": "Q010",
+    "language": "en",
+    "query": "What pricing guidelines must be followed for the transfer of equity instruments involving a non-resident?",
+    "document_descriptions": [
+      "Key Challenges in Indian M&A and Exits",
+      "Cross-Border Mergers Old Challenges New Solutions"
+    ],
+    "labels": [
+      {
+        "file_name": "5_Key_Challenges_in_Indian_M&A_and_Exits.txt",
+        "spans": [
+          [
+            6792,
+            6919
+          ]
+        ],
+        "snippet": "For a transfer of equity instruments by a foreign investor to an Indian resident, such fair market value serves as the ceiling."
+      },
+      {
+        "file_name": "4_Cross-Border_Mergers_Old_Challenges_New_Solutions.txt",
+        "spans": [
+          [
+            14308,
+            14481
+          ]
+        ],
+        "snippet": "the transfer of such equity instruments shall be subject to the pricing guidelines set out in the NDI Rules and will not involve any assured return for the exiting investor."
+      }
+    ]
+  }
+]
