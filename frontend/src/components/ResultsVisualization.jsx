@@ -23,7 +23,7 @@ import { TrendingUp, Clock, Target, Zap } from 'lucide-react'
 
 const COLORS = ['#0ea5e9', '#8b5cf6', '#ec4899', '#10b981', '#f59e0b']
 
-export default function ResultsVisualization({ results, benchmarkTypes }) {
+export default function ResultsVisualization({ results, benchmarkTypes, pipelineConfig }) {
   const prepareBarData = (benchmarkType) => {
     if (!results[benchmarkType]) return []
     const metrics = results[benchmarkType].overall_metrics
@@ -77,7 +77,32 @@ export default function ResultsVisualization({ results, benchmarkTypes }) {
         animate={{ opacity: 1, y: 0 }}
         className="bg-white/90 backdrop-blur-md rounded-xl p-8 shadow-lg"
       >
-        <h2 className="text-3xl font-bold text-gray-800 mb-6">Benchmark Results</h2>
+        <div className="flex justify-between items-start mb-6">
+          <h2 className="text-3xl font-bold text-gray-800">Benchmark Results</h2>
+          {pipelineConfig && (
+            <div className="bg-primary-50 border border-primary-200 rounded-lg px-4 py-2">
+              <div className="text-sm text-gray-600 mb-1">Pipeline Configuration</div>
+              <div className="flex flex-wrap gap-2 text-xs">
+                <span className="bg-white px-2 py-1 rounded">
+                  Model: {pipelineConfig.embedding_model?.split('/').pop() || 'N/A'}
+                </span>
+                <span className="bg-white px-2 py-1 rounded">
+                  Chunk: {pipelineConfig.chunk_size || 'N/A'}
+                </span>
+                <span className="bg-white px-2 py-1 rounded">
+                  DB: {pipelineConfig.vector_db || 'N/A'}
+                </span>
+                <span className="bg-white px-2 py-1 rounded font-semibold text-primary-700">
+                  Reranking: {pipelineConfig.reranking_strategy === 'none' ? 'None' : 
+                             pipelineConfig.reranking_strategy === 'cross_encoder' ? 'Cross-Encoder' :
+                             pipelineConfig.reranking_strategy === 'bm25' ? 'BM25' :
+                             pipelineConfig.reranking_strategy === 'rrf' ? 'RRF' :
+                             pipelineConfig.reranking_strategy || 'None'}
+                </span>
+              </div>
+            </div>
+          )}
+        </div>
 
         {/* Overall Metrics Cards */}
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">

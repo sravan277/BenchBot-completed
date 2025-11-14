@@ -112,7 +112,8 @@ async def run_benchmark_task(
             "details": "Benchmark completed successfully!",
             "benchmark_id": str(result_id.inserted_id),
             "benchmark_name": benchmark_name,
-            "results": all_results
+            "results": all_results,
+            "pipeline_config": pipeline_config
         })
     
     except Exception as e:

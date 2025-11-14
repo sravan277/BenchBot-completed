@@ -4,7 +4,7 @@ import time
 from typing import List, Dict, Any, Optional, Tuple
 from pathlib import Path
 import numpy as np
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, CrossEncoder
 import torch
 import torch.nn.functional as F
 from torch import Tensor
@@ -16,6 +16,8 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct
 import uuid
 from sklearn.metrics.pairwise import cosine_similarity
+from rank_bm25 import BM25Okapi
+import re
 
 class EmbeddingModelManager:
     """Manages embedding models with caching"""
@@ -363,6 +365,8 @@ class RAGPipeline:
         self.top_k = config.get("top_k", 5)
         self.vector_db_type = config.get("vector_db", "chroma")
         self.reranking_strategy = config.get("reranking_strategy", "none")
+        self.reranker = None
+        self.bm25_index = None
         
         self.vector_db = VectorDatabase(
             db_type=self.vector_db_type,
@@ -494,6 +498,99 @@ class RAGPipeline:
         print(f"Successfully indexed {len(self.chunks)} chunks")
         return len(self.chunks)
     
+    def _tokenize(self, text: str) -> List[str]:
+        """Simple tokenization for BM25"""
+        # Convert to lowercase and split on whitespace and punctuation
+        tokens = re.findall(r'\b\w+\b', text.lower())
+        return tokens
+    
+    def _build_bm25_index(self):
+        """Build BM25 index from chunks"""
+        if self.bm25_index is not None:
+            return
+        
+        tokenized_chunks = [self._tokenize(chunk) for chunk in self.chunks]
+        self.bm25_index = BM25Okapi(tokenized_chunks)
+        print("BM25 index built")
+    
+    def _rerank_cross_encoder(self, query: str, chunks: List[str], scores: List[float]) -> List[Tuple[int, float]]:
+        """Rerank using cross-encoder model"""
+        if self.reranker is None:
+            # Load cross-encoder model (lightweight and fast)
+            model_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+            try:
+                self.reranker = CrossEncoder(model_name, max_length=512)
+                print(f"Loaded cross-encoder model: {model_name}")
+            except Exception as e:
+                print(f"Error loading cross-encoder: {e}, falling back to no reranking")
+                return list(enumerate(scores))
+        
+        # Create query-document pairs
+        pairs = [[query, chunk] for chunk in chunks]
+        
+        # Get reranking scores
+        try:
+            rerank_scores = self.reranker.predict(pairs)
+            # Combine with original scores (weighted average)
+            combined_scores = [
+                0.7 * float(rerank_score) + 0.3 * original_score
+                for rerank_score, original_score in zip(rerank_scores, scores)
+            ]
+            # Return sorted indices with scores
+            indexed_scores = list(enumerate(combined_scores))
+            indexed_scores.sort(key=lambda x: x[1], reverse=True)
+            return indexed_scores
+        except Exception as e:
+            print(f"Error in cross-encoder reranking: {e}")
+            return list(enumerate(scores))
+    
+    def _rerank_bm25(self, query: str, chunks: List[str], scores: List[float]) -> List[Tuple[int, float]]:
+        """Rerank using BM25"""
+        if self.bm25_index is None:
+            self._build_bm25_index()
+        
+        try:
+            query_tokens = self._tokenize(query)
+            bm25_scores = self.bm25_index.get_scores(query_tokens)
+            
+            # Combine BM25 scores with original embedding scores
+            combined_scores = [
+                0.6 * float(bm25_score) + 0.4 * original_score
+                for bm25_score, original_score in zip(bm25_scores, scores)
+            ]
+            
+            # Return sorted indices with scores
+            indexed_scores = list(enumerate(combined_scores))
+            indexed_scores.sort(key=lambda x: x[1], reverse=True)
+            return indexed_scores
+        except Exception as e:
+            print(f"Error in BM25 reranking: {e}")
+            return list(enumerate(scores))
+    
+    def _rerank_rrf(self, query: str, chunks: List[str], scores: List[float]) -> List[Tuple[int, float]]:
+        """Rerank using Reciprocal Rank Fusion"""
+        # RRF combines multiple ranking signals
+        # For now, we'll use a simple combination of embedding scores
+        # In a full implementation, you'd combine multiple retrieval methods
+        
+        # Normalize scores to ranks
+        indexed_scores = list(enumerate(scores))
+        indexed_scores.sort(key=lambda x: x[1], reverse=True)
+        
+        # RRF formula: score = sum(1 / (k + rank))
+        k = 60  # RRF constant
+        rrf_scores = {}
+        for rank, (idx, score) in enumerate(indexed_scores, 1):
+            rrf_scores[idx] = 1.0 / (k + rank)
+        
+        # Combine with original scores
+        combined_scores = [
+            (idx, 0.5 * rrf_scores.get(idx, 0) + 0.5 * score)
+            for idx, score in enumerate(scores)
+        ]
+        combined_scores.sort(key=lambda x: x[1], reverse=True)
+        return combined_scores
+    
     def retrieve(self, query: str) -> Tuple[List[Dict], float]:
         """Retrieve relevant chunks for a query"""
         start_time = time.time()
@@ -505,18 +602,20 @@ class RAGPipeline:
                 return [], time.time() - start_time
             query_embedding = query_embeddings[0]
             
-            # Search
-            results = self.vector_db.search(query_embedding, top_k=self.top_k)
+            # Initial retrieval - get more candidates for reranking
+            initial_top_k = self.top_k * 3 if self.reranking_strategy != "none" else self.top_k
+            results = self.vector_db.search(query_embedding, top_k=initial_top_k)
         except Exception as e:
             print(f"Error in retrieve: {e}")
             import traceback
             traceback.print_exc()
             return [], time.time() - start_time
         
-        latency = time.time() - start_time
-        
-        # Format results
+        # Format initial results
         retrieved_chunks = []
+        chunk_texts = []
+        scores = []
+        
         for result in results:
             metadata = result.get("metadata", {})
             # Get chunk text from document if available, otherwise from chunks list
@@ -527,13 +626,45 @@ class RAGPipeline:
                 if 0 <= idx < len(self.chunks):
                     chunk_text = self.chunks[idx]
             
+            score = 1 - result.get("distance", 1.0)  # Convert distance to similarity
+            
             retrieved_chunks.append({
                 "file_name": metadata.get("file_name", ""),
                 "start_pos": metadata.get("start_pos", 0),
                 "end_pos": metadata.get("end_pos", 0),
                 "chunk_text": chunk_text,
-                "score": 1 - result.get("distance", 1.0)  # Convert distance to similarity
+                "score": score
             })
+            chunk_texts.append(chunk_text)
+            scores.append(score)
         
+        # Apply reranking if specified
+        if self.reranking_strategy != "none" and len(retrieved_chunks) > 0:
+            try:
+                if self.reranking_strategy == "cross_encoder":
+                    reranked_indices = self._rerank_cross_encoder(query, chunk_texts, scores)
+                elif self.reranking_strategy == "bm25":
+                    reranked_indices = self._rerank_bm25(query, chunk_texts, scores)
+                elif self.reranking_strategy == "rrf":
+                    reranked_indices = self._rerank_rrf(query, chunk_texts, scores)
+                else:
+                    reranked_indices = list(enumerate(scores))
+                
+                # Reorder chunks based on reranking
+                reranked_chunks = [retrieved_chunks[idx] for idx, _ in reranked_indices[:self.top_k]]
+                # Update scores
+                for i, (_, score) in enumerate(reranked_indices[:self.top_k]):
+                    reranked_chunks[i]["score"] = score
+                
+                retrieved_chunks = reranked_chunks
+            except Exception as e:
+                print(f"Error in reranking: {e}")
+                # Fall back to original results
+                retrieved_chunks = retrieved_chunks[:self.top_k]
+        else:
+            # No reranking, just take top_k
+            retrieved_chunks = retrieved_chunks[:self.top_k]
+        
+        latency = time.time() - start_time
         return retrieved_chunks, latency
 

@@ -22,6 +22,13 @@ const VECTOR_DBS = [
   { value: 'qdrant', label: 'Qdrant (Cloud)' }
 ]
 
+const RERANKING_STRATEGIES = [
+  { value: 'none', label: 'None (No Reranking)' },
+  { value: 'cross_encoder', label: 'Cross-Encoder (MS-MARCO)' },
+  { value: 'bm25', label: 'BM25 (Keyword-based)' },
+  { value: 'rrf', label: 'Reciprocal Rank Fusion (RRF)' }
+]
+
 export default function Benchmark() {
   const { user } = useAuth()
   const { showToast } = useToast()
@@ -34,6 +41,7 @@ export default function Benchmark() {
   const [chunkOverlap, setChunkOverlap] = useState(50)
   const [embeddingModel, setEmbeddingModel] = useState(EMBEDDING_MODELS[0].value)
   const [vectorDb, setVectorDb] = useState('chroma')
+  const [rerankingStrategy, setRerankingStrategy] = useState('none')
   const [topK, setTopK] = useState(5)
   
   // Upload
@@ -46,6 +54,7 @@ export default function Benchmark() {
   
   // Results
   const [results, setResults] = useState(null)
+  const [resultsPipelineConfig, setResultsPipelineConfig] = useState(null)
   const [benchmarkId, setBenchmarkId] = useState(null)
   const [loading, setLoading] = useState(false)
   const [progress, setProgress] = useState('')
@@ -153,6 +162,7 @@ export default function Benchmark() {
             intervalRef.current = null
           }
           setResults(data.results)
+          setResultsPipelineConfig(data.pipeline_config)
           setBenchmarkId(data.benchmark_id)
           setStep(3)
           setLoading(false)
@@ -245,7 +255,7 @@ export default function Benchmark() {
           chunk_overlap: chunkOverlap,
           embedding_model: embeddingModel,
           vector_db: vectorDb,
-          reranking_strategy: 'none',
+          reranking_strategy: rerankingStrategy,
           top_k: topK
         }
       } else {
@@ -443,6 +453,29 @@ export default function Benchmark() {
 
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-2">
+                      Reranking Strategy
+                    </label>
+                    <select
+                      value={rerankingStrategy}
+                      onChange={(e) => setRerankingStrategy(e.target.value)}
+                      className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
+                    >
+                      {RERANKING_STRATEGIES.map((strategy) => (
+                        <option key={strategy.value} value={strategy.value}>
+                          {strategy.label}
+                        </option>
+                      ))}
+                    </select>
+                    <p className="mt-1 text-xs text-gray-500">
+                      {rerankingStrategy === 'none' && 'No reranking - uses embedding similarity only'}
+                      {rerankingStrategy === 'cross_encoder' && 'Uses cross-encoder model for better relevance (slower but more accurate)'}
+                      {rerankingStrategy === 'bm25' && 'Uses keyword-based BM25 scoring (fast, good for exact matches)'}
+                      {rerankingStrategy === 'rrf' && 'Combines multiple ranking signals using Reciprocal Rank Fusion'}
+                    </p>
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-2">
                       Top K Results (1-50)
                     </label>
                     <input
@@ -579,28 +612,9 @@ export default function Benchmark() {
                 )}
               </button>
             </div>
-            {loading && (
-              <div className="mt-6 p-6 bg-gradient-to-r from-blue-50 to-indigo-50 border-2 border-blue-200 rounded-xl shadow-lg">
-                <div className="mb-4">
-                  <div className="flex items-center justify-between mb-2">
-                    <h3 className="text-lg font-semibold text-gray-800">{currentStep || 'Running Benchmark'}</h3>
-                    <span className="text-sm font-medium text-primary-600">{Math.round(progressPercent)}%</span>
-                  </div>
-                  <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
-                    <div
-                      className="bg-gradient-to-r from-primary-500 to-primary-600 h-3 rounded-full transition-all duration-300 ease-out"
-                      style={{ width: `${progressPercent}%` }}
-                    />
-                  </div>
-                </div>
-                <div className="mt-4 p-3 bg-white/80 rounded-lg border border-blue-100">
-                  <div className="flex items-start space-x-3">
-                    <Loader className="w-5 h-5 text-primary-600 animate-spin mt-0.5 flex-shrink-0" />
-                    <div className="flex-1">
-                      <p className="text-sm text-gray-700 font-medium">{progress || 'Processing...'}</p>
-                    </div>
-                  </div>
-                </div>
+            {loading && progress && (
+              <div className="mt-4 p-4 bg-blue-50 border border-blue-200 rounded-lg">
+                <p className="text-blue-800 text-sm">{progress}</p>
               </div>
             )}
           </motion.div>
@@ -622,7 +636,11 @@ export default function Benchmark() {
                 <span>Export Results</span>
               </button>
             </div>
-            <ResultsVisualization results={results} benchmarkTypes={selectedBenchmarks} />
+            <ResultsVisualization 
+              results={results} 
+              benchmarkTypes={selectedBenchmarks} 
+              pipelineConfig={resultsPipelineConfig}
+            />
             <div className="mt-8 flex justify-center space-x-4">
               <button
                 onClick={() => {
